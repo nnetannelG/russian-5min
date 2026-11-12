@@ -1,0 +1,106 @@
+// Work, study, money, things and ideas, relatives
+де́ло|עניין, עסק|matter, business|nn|Как дела́ на рабо́те?|מה העניינים בעבודה?|How are things at work?
+вопро́с|שאלה|question|nm|У меня́ есть вопро́с.|יש לי שאלה.|I have a question.
+отве́т|תשובה|answer|nm|Я не зна́ю отве́та.|אני לא יודע את התשובה.|I don't know the answer.
+сло́во|מילה|word|nn|Я не зна́ю э́то сло́во.|אני לא מכיר את המילה הזאת.|I don't know this word.
+пробле́ма|בעיה|problem|nf|Э́то совсе́м не пробле́ма.|זו בכלל לא בעיה.|That is not a problem at all.
+по́мощь|עזרה|help|nf|Спаси́бо тебе́ за по́мощь!|תודה לך על העזרה!|Thank you for the help!
+сове́т|עצה|advice|nm|Мне ну́жен твой сове́т.|אני צריך את העצה שלך.|I need your advice.
+иде́я|רעיון|idea|nf|У меня́ есть отли́чная иде́я!|יש לי רעיון מצוין!|I have a great idea!
+план|תוכנית|plan|nm|Каки́е у тебя́ пла́ны на ве́чер?|מה התוכניות שלך לערב?|What are your plans for the evening?
+причи́на|סיבה|reason|nf|В чём причи́на?|מה הסיבה?|What is the reason?
+оши́бка|טעות|mistake|nf|Я де́лаю мно́го оши́бок.|אני עושה הרבה טעויות.|I make a lot of mistakes.
+приме́р|דוגמה|example|nm|Вот хоро́ший приме́р.|הנה דוגמה טובה.|Here is a good example.
+исто́рия|סיפור; היסטוריה|story; history|nf|Э́то о́чень дли́нная исто́рия.|זה סיפור ארוך מאוד.|That is a very long story.
+но́вость|חדשה, ידיעה|a piece of news|nf|У меня́ хоро́шая но́вость!|יש לי חדשה טובה!|I have good news!
+письмо́|מכתב|letter|nn|Я получи́л письмо́ от ба́бушки.|קיבלתי מכתב מסבתא.|I got a letter from grandma.
+сообще́ние|הודעה|message|nn|Я напишу́ тебе́ сообще́ние.|אכתוב לך הודעה.|I will text you.
+телефо́н|טלפון|phone|nm|Мой телефо́н разряди́лся.|הטלפון שלי התרוקן.|My phone has died.
+но́мер|מספר|number|nm|Како́й у тебя́ но́мер телефо́на?|מה מספר הטלפון שלך?|What is your phone number?
+компью́тер|מחשב|computer|nm|Я весь день рабо́таю за компью́тером.|אני עובד כל היום מול המחשב.|I work at the computer all day.
+интерне́т|אינטרנט|internet|nm|Здесь есть интерне́т?|יש כאן אינטרנט?|Is there internet here?
+фотогра́фия|תמונה, צילום|photo|nf|Покажи́ мне де́тские фотогра́фии.|תראי לי תמונות מהילדות.|Show me your childhood photos.
+фильм|סרט|film|nm|Э́то мой люби́мый фильм.|זה הסרט האהוב עליי.|This is my favorite film.
+му́зыка|מוזיקה|music|nf|Каку́ю му́зыку ты лю́бишь?|איזו מוזיקה אתה אוהב?|What music do you like?
+пе́сня|שיר|song|nf|Я зна́ю э́ту пе́сню!|אני מכיר את השיר הזה!|I know this song!
+кни́га|ספר|book|nf|Э́то о́чень интере́сная кни́га.|זה ספר מעניין מאוד.|This is a very interesting book.
+газе́та|עיתון|newspaper|nf|Я купи́л све́жую газе́ту.|קניתי עיתון טרי.|I bought today's newspaper.
+игра́|משחק|game|nf|Де́ти лю́бят э́ту игру́.|הילדים אוהבים את המשחק הזה.|The children love this game.
+уро́к|שיעור|lesson|nm|У меня́ сего́дня уро́к ру́сского.|יש לי היום שיעור רוסית.|I have a Russian lesson today.
+учи́тель|מורה|teacher|nm|Моя́ ма́ма учи́тель матема́тики.|אמא שלי מורה למתמטיקה.|My mom is a math teacher.
+студе́нт|סטודנט|student|nm|Её брат ещё студе́нт.|אח שלה עוד סטודנט.|Her brother is still a student.
+университе́т|אוניברסיטה|university|nm|Мы познако́мились в университе́те.|הכרנו באוניברסיטה.|We met at university.
+экза́мен|מבחן|exam|nm|За́втра у меня́ экза́мен.|מחר יש לי מבחן.|I have an exam tomorrow.
+профе́ссия|מקצוע|profession|nf|Кто вы по профе́ссии?|מה המקצוע שלכם?|What is your profession?
+инжене́р|מהנדס|engineer|nm|Мой оте́ц инжене́р.|אבי מהנדס.|My father is an engineer.
+программи́ст|מתכנת|programmer|nm|Я рабо́таю программи́стом.|אני עובד כמתכנת.|I work as a programmer.
+нача́льник|בוס, מנהל|boss|nm|Мой нача́льник сейча́с в о́тпуске.|הבוס שלי עכשיו בחופשה.|My boss is on vacation now.
+колле́га|עמית לעבודה|colleague|nm|Э́то мой колле́га Са́ша.|זה העמית שלי סשה.|This is my colleague Sasha.
+о́фис|משרד|office|nm|Я ещё в о́фисе.|אני עוד במשרד.|I am still at the office.
+компа́ния|חברה (עסק; חבורה)|company|nf|Я рабо́таю в большо́й компа́нии.|אני עובד בחברה גדולה.|I work for a big company.
+зарпла́та|משכורת|salary|nf|У него́ хоро́шая зарпла́та.|יש לו משכורת טובה.|He has a good salary.
+о́тпуск|חופשה|vacation|nm|Я в о́тпуске до понеде́льника.|אני בחופשה עד יום שני.|I am on vacation until Monday.
+встре́ча|פגישה|meeting|nf|У меня́ ва́жная встре́ча.|יש לי פגישה חשובה.|I have an important meeting.
+счёт|חשבון|bill; account|nm|Принеси́те счёт, пожа́луйста.|הביאו את החשבון, בבקשה.|Bring the bill, please.
+ка́рта|כרטיס; מפה|card; map|nf|Мо́жно заплати́ть ка́ртой?|אפשר לשלם בכרטיס?|Can I pay by card?
+рубль|רובל|ruble|nm|Э́то сто́ит сто рубле́й.|זה עולה מאה רובל.|It costs one hundred rubles.
+ше́кель|שקל|shekel|nm|У меня́ то́лько ше́кели.|יש לי רק שקלים.|I only have shekels.
+сда́ча|עודף|change (money)|nf|Вот ва́ша сда́ча.|הנה העודף שלכם.|Here is your change.
+кошелёк|ארנק|wallet|nm|Я забы́л кошелёк до́ма.|שכחתי את הארנק בבית.|I forgot my wallet at home.
+су́мка|תיק|bag|nf|Дава́й я понесу́ твою́ су́мку.|תני לי לסחוב את התיק שלך.|Let me carry your bag.
+докуме́нт|מסמך|document|nm|Не забу́дь взять докуме́нты.|אל תשכח לקחת את המסמכים.|Don't forget to take the documents.
+па́спорт|דרכון|passport|nm|Где мой па́спорт?|איפה הדרכון שלי?|Where is my passport?
+а́дрес|כתובת|address|nm|Напиши́ мне свой а́дрес.|תכתוב לי את הכתובת שלך.|Write me your address.
+о́чередь|תור|queue|nf|Здесь о́чень больша́я о́чередь.|יש כאן תור גדול מאוד.|There is a very long queue here.
+пода́рок|מתנה|present|nm|Я принёс вам пода́рок.|הבאתי לכם מתנה.|I brought you a present.
+вещь|דבר, חפץ|thing|nf|Собери́ свои́ ве́щи.|תאסוף את הדברים שלך.|Pack your things.
+часть|חלק|part|nf|Э́то то́лько часть исто́рии.|זה רק חלק מהסיפור.|That is only part of the story.
+коне́ц|סוף|end|nm|Уви́димся в конце́ неде́ли.|נתראה בסוף השבוע.|See you at the end of the week.
+нача́ло|התחלה|beginning|nn|Э́то то́лько нача́ло.|זו רק ההתחלה.|This is only the beginning.
+ме́сто|מקום|place|nn|Э́то моё люби́мое ме́сто.|זה המקום האהוב עליי.|This is my favorite place.
+сторона́|צד|side|nf|Я на твое́й стороне́.|אני בצד שלך.|I am on your side.
+вид|נוף, מראה; סוג|view; kind|nm|Из окна́ о́чень краси́вый вид.|מהחלון יש נוף יפה מאוד.|There is a very beautiful view from the window.
+цвет|צבע|color|nm|Како́й твой люби́мый цвет?|מה הצבע האהוב עלייך?|What is your favorite color?
+разме́р|מידה, גודל|size|nm|Како́й у тебя́ разме́р?|מה המידה שלך?|What is your size?
+число́|מספר; תאריך|number; date|nn|Како́е сего́дня число́?|מה התאריך היום?|What is the date today?
+полови́на|חצי|half|nf|Я съел то́лько полови́ну.|אכלתי רק חצי.|I ate only half.
+па́ра|זוג|pair, couple|nf|Они́ о́чень краси́вая па́ра.|הם זוג יפה מאוד.|They are a very beautiful couple.
+гру́ппа|קבוצה|group|nf|В на́шей гру́ппе де́сять челове́к.|בקבוצה שלנו יש עשרה אנשים.|There are ten people in our group.
+спи́сок|רשימה|list|nm|Я написа́л спи́сок поку́пок.|כתבתי רשימת קניות.|I wrote a shopping list.
+пра́вило|כלל|rule|nn|Э́то пра́вило на́до запо́мнить.|את הכלל הזה צריך לזכור.|This rule must be remembered.
+зако́н|חוק|law|nm|Э́то про́тив зако́на.|זה נגד החוק.|That is against the law.
+пра́во|זכות|right|nn|Ты не име́ешь пра́ва так говори́ть.|אין לך זכות לדבר ככה.|You have no right to talk like that.
+секре́т|סוד|secret|nm|Э́то наш с тобо́й секре́т.|זה הסוד שלי ושלך.|This is our secret, yours and mine.
+шу́тка|בדיחה|joke|nf|Э́то была́ про́сто шу́тка!|זו הייתה סתם בדיחה!|It was just a joke!
+смысл|משמעות, טעם|meaning, sense|nm|В э́том нет смы́сла.|אין בזה טעם.|There is no sense in that.
+цель|מטרה|goal|nf|Моя́ цель говори́ть по-ру́сски свобо́дно.|המטרה שלי לדבר רוסית שוטף.|My goal is to speak Russian fluently.
+вы́бор|בחירה, ברירה|choice|nm|У меня́ не́ было вы́бора.|לא הייתה לי ברירה.|I had no choice.
+шанс|סיכוי, הזדמנות|chance|nm|Дай мне ещё оди́н шанс.|תני לי עוד הזדמנות אחת.|Give me one more chance.
+о́пыт|ניסיון|experience|nm|У него́ большо́й о́пыт.|יש לו ניסיון רב.|He has a lot of experience.
+успе́х|הצלחה|success|nm|Жела́ю тебе́ успе́ха на экза́мене.|אני מאחל לך הצלחה במבחן.|I wish you success in the exam.
+уда́ча|מזל, הצלחה|luck|nf|Уда́чи тебе́ за́втра!|בהצלחה לך מחר!|Good luck tomorrow!
+слу́чай|מקרה|case, occasion|nm|На вся́кий слу́чай возьми́ зонт.|ליתר ביטחון קח מטרייה.|Take an umbrella just in case.
+ситуа́ция|מצב|situation|nf|Э́то о́чень сло́жная ситуа́ция.|זה מצב מסובך מאוד.|This is a very complicated situation.
+жизнь|חיים|life|nf|Така́я у нас жизнь.|כאלה החיים אצלנו.|Such is our life.
+смерть|מוות|death|nf|Он не бои́тся сме́рти.|הוא לא מפחד מהמוות.|He is not afraid of death.
+мир|עולם; שלום|world; peace|nm|Мы хоти́м жить в ми́ре.|אנחנו רוצים לחיות בשלום.|We want to live in peace.
+война́|מלחמה|war|nf|Де́душка по́мнит войну́.|סבא זוכר את המלחמה.|Grandpa remembers the war.
+лю́ди|אנשים|people|np|Здесь живу́т до́брые лю́ди.|כאן גרים אנשים טובים.|Kind people live here.
+сосе́д|שכן|neighbor|nm|Наш сосе́д о́чень шу́мный.|השכן שלנו רועש מאוד.|Our neighbor is very noisy.
+гость|אורח|guest|nm|У нас сего́дня го́сти.|יש לנו היום אורחים.|We have guests today.
+хозя́йка|בעלת הבית, מארחת|hostess|nf|Спаси́бо хозя́йке за у́жин!|תודה לבעלת הבית על הארוחה!|Thanks to the hostess for dinner!
+хозя́ин|בעל הבית, מארח|host, owner|nm|Хозя́ин до́ма о́чень гостеприи́мный.|בעל הבית מכניס אורחים מאוד.|The host is very hospitable.
+знако́мый|מכר; מוכר|acquaintance; familiar|a|Э́то мой ста́рый знако́мый.|זה מכר ותיק שלי.|This is an old acquaintance of mine.
+оте́ц|אב|father|nm|Его́ оте́ц рабо́тает врачо́м.|אבא שלו עובד כרופא.|His father works as a doctor.
+мать|אם|mother|nf|Она́ мать трои́х дете́й.|היא אם לשלושה ילדים.|She is a mother of three.
+дя́дя|דוד|uncle|nm|Мой дя́дя живёт в Петербу́рге.|הדוד שלי גר בפטרבורג.|My uncle lives in Petersburg.
+тётя|דודה|aunt|nf|Тётя Ле́на печёт вку́сные пироги́.|דודה לנה אופה פשטידות טעימות.|Aunt Lena bakes tasty pies.
+внук|נכד|grandson|nm|Ба́бушка ждёт вну́ков в го́сти.|סבתא מחכה שהנכדים יבואו לבקר.|Grandma is expecting her grandchildren to visit.
+вну́чка|נכדה|granddaughter|nf|Э́то моя́ вну́чка Ма́ша.|זו הנכדה שלי מאשה.|This is my granddaughter Masha.
+ро́дственник|קרוב משפחה|relative|nm|На сва́дьбе бы́ли все ро́дственники.|בחתונה היו כל קרובי המשפחה.|All the relatives were at the wedding.
+сва́дьба|חתונה|wedding|nf|На́ша сва́дьба бу́дет ле́том.|החתונה שלנו תהיה בקיץ.|Our wedding will be in summer.
+тёща|חמות (אם האישה)|mother-in-law (wife's mother)|nf|Моя́ тёща о́чень вку́сно гото́вит.|חמותי מבשלת טעים מאוד.|My mother-in-law cooks very well.
+тесть|חם (אבי האישה)|father-in-law (wife's father)|nm|Мой тесть лю́бит рыба́лку.|חמי אוהב דיג.|My father-in-law loves fishing.
+свекро́вь|חמות (אם הבעל)|mother-in-law (husband's mother)|nf|Свекро́вь зовёт нас на обе́д.|החמות מזמינה אותנו לארוחת צהריים.|My mother-in-law is inviting us for lunch.
+жени́х|חתן; ארוס|groom; fiancé|nm|Э́то жени́х мое́й сестры́.|זה החתן של אחותי.|This is my sister's fiancé.
+неве́ста|כלה; ארוסה|bride; fiancée|nf|Кака́я краси́вая неве́ста!|איזו כלה יפה!|What a beautiful bride!

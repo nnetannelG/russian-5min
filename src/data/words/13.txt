@@ -1,0 +1,107 @@
+// More verbs: relationships, feelings, plans, money, getting by
+стать|להיות ל-, להיעשות|to become|v|Она́ хо́чет стать врачо́м.|היא רוצה להיות רופאה.|She wants to become a doctor.
+станови́ться|להיעשות, להפוך|to become (gradually)|v|Стано́вится хо́лодно.|נהיה קר.|It is getting cold.
+остава́ться|להישאר (באופן קבוע)|to remain, to stay|v|Я остаю́сь до́ма.|אני נשאר בבית.|I am staying at home.
+появи́ться|להופיע|to appear|v|У нас появи́лась но́вая сосе́дка.|הופיעה אצלנו שכנה חדשה.|We have got a new neighbor.
+исче́знуть|להיעלם|to disappear|v|Куда́ ты исче́з?|לאן נעלמת?|Where did you disappear to?
+име́ть|להיות בעל, להחזיק|to have, to own|v|Э́то не име́ет значе́ния.|אין לזה חשיבות.|It doesn't matter.
+хвата́ть|להספיק|to be enough|v|Мне не хвата́ет вре́мени.|לא מספיק לי הזמן.|I don't have enough time.
+меша́ть|להפריע; לערבב|to disturb; to stir|v|Я тебе́ не меша́ю?|אני לא מפריע לך?|Am I disturbing you?
+разреши́ть|להרשות|to allow|v|Ма́ма разреши́ла нам погуля́ть.|אמא הרשתה לנו לצאת לטייל.|Mom allowed us to go for a walk.
+запрети́ть|לאסור|to forbid|v|Врач запрети́л ему́ кури́ть.|הרופא אסר עליו לעשן.|The doctor forbade him to smoke.
+заста́вить|להכריח|to force|v|Никто́ тебя́ не заставля́ет.|אף אחד לא מכריח אותך.|Nobody is forcing you.
+проси́ть|לבקש|to ask (for)|v|Я прошу́ тебя́, оста́нься.|אני מבקש ממך, תישארי.|I am asking you, stay.
+попроси́ть|לבקש (פעם אחת)|to ask (once)|v|Мо́жно тебя́ попроси́ть о по́мощи?|אפשר לבקש ממך עזרה?|May I ask you for help?
+сове́товать|לייעץ|to advise|v|Что ты мне сове́туешь?|מה אתה מייעץ לי?|What do you advise me?
+предупреди́ть|להזהיר, להודיע מראש|to warn|v|Почему́ ты меня́ не предупреди́л?|למה לא הזהרת אותי?|Why didn't you warn me?
+напо́мнить|להזכיר|to remind|v|Напо́мни мне за́втра, пожа́луйста.|תזכיר לי מחר, בבקשה.|Remind me tomorrow, please.
+сообщи́ть|להודיע|to inform|v|Сообщи́, когда́ прие́дешь.|תודיע כשתגיע.|Let me know when you arrive.
+переда́ть|להעביר, למסור|to pass, to hand over|v|Переда́й э́то ма́ме.|תמסור את זה לאמא.|Pass this to mom.
+обсуди́ть|לדון|to discuss|v|Дава́й обсу́дим э́то за́втра.|בוא נדון בזה מחר.|Let's discuss it tomorrow.
+договори́ться|להסכים, לסכם|to agree, to arrange|v|Мы договори́лись встре́титься в шесть.|סיכמנו להיפגש בשש.|We agreed to meet at six.
+поговори́ть|לשוחח|to have a talk|v|Нам на́до поговори́ть.|אנחנו צריכים לדבר.|We need to talk.
+болта́ть|לפטפט|to chat|v|Мы болта́ли всю ночь.|פטפטנו כל הלילה.|We chatted all night.
+шути́ть|להתבדח|to joke|v|Ты шу́тишь?|אתה צוחק?|Are you joking?
+врать|לשקר|to lie|v|Не ври мне!|אל תשקר לי!|Don't lie to me!
+руга́ться|לריב, לקלל|to quarrel, to swear|v|Не на́до руга́ться при де́тях.|לא צריך לריב ליד הילדים.|Don't quarrel in front of the children.
+крича́ть|לצעוק|to shout|v|Не кричи́ на меня́!|אל תצעק עליי!|Don't shout at me!
+молча́ть|לשתוק|to be silent|v|Почему́ ты молчи́шь?|למה אתה שותק?|Why are you silent?
+звуча́ть|להישמע|to sound|v|Э́то звучи́т интере́сно.|זה נשמע מעניין.|That sounds interesting.
+па́хнуть|להריח (להדיף ריח)|to smell (of)|v|Как вку́сно па́хнет!|איזה ריח טעים!|How good it smells!
+вы́глядеть|להיראות|to look (appear)|v|Ты отли́чно вы́глядишь!|אתה נראה מצוין!|You look great!
+зави́сеть|להיות תלוי|to depend|v|Э́то зави́сит от пого́ды.|זה תלוי במזג האוויר.|It depends on the weather.
+каса́ться|לגעת; להתייחס ל-|to touch; to concern|v|Э́то тебя́ не каса́ется.|זה לא נוגע לך.|That doesn't concern you.
+интересова́ться|להתעניין|to be interested in|v|Я интересу́юсь ру́сской культу́рой.|אני מתעניין בתרבות הרוסית.|I am interested in Russian culture.
+занима́ться|לעסוק, להתאמן, ללמוד|to do, to practice, to study|v|Чем ты занима́ешься?|במה אתה עוסק?|What do you do?
+по́льзоваться|להשתמש|to use|v|Я по́льзуюсь э́тим приложе́нием ка́ждый день.|אני משתמש באפליקציה הזאת כל יום.|I use this app every day.
+ра́доваться|לשמוח|to be glad, to rejoice|v|Я ра́дуюсь ка́ждой встре́че.|אני שמח בכל פגישה.|I am glad of every meeting.
+удивля́ться|להתפלא|to be surprised|v|Я ничему́ не удивля́юсь.|אני לא מתפלא משום דבר.|Nothing surprises me.
+сомнева́ться|לפקפק|to doubt|v|Я в э́том не сомнева́юсь.|אני לא מפקפק בזה.|I don't doubt it.
+жа́ловаться|להתלונן|to complain|v|Он никогда́ не жа́луется.|הוא אף פעם לא מתלונן.|He never complains.
+пережива́ть|לדאוג, להתרגש|to worry, to be upset|v|Не пережива́й, всё полу́чится.|אל תדאג, הכול יסתדר.|Don't worry, it will all work out.
+беспоко́иться|להיות מודאג|to be anxious|v|Ма́ма о тебе́ беспоко́ится.|אמא מודאגת בגללך.|Mom is worried about you.
+успоко́иться|להירגע|to calm down|v|Успоко́йся, всё в поря́дке.|תירגע, הכול בסדר.|Calm down, everything is fine.
+расстро́иться|להתבאס, להצטער|to get upset|v|Она́ о́чень расстро́илась.|היא מאוד התבאסה.|She got very upset.
+оби́деть|להעליב, לפגוע|to offend|v|Я не хоте́л тебя́ оби́деть.|לא רציתי לפגוע בך.|I did not mean to offend you.
+оби́деться|להיעלב|to take offense|v|Ты на меня́ оби́делась?|נעלבת ממני?|Are you offended with me?
+зли́ться|לכעוס|to be angry|v|Не зли́сь на меня́.|אל תכעסי עליי.|Don't be angry with me.
+ревнова́ть|לקנא (באהבה)|to be jealous|v|Он ревну́ет её к друзья́м.|הוא מקנא לה בגלל החברים.|He is jealous of her friends.
+влюби́ться|להתאהב|to fall in love|v|Я влюби́лся с пе́рвого взгля́да.|התאהבתי ממבט ראשון.|I fell in love at first sight.
+расста́ться|להיפרד|to break up, to part|v|Они́ расста́лись год наза́д.|הם נפרדו לפני שנה.|They broke up a year ago.
+развести́сь|להתגרש|to get divorced|v|Его́ роди́тели развели́сь.|ההורים שלו התגרשו.|His parents got divorced.
+вы́йти за́муж|להתחתן (על אישה)|to get married (of a woman)|v|Она́ вы́шла за́муж в про́шлом году́.|היא התחתנה בשנה שעברה.|She got married last year.
+поссо́риться|לריב|to have a quarrel|v|Мы поссо́рились из-за ерунды́.|רבנו בגלל שטות.|We quarreled over nothing.
+помири́ться|להתפייס|to make up|v|Дава́й помири́мся!|בואי נתפייס!|Let's make up!
+доверя́ть|לבטוח, לתת אמון|to trust|v|Я тебе́ по́лностью доверя́ю.|אני בוטח בך לגמרי.|I trust you completely.
+забо́титься|לדאוג ל-, לטפל|to take care of|v|Она́ забо́тится о ба́бушке.|היא מטפלת בסבתא.|She takes care of grandma.
+воспи́тывать|לחנך, לגדל|to bring up|v|Они́ воспи́тывают трои́х дете́й.|הם מגדלים שלושה ילדים.|They are raising three children.
+защища́ть|להגן|to protect|v|Ста́рший брат всегда́ меня́ защища́л.|אחי הגדול תמיד הגן עליי.|My older brother always protected me.
+спасти́|להציל|to save, to rescue|v|Ты меня́ про́сто спас!|פשוט הצלת אותי!|You simply saved me!
+лечи́ть|לרפא, לטפל|to treat (medically)|v|Чем ты ле́чишь просту́ду?|במה אתה מטפל בהצטננות?|What do you treat a cold with?
+заболе́ть|לחלות|to fall ill|v|Ка́жется, я заболе́л.|נראה לי שחליתי.|It seems I have fallen ill.
+ка́шлять|להשתעל|to cough|v|Ребёнок ка́шляет всю ночь.|הילד משתעל כל הלילה.|The child has been coughing all night.
+дыша́ть|לנשום|to breathe|v|Дыши́те глубоко́.|תנשמו עמוק.|Breathe deeply.
+дви́гаться|לזוז, לנוע|to move|v|Не дви́гайся, я фотографи́рую!|אל תזוז, אני מצלם!|Don't move, I am taking a photo!
+останови́ться|לעצור, להיעצר|to stop|v|Останови́тесь здесь, пожа́луйста.|עצרו כאן, בבקשה.|Stop here, please.
+поверну́ть|לפנות|to turn|v|Поверни́те нале́во у светофо́ра.|פנו שמאלה ברמזור.|Turn left at the traffic light.
+перейти́|לחצות, לעבור|to cross|v|Нам на́до перейти́ у́лицу.|אנחנו צריכים לחצות את הרחוב.|We need to cross the street.
+подойти́|לגשת|to come up to|v|Подойди́ ко мне на мину́ту.|גש אליי לרגע.|Come over to me for a minute.
+пройти́|לעבור|to pass, to go through|v|Как пройти́ к метро́?|איך מגיעים למטרו?|How do I get to the metro?
+добра́ться|להגיע (בסוף)|to get to, to reach|v|Как вы добра́лись?|איך הגעתם?|How was your trip here?
+заблуди́ться|ללכת לאיבוד|to get lost|v|Ка́жется, мы заблуди́лись.|נראה שהלכנו לאיבוד.|It seems we have got lost.
+проводи́ть|ללוות|to see off, to walk someone|v|Я провожу́ тебя́ до до́ма.|אלווה אותך עד הבית.|I will walk you home.
+встреча́ть|לפגוש, לקבל פני|to meet, to greet|v|Нас встреча́ли в аэропорту́.|קיבלו את פנינו בשדה התעופה.|We were met at the airport.
+провести́|לבלות (זמן)|to spend (time)|v|Мы отли́чно провели́ вре́мя!|בילינו מצוין!|We had a great time!
+тра́тить|לבזבז, להוציא|to spend (money, time)|v|Ты тра́тишь сли́шком мно́го де́нег.|אתה מוציא יותר מדי כסף.|You spend too much money.
+эконо́мить|לחסוך|to save (money)|v|Мы эконо́мим на о́тпуск.|אנחנו חוסכים לחופשה.|We are saving up for a vacation.
+зараба́тывать|להרוויח|to earn|v|Он хорошо́ зараба́тывает.|הוא מרוויח טוב.|He earns well.
+одолжи́ть|להלוות|to lend|v|Одолжи́ мне сто рубле́й.|תלווה לי מאה רובל.|Lend me a hundred rubles.
+верну́ть|להחזיר|to give back|v|Я верну́ де́ньги за́втра.|אחזיר את הכסף מחר.|I will return the money tomorrow.
+заказа́ть|להזמין (מנה, שירות)|to order|v|Дава́й зака́жем пи́ццу.|בוא נזמין פיצה.|Let's order pizza.
+заброни́ровать|להזמין מקום|to book, to reserve|v|Я заброни́ровал сто́лик на во́семь.|הזמנתי שולחן לשמונה.|I booked a table for eight.
+отмени́ть|לבטל|to cancel|v|Рейс отмени́ли из-за пого́ды.|הטיסה בוטלה בגלל מזג האוויר.|The flight was canceled because of the weather.
+перенести́|לדחות, להעביר|to postpone, to move|v|Дава́й перенесём встре́чу на за́втра.|בוא נדחה את הפגישה למחר.|Let's move the meeting to tomorrow.
+прове́рить|לבדוק|to check|v|Прове́рь, закры́та ли дверь.|תבדוק אם הדלת סגורה.|Check whether the door is locked.
+испра́вить|לתקן (טעות)|to correct|v|Испра́вь меня́, е́сли я ошиба́юсь.|תתקני אותי אם אני טועה.|Correct me if I am wrong.
+измени́ть|לשנות|to change|v|Я ничего́ не могу́ измени́ть.|אני לא יכול לשנות כלום.|I can't change anything.
+измени́ться|להשתנות|to change (oneself)|v|Ты совсе́м не измени́лась!|לא השתנית בכלל!|You have not changed at all!
+приду́мать|להמציא, לחשוב על|to think up|v|Я приду́мал, что подари́ть ма́ме.|חשבתי מה לתת לאמא במתנה.|I have thought of what to give mom.
+предста́вить|לדמיין; להציג|to imagine; to introduce|v|Разреши́те предста́вить мою́ жену́.|תרשו לי להציג את אשתי.|Allow me to introduce my wife.
+сравни́ть|להשוות|to compare|v|Нельзя́ сравни́ть э́ти города́.|אי אפשר להשוות בין הערים האלה.|You can't compare these cities.
+вы́играть|לנצח, לזכות|to win|v|На́ша кома́нда вы́играла!|הקבוצה שלנו ניצחה!|Our team won!
+проигра́ть|להפסיד|to lose (a game)|v|Мы проигра́ли со счётом два оди́н.|הפסדנו שתיים אחת.|We lost two to one.
+уча́ствовать|להשתתף|to take part|v|Я не хочу́ в э́том уча́ствовать.|אני לא רוצה להשתתף בזה.|I don't want to take part in that.
+гото́виться|להתכונן|to prepare (oneself)|v|Я гото́влюсь к экза́мену.|אני מתכונן למבחן.|I am preparing for the exam.
+собира́ться|להתכונן, להתכוון; להתאסף|to be going to; to gather|v|Что ты собира́ешься де́лать?|מה אתה מתכוון לעשות?|What are you going to do?
+плани́ровать|לתכנן|to plan|v|Мы плани́руем сва́дьбу на ле́то.|אנחנו מתכננים חתונה לקיץ.|We are planning the wedding for summer.
+привы́кнуть|להתרגל|to get used to|v|Я уже́ привы́к к хо́лоду.|כבר התרגלתי לקור.|I have already got used to the cold.
+терпе́ть|לסבול|to bear, to stand|v|Я терпе́ть не могу́ про́бки.|אני לא סובל פקקים.|I can't stand traffic jams.
+спра́виться|להתמודד, להסתדר|to cope, to manage|v|Не волну́йся, я спра́влюсь.|אל תדאגי, אני אסתדר.|Don't worry, I will manage.
+ре́зать|לחתוך|to cut|v|Я ре́жу о́вощи для сала́та.|אני חותך ירקות לסלט.|I am cutting vegetables for the salad.
+доба́вить|להוסיף|to add|v|Доба́вь немно́го со́ли.|תוסיף קצת מלח.|Add a little salt.
+смеша́ть|לערבב|to mix|v|Смеша́й я́йца и муку́.|תערבב ביצים וקמח.|Mix the eggs and flour.
+пода́ть|להגיש|to serve, to hand|v|Пода́й мне, пожа́луйста, полоте́нце.|תגיש לי בבקשה מגבת.|Hand me the towel, please.
+убра́ть|לפנות, לסדר|to clear away, to tidy|v|Я уберу́ со стола́.|אני אפנה את השולחן.|I will clear the table.
+вы́бросить|לזרוק לפח|to throw away|v|Вы́брось э́то в му́сор.|תזרוק את זה לפח.|Throw this in the rubbish.
+пове́сить|לתלות|to hang up|v|Пове́сь ку́ртку в шкаф.|תתלה את המעיל בארון.|Hang the jacket in the wardrobe.
+нажа́ть|ללחוץ|to press|v|Нажми́ сюда́, что́бы откры́ть.|תלחץ כאן כדי לפתוח.|Press here to open.

@@ -1,0 +1,107 @@
+// Holidays, hospitality, toasts, polite phrases, words of affection
+день рожде́ния|יום הולדת|birthday|nm|Когда́ у тебя́ день рожде́ния?|מתי יש לך יום הולדת?|When is your birthday?
+с днём рожде́ния|יום הולדת שמח|happy birthday|x|С днём рожде́ния, дорога́я!|יום הולדת שמח, יקרה!|Happy birthday, dear!
+Но́вый год|השנה החדשה|New Year|nm|Где вы встреча́ете Но́вый год?|איפה אתם חוגגים את השנה החדשה?|Where are you celebrating New Year?
+с Но́вым го́дом|שנה טובה|Happy New Year|x|С Но́вым го́дом, друзья́!|שנה טובה, חברים!|Happy New Year, friends!
+Рождество́|חג המולד|Christmas|nn|В Росси́и Рождество́ в январе́.|ברוסיה חג המולד בינואר.|In Russia Christmas is in January.
+Па́сха|פסחא; פסח|Easter; Passover|nf|На Па́сху мы е́дем к роди́телям.|בפסח אנחנו נוסעים להורים.|At Easter we go to my parents'.
+поздравля́ть|לברך|to congratulate|v|Поздравля́ю вас с пра́здником!|אני מברך אתכם לרגל החג!|Happy holiday to you!
+жела́ть|לאחל|to wish|v|Жела́ю вам здоро́вья и сча́стья!|אני מאחל לכם בריאות ואושר!|I wish you health and happiness!
+тост|טוסט, הרמת כוסית|toast|nm|Я хочу́ сказа́ть тост.|אני רוצה להרים כוסית.|I want to make a toast.
+до дна|עד הסוף (בשתייה)|bottoms up|x|Пьём до дна!|שותים עד הסוף!|Bottoms up!
+го́рько|מר (קריאה בחתונה)|bitter (wedding chant)|d|Го́сти на сва́дьбе крича́т го́рько.|האורחים בחתונה צועקים "מר".|The wedding guests shout "bitter".
+будь здоро́в|לבריאות|bless you|x|Будь здоро́в, не боле́й!|לבריאות, אל תהיה חולה!|Bless you, don't get ill!
+споко́йной но́чи|לילה טוב|good night|x|Споко́йной но́чи, сла́дких снов!|לילה טוב, חלומות מתוקים!|Good night, sweet dreams!
+до́брое у́тро|בוקר טוב|good morning|x|До́брое у́тро! Как спало́сь?|בוקר טוב! איך ישנת?|Good morning! How did you sleep?
+как дела́|מה נשמע|how are things|x|Приве́т, как дела́ у ма́мы?|היי, מה שלום אמא?|Hi, how is your mom doing?
+что но́вого|מה חדש|what's new|x|Ну, что но́вого?|נו, מה חדש?|So, what's new?
+всё в поря́дке|הכול בסדר|everything is fine|x|Не волну́йся, всё в поря́дке.|אל תדאג, הכול בסדר.|Don't worry, everything is fine.
+поря́док|סדר|order|nm|У неё до́ма всегда́ поря́док.|אצלה בבית תמיד סדר.|Her home is always tidy.
+не́ за что|על לא דבר|don't mention it|x|Не́ за что, приходи́те ещё!|על לא דבר, בואו שוב!|Don't mention it, come again!
+ничего́ стра́шного|לא נורא|no big deal|x|Ничего́ стра́шного, быва́ет.|לא נורא, קורה.|No big deal, it happens.
+с удово́льствием|בשמחה|with pleasure|x|С удово́льствием приду́!|אבוא בשמחה!|I will come with pleasure!
+удово́льствие|הנאה, עונג|pleasure|nn|Како́е удово́льствие вас ви́деть!|איזה עונג לראות אתכם!|What a pleasure to see you!
+добро́ пожа́ловать|ברוכים הבאים|welcome|x,polite|Добро́ пожа́ловать в наш дом!|ברוכים הבאים לביתנו!|Welcome to our home!
+проходи́те|היכנסו, תתקדמו|come in|x,polite|Проходи́те, не стесня́йтесь!|היכנסו, אל תתביישו!|Come in, don't be shy!
+чу́вствуйте себя́ как до́ма|תרגישו בבית|make yourself at home|x,polite|Раздева́йтесь и чу́вствуйте себя́ как до́ма.|תורידו מעילים ותרגישו בבית.|Take off your coats and make yourselves at home.
+угоща́йтесь|התכבדו|help yourself|x,polite|Угоща́йтесь, всё дома́шнее!|התכבדו, הכול תוצרת בית!|Help yourselves, everything is homemade!
+прия́тно познако́миться|נעים להכיר|nice to meet you|x,polite|Мне о́чень прия́тно познако́миться с ва́ми.|נעים לי מאוד להכיר אתכם.|It is very nice to meet you.
+взаи́мно|גם לי, הדדי|likewise|d|Спаси́бо, взаи́мно!|תודה, גם לי!|Thank you, likewise!
+передава́й приве́т|תמסור דרישת שלום|say hello (to)|x|Передава́й приве́т роди́телям!|תמסור דרישת שלום להורים!|Say hello to your parents!
+до встре́чи|להתראות, עד הפגישה|see you|x|До встре́чи в суббо́ту!|להתראות בשבת!|See you on Saturday!
+до за́втра|נתראה מחר|see you tomorrow|x|Мне пора́, до за́втра!|אני חייב לזוז, נתראה מחר!|I have to go, see you tomorrow!
+уви́димся|נתראה|see you|x|Уви́димся на выходны́х!|נתראה בסוף השבוע!|See you at the weekend!
+счастли́во|כל טוב, ביי|all the best, bye|x,slang|Счастли́во, звони́!|כל טוב, תתקשר!|All the best, call me!
+береги́ себя́|שמור על עצמך|take care|x|Пока́, береги́ себя́!|ביי, שמור על עצמך!|Bye, take care!
+дорого́й|יקר|dear; expensive|a,aff|Дорого́й, ты уже́ до́ма?|יקירי, אתה כבר בבית?|Dear, are you home already?
+люби́мый|אהוב|beloved; favorite|a,aff|Люби́мая, я так скуча́л!|אהובה, כל כך התגעגעתי!|Darling, I missed you so much!
+родно́й|יקר, קרוב ללב|dear, one's own|a,aff|Родны́е мои́, как я вам ра́да!|יקרים שלי, כמה אני שמחה לראות אתכם!|My dear ones, how glad I am to see you!
+со́лнышко|שמש קטנה (כינוי חיבה)|sunshine (pet name)|nn,aff,t:dimin|До́брое у́тро, со́лнышко!|בוקר טוב, שמש שלי!|Good morning, sunshine!
+за́йка|ארנבון (כינוי חיבה)|bunny (pet name)|nf,aff|За́йка, ты уже́ поку́шала?|ארנבונת, כבר אכלת?|Bunny, have you eaten yet?
+ко́тик|חתלתול (כינוי חיבה)|kitty (pet name)|nm,aff|Ко́тик, иди́ ко мне!|חתלתול, בוא אליי!|Kitty, come to me!
+малы́ш|קטנצ'יק, תינוק|little one, baby|nm,aff|Наш малы́ш уже́ спит.|הקטן שלנו כבר ישן.|Our little one is already asleep.
+краса́вица|יפהפייה|a beauty|nf,aff|Кака́я ты у меня́ краса́вица!|איזו יפהפייה את!|What a beauty you are!
+у́мница|חכמה שלי, כל הכבוד|clever one, well done|nf,aff|Ты у меня́ така́я у́мница!|את כזאת חכמה שלי!|You are such a clever one!
+молоде́ц|כל הכבוד|well done|nm|Молоде́ц, ты отли́чно говори́шь!|כל הכבוד, אתה מדבר מצוין!|Well done, you speak excellently!
+бабу́ля|סבתוש|granny|nf,aff|Бабу́ля, я тебя́ о́чень люблю́!|סבתוש, אני אוהב אותך מאוד!|Granny, I love you very much!
+деду́ля|סבא'לה|grandpa (fond)|nm,aff|Деду́ля, расскажи́ исто́рию!|סבא'לה, ספר סיפור!|Grandpa, tell us a story!
+ма́мочка|אמא'לה|mommy|nf,aff|Ма́мочка, спаси́бо за всё!|אמא'לה, תודה על הכול!|Mommy, thank you for everything!
+сыно́к|בני, בן שלי|sonny|nm,aff|Сыно́к, ты уже́ поку́шал?|בני, כבר אכלת?|Sonny, have you eaten yet?
+до́ченька|בתי, בת שלי|dear daughter|nf,aff|До́ченька, позвони́ ба́бушке.|בתי, תתקשרי לסבתא.|Dear daughter, call grandma.
+та́почки|נעלי בית|slippers|np|Вот та́почки, надева́й.|הנה נעלי בית, תנעל.|Here are slippers, put them on.
+в го́сти|לביקור (אצל מישהו)|on a visit|d|В суббо́ту мы идём в го́сти.|בשבת אנחנו הולכים לבקר חברים.|On Saturday we are going to visit friends.
+засто́лье|סעודה חגיגית|festive meal|nn|У нас сего́дня большо́е засто́лье.|יש לנו היום סעודה גדולה.|We are having a big festive meal today.
+заку́ска|מתאבן, נשנוש|appetizer, snack|nf|На столе́ мно́го заку́сок.|על השולחן יש הרבה מתאבנים.|There are many appetizers on the table.
+рю́мка|כוסית|shot glass|nf|Дава́йте ещё по одно́й рю́мке.|בואו עוד כוסית אחת.|Let's have one more shot.
+бока́л|גביע, כוס יין|wine glass|nm|Подними́те бока́лы за молоды́х!|הרימו כוסות לחיי הזוג הצעיר!|Raise your glasses to the newlyweds!
+шампа́нское|שמפניה|champagne|nn|На Но́вый год пьют шампа́нское.|בשנה החדשה שותים שמפניה.|People drink champagne at New Year.
+оливье́|סלט אוליבייה|Olivier salad|nn|Ма́ма де́лает оливье́ на Но́вый год.|אמא מכינה אוליבייה לשנה החדשה.|Mom makes Olivier salad for New Year.
+селёдка|דג מלוח|herring|nf|Селёдка под шу́бой моё люби́мое блю́до.|דג מלוח "מתחת למעיל" הוא המנה האהובה עליי.|Herring "under a fur coat" is my favorite dish.
+икра́|קוויאר|caviar|nf|Хо́чешь бутербро́д с кра́сной икро́й?|רוצה כריך עם קוויאר אדום?|Do you want a sandwich with red caviar?
+шашлы́к|שישליק|shashlik, kebab|nm|Ле́том мы жа́рим шашлыки́ на да́че.|בקיץ אנחנו צולים שישליק בדאצ'ה.|In summer we grill shashlik at the dacha.
+квас|קוואס|kvass|nm|Ле́том хорошо́ пить холо́дный квас.|בקיץ טוב לשתות קוואס קר.|In summer it is good to drink cold kvass.
+компо́т|קומפוט|compote|nm|Ба́бушка свари́ла компо́т.|סבתא בישלה קומפוט.|Grandma made compote.
+варе́нье|ריבה|jam|nn|Я люблю́ чай с мали́новым варе́ньем.|אני אוהב תה עם ריבת פטל.|I love tea with raspberry jam.
+мёд|דבש|honey|nm|Чай с мёдом о́чень поле́зен.|תה עם דבש בריא מאוד.|Tea with honey is very healthy.
+ба́ня|בניה, סאונה רוסית|Russian bathhouse|nf|По суббо́там мы хо́дим в ба́ню.|בשבתות אנחנו הולכים לבניה.|On Saturdays we go to the bathhouse.
+да́ча|דאצ'ה, בית קיץ|dacha, country house|nf|Ле́том вся семья́ на да́че.|בקיץ כל המשפחה בדאצ'ה.|In summer the whole family is at the dacha.
+огоро́д|גינת ירק|vegetable garden|nm|Ба́бушка рабо́тает в огоро́де.|סבתא עובדת בגינת הירק.|Grandma is working in the vegetable garden.
+сад|גן|garden|nm|В саду́ расту́т я́блони.|בגן גדלים עצי תפוח.|Apple trees grow in the garden.
+цвето́к|פרח|flower|nm|Я принёс тебе́ цветы́.|הבאתי לך פרחים.|I brought you flowers.
+буке́т|זר|bouquet|nm|Како́й краси́вый буке́т!|איזה זר יפה!|What a beautiful bouquet!
+откры́тка|גלויה, כרטיס ברכה|greeting card|nf|Я подписа́л откры́тку для ба́бушки.|חתמתי על כרטיס ברכה לסבתא.|I signed a card for grandma.
+сюрпри́з|הפתעה|surprise|nm|У меня́ для тебя́ сюрпри́з!|יש לי הפתעה בשבילך!|I have a surprise for you!
+пра́здновать|לחגוג|to celebrate|v|Как вы пра́зднуете Но́вый год?|איך אתם חוגגים את השנה החדשה?|How do you celebrate New Year?
+отмеча́ть|לציין, לחגוג|to celebrate, to mark|v|Мы отмеча́ем день рожде́ния до́ма.|אנחנו חוגגים את יום ההולדת בבית.|We are celebrating the birthday at home.
+дари́ть|לתת במתנה|to give as a present|v|Что обы́чно да́рят на сва́дьбу?|מה נותנים בדרך כלל במתנה לחתונה?|What do people usually give for a wedding?
+угоща́ть|לכבד (באוכל ושתייה)|to treat (to food)|v|Сего́дня я всех угоща́ю!|היום אני מזמין את כולם!|Today it is my treat for everyone!
+налива́ть|למזוג|to pour (ongoing)|v|Налива́й, не стесня́йся!|תמזוג, אל תתבייש!|Pour, don't be shy!
+вкусня́тина|מעדן, טעים בטירוף|something yummy|nf,slang|Ма́мины блины́ про́сто вкусня́тина!|הבליני של אמא פשוט מעדן!|Mom's blini are simply yummy!
+доба́вка|מנה נוספת|second helping|nf|Мо́жно мне ещё доба́вки?|אפשר לקבל עוד מנה?|May I have a second helping?
+реце́пт|מתכון|recipe|nm|Да́йте мне реце́пт э́того пирога́!|תנו לי את המתכון של הפשטידה הזאת!|Give me the recipe for this pie!
+тради́ция|מסורת|tradition|nf|Э́то на́ша семе́йная тради́ция.|זו המסורת המשפחתית שלנו.|This is our family tradition.
+уважа́ть|לכבד|to respect|v|Я о́чень уважа́ю твоего́ отца́.|אני מכבד מאוד את אביך.|I respect your father very much.
+о́тчество|שם האב|patronymic|nn,t:patronym|Как ва́ше и́мя и о́тчество?|מה השם ושם האב שלכם?|What is your name and patronymic?
+фами́лия|שם משפחה|surname|nf|Как пи́шется ва́ша фами́лия?|איך כותבים את שם המשפחה שלכם?|How do you spell your surname?
+во́зраст|גיל|age|nm|В его́ во́зрасте э́то норма́льно.|בגילו זה נורמלי.|At his age that is normal.
+юбиле́й|יום הולדת עגול, יובל|jubilee, big birthday|nm|У де́душки за́втра юбиле́й.|לסבא יש מחר יום הולדת עגול.|Grandpa has a big birthday tomorrow.
+годовщи́на|יום נישואין, יום שנה|anniversary|nf|Сего́дня годовщи́на на́шей сва́дьбы.|היום יום הנישואין שלנו.|Today is our wedding anniversary.
+кани́кулы|חופשה מהלימודים|school holidays|np|На кани́кулы де́ти е́дут к ба́бушке.|בחופשה הילדים נוסעים לסבתא.|For the holidays the children go to grandma's.
+ёлка|עץ אשוח של השנה החדשה|New Year tree|nf|Мы наряжа́ем ёлку всей семьёй.|אנחנו מקשטים את העץ כל המשפחה.|The whole family decorates the tree together.
+Дед Моро́з|סבא כפור|Father Frost|nm|Дед Моро́з принёс пода́рки.|סבא כפור הביא מתנות.|Father Frost brought presents.
+салю́т|זיקוקים|fireworks|nm|Пойдём смотре́ть салю́т!|בוא נלך לראות זיקוקים!|Let's go and watch the fireworks!
+жела́ние|משאלה, רצון|wish, desire|nn|Загада́й жела́ние и заду́й све́чи.|תביע משאלה ותכבה את הנרות.|Make a wish and blow out the candles.
+благодари́ть|להודות|to thank|v|Благодарю́ вас за гостеприи́мство.|אני מודה לכם על הכנסת האורחים.|Thank you for your hospitality.
+ве́жливый|מנומס|polite|a|Он о́чень ве́жливый молодо́й челове́к.|הוא בחור צעיר מנומס מאוד.|He is a very polite young man.
+бу́дьте добры́|תואילו בטובכם|would you be so kind|x,polite|Бу́дьте добры́, переда́йте хлеб.|תואילו בטובכם להעביר את הלחם.|Would you be so kind as to pass the bread.
+разреши́те|תרשו לי|allow me|x,polite|Разреши́те вам помо́чь.|תרשו לי לעזור לכם.|Allow me to help you.
+прости́те|סלחו לי (מנומס)|forgive me (polite)|x,polite|Прости́те, я не расслы́шал.|סליחה, לא שמעתי טוב.|Sorry, I did not catch that.
+не волну́йтесь|אל תדאגו|don't worry (polite)|x,polite|Не волну́йтесь, я всё сде́лаю.|אל תדאגו, אני אעשה הכול.|Don't worry, I will do everything.
+за здоро́вье|לחיים, לבריאות (טוסט)|to health (toast)|x,t:toast|Вы́пьем за здоро́вье роди́телей!|נשתה לחיי ההורים!|Let's drink to our parents' health!
+ую́тный|נעים, ביתי|cozy|a|У вас о́чень ую́тный дом.|יש לכם בית נעים מאוד.|You have a very cozy home.
+гостеприи́мный|מכניס אורחים|hospitable|a|Кака́я гостеприи́мная семья́!|איזו משפחה מכניסת אורחים!|What a hospitable family!
+дома́шний|ביתי, תוצרת בית|homemade, home|a|Я о́чень люблю́ дома́шнюю еду́.|אני אוהב מאוד אוכל ביתי.|I really love homemade food.
+обожа́ть|להעריץ, לאהוב מאוד|to adore|v|Я обожа́ю ба́бушкины пирожки́.|אני מת על הפירושקי של סבתא.|I adore grandma's little pies.
+пирожо́к|פירושקי, מאפה ממולא|small pie (pirozhok)|nm|Возьми́ пирожо́к с капу́стой.|קח פירושקי עם כרוב.|Take a little pie with cabbage.
+капу́ста|כרוב|cabbage|nf|Щи ва́рят из капу́сты.|מרק שצ'י מבשלים מכרוב.|Shchi is made from cabbage.
+щи|שצ'י, מרק כרוב|cabbage soup (shchi)|np|Ба́бушка свари́ла вку́сные щи.|סבתא בישלה שצ'י טעים.|Grandma made tasty cabbage soup.

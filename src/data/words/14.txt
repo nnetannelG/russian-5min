@@ -1,0 +1,94 @@
+// Spoken Russian: slang, exclamations, mild swearing, ready-made phrases
+блин|אוף, לעזאזל (קללה עדינה)|damn (mild)|x,swear,t:blin|Блин, я опя́ть опозда́л!|אוף, שוב איחרתי!|Damn, I am late again!
+чёрт|שד; לעזאזל|devil; damn|nm,swear|Чёрт, где мои́ ключи́?|לעזאזל, איפה המפתחות שלי?|Damn, where are my keys?
+чёрт возьми́|לכל הרוחות|damn it|x,swear|Чёрт возьми́, как хо́лодно!|לכל הרוחות, כמה קר!|Damn it, how cold it is!
+капе́ц|אבוד, סוף הדרך|that's it, a disaster|x,slang,swear|Капе́ц, я забы́л па́спорт!|אבוד, שכחתי את הדרכון!|Disaster, I forgot my passport!
+кошма́р|סיוט|nightmare|nm|Како́й кошма́р на доро́гах!|איזה סיוט בכבישים!|What a nightmare on the roads!
+у́жас|אימה, זוועה|horror|nm|У́жас, как до́рого!|זוועה, כמה יקר!|How horribly expensive!
+жесть|קשוח, מטורף|that's intense|x,slang|Три часа́ в про́бке, э́то жесть.|שלוש שעות בפקק, זה מטורף.|Three hours in traffic, that is brutal.
+обалде́ть|להישאר בהלם; וואו|to be stunned; wow|v,slang|Обалде́ть, как краси́во!|וואו, כמה יפה!|Wow, how beautiful!
+фигня́|שטויות, זבל|nonsense, rubbish|nf,slang,swear|Не говори́ фигню́.|אל תדבר שטויות.|Don't talk nonsense.
+ерунда́|שטות|nonsense, a trifle|nf|Э́то ерунда́, не пережива́й.|זו שטות, אל תדאג.|It is nothing, don't worry.
+бред|הזיה, קשקוש|rubbish, delirium|nm,slang|Что за бред ты говори́шь?|איזה קשקוש אתה מדבר?|What rubbish are you talking?
+дура́к|טיפש|fool|nm,swear|Како́й же я дура́к!|איזה טיפש אני!|What a fool I am!
+идио́т|אידיוט|idiot|nm,swear|Не веди́ себя́ как идио́т.|אל תתנהג כמו אידיוט.|Don't behave like an idiot.
+отста́нь|עזוב אותי|leave me alone|x,slang|Отста́нь, я за́нят!|עזוב אותי, אני עסוק!|Leave me alone, I am busy!
+надое́сть|לשעמם, להימאס|to bore, to be fed up with|v|Мне надое́ло ждать.|נמאס לי לחכות.|I am fed up with waiting.
+плева́ть|לירוק; לא אכפת|to spit; not to care|v,slang|Мне плева́ть, что они́ ду́мают.|לא אכפת לי מה הם חושבים.|I don't care what they think.
+по́фиг|לא אכפת|don't care|x,slang,swear|Мне по́фиг, пойдём куда́ хо́чешь.|לא אכפת לי, נלך לאן שתרצה.|I don't care, let's go wherever you want.
+прико́л|קטע, בדיחה|a joke, a fun thing|nm,slang|Хо́чешь прико́л расскажу́?|רוצה שאספר לך קטע?|Want me to tell you something funny?
+прико́льно|קטע, מגניב|funny, cool|d,slang|Прико́льно, я не знал!|קטע, לא ידעתי!|Cool, I did not know!
+прики́нь|תאר לעצמך|imagine that|x,slang|Прики́нь, он купи́л маши́ну!|תאר לעצמך, הוא קנה מכונית!|Imagine, he bought a car!
+ти́па|כאילו|like, sort of|x,slang|Он ти́па мой нача́льник.|הוא כאילו הבוס שלי.|He is like my boss.
+как бы|כאילו, כביכול|kind of|x|Я как бы не про́тив.|אני די לא מתנגד.|I kind of don't mind.
+чё|מה (מדובר)|what (casual)|p,slang|Чё ты де́лаешь?|מה אתה עושה?|What are you doing?
+щас|עכשיו (מדובר)|now (casual)|d,slang|Щас приду́, подожди́.|תכף אני בא, חכה.|I will be right there, wait.
+норм|סבבה, בסדר|fine (casual)|d,slang|Как дела́? Да норм.|מה נשמע? סבבה.|How are things? Fine.
+оке́й|אוקיי|okay|x,slang|Оке́й, договори́лись.|אוקיי, סגרנו.|Okay, deal.
+брата́н|אחי|bro|nm,slang|Приве́т, брата́н, как жизнь?|היי אחי, מה המצב?|Hi bro, how is life?
+чува́к|גבר, אחי|dude|nm,slang|Чува́к, ты где?|גבר, איפה אתה?|Dude, where are you?
+ребя́та|חבר'ה|guys|np|Ребя́та, пойдёмте за стол!|חבר'ה, בואו לשולחן!|Guys, let's go to the table!
+паца́н|ילד, בחורצ'יק|lad|nm,slang|Он ещё совсе́м паца́н.|הוא עוד ממש ילד.|He is still just a lad.
+девчо́нка|ילדה, בחורה|girl (casual)|nf,slang|Она́ весёлая девчо́нка.|היא בחורה עליזה.|She is a fun girl.
+мужи́к|גבר (מדובר)|bloke, man|nm,slang|Он норма́льный мужи́к.|הוא גבר בסדר.|He is a decent bloke.
+ба́бки|כסף (סלנג)|dough (money)|np,slang|У меня́ нет ба́бок.|אין לי כסף.|I have no dough.
+та́чка|אוטו (סלנג)|ride, car (slang)|nf,slang|Кла́ссная у тебя́ та́чка!|יש לך אוטו מגניב!|Nice ride you have!
+комп|מחשב (סלנג)|computer (slang)|nm,slang|У меня́ слома́лся комп.|התקלקל לי המחשב.|My computer broke.
+те́лик|טלוויזיה (סלנג)|telly|nm,slang|Вы́ключи те́лик, пора́ спать.|תכבה את הטלוויזיה, הגיע הזמן לישון.|Turn off the telly, time for bed.
+вкусня́шка|משהו טעים, פינוק|a tasty treat|nf,slang,aff|Я принёс тебе́ вкусня́шку.|הבאתי לך משהו טעים.|I brought you a treat.
+не па́рься|אל תתאמץ, אל תדאג|don't sweat it|x,slang|Не па́рься, я всё сде́лаю.|אל תדאג, אני אעשה הכול.|Don't sweat it, I will do everything.
+забе́й|עזוב, שחרר|forget it|x,slang|Забе́й, э́то нева́жно.|עזוב, זה לא חשוב.|Forget it, it doesn't matter.
+рассла́бься|תירגע, שחרר|relax|x,slang|Рассла́бься, мы в о́тпуске!|תירגע, אנחנו בחופשה!|Relax, we are on vacation!
+держи́сь|תחזיק מעמד|hang in there|x|Держи́сь, всё бу́дет хорошо́!|תחזיק מעמד, הכול יהיה טוב!|Hang in there, everything will be fine!
+не грусти́|אל תהיי עצובה|don't be sad|x|Не грусти́, я ско́ро верну́сь.|אל תהיי עצובה, אחזור בקרוב.|Don't be sad, I will be back soon.
+всё бу́дет хорошо́|הכול יהיה בסדר|everything will be fine|x|Не волну́йся, всё бу́дет хорошо́.|אל תדאג, הכול יהיה בסדר.|Don't worry, everything will be fine.
+ну и ну|נו נו, שומו שמיים|well, well|x,slang|Ну и ну, вот э́то но́вость!|נו נו, איזו חדשה!|Well, well, what news!
+вот э́то да|וואו, זה משהו|wow, that's something|x,slang|Вот э́то да! Ты сам пригото́вил?|וואו! אתה בעצמך הכנת?|Wow! Did you cook it yourself?
+да ла́дно|די, מה אתה אומר|come on, no way|x,slang|Да ла́дно, не мо́жет быть!|די, לא יכול להיות!|Come on, it can't be!
+да ну|מה פתאום, עזוב|no way, nah|x,slang|Да ну, я не ве́рю.|מה פתאום, אני לא מאמין.|No way, I don't believe it.
+ещё бы|ועוד איך, בטח|you bet|x,slang|Тебе́ понра́вилось? Ещё бы!|מצא חן בעיניך? ועוד איך!|Did you like it? You bet!
+само́ собо́й|מובן מאליו|it goes without saying|x|Само́ собо́й, я помогу́.|מובן מאליו שאעזור.|It goes without saying that I will help.
+без пробле́м|בלי בעיה|no problem|x,slang|Помо́жешь мне? Без пробле́м!|תעזור לי? בלי בעיה!|Will you help me? No problem!
+не вопро́с|אין בעיה, בכיף|no problem at all|x,slang|За́втра в семь? Не вопро́с.|מחר בשבע? אין בעיה.|Tomorrow at seven? No problem.
+договори́лись|סגרנו, סיכמנו|deal, agreed|x|Зна́чит, в суббо́ту. Договори́лись!|אז בשבת. סגרנו!|So, on Saturday. Deal!
+идёт|סגור, הולך|deal, okay|x,slang|Встре́тимся в пять? Идёт!|ניפגש בחמש? סגור!|Shall we meet at five? Deal!
+сойдёт|יספיק, זה בסדר|that will do|x,slang|Не идеа́льно, но сойдёт.|לא מושלם, אבל יספיק.|Not perfect, but it will do.
+так держа́ть|כל הכבוד, תמשיך ככה|keep it up|x|Отли́чная рабо́та, так держа́ть!|עבודה מצוינת, תמשיך ככה!|Great work, keep it up!
+краса́вчик|גבר גבר, אלוף|well done, champ|nm,slang|Сдал экза́мен? Краса́вчик!|עברת את המבחן? אלוף!|Passed the exam? Champ!
+су́пер|סופר, מעולה|super|x,slang|Су́пер, я о́чень рад!|מעולה, אני שמח מאוד!|Super, I am very glad!
+с ума́ сойти́|לא ייאמן, להשתגע|that's crazy|x,slang|С ума́ сойти́, как вы́росли де́ти!|לא ייאמן איך הילדים גדלו!|It is crazy how the kids have grown!
+че́стно|בכנות, באמת|honestly|d|Че́стно, я не зна́ю.|בכנות, אני לא יודע.|Honestly, I don't know.
+кляну́сь|אני נשבע|I swear|x|Кляну́сь, э́то был не я!|אני נשבע, זה לא הייתי אני!|I swear it was not me!
+наверняка́|בטוח, בוודאות|for sure|d|Он наверняка́ уже́ до́ма.|הוא בטוח כבר בבית.|He is surely home by now.
+сто проце́нтов|מאה אחוז|a hundred percent|x,slang|Ты уве́рен? Сто проце́нтов.|אתה בטוח? מאה אחוז.|Are you sure? A hundred percent.
+повезло́|התמזל מזלי|got lucky|x|Тебе́ о́чень повезло́ с жено́й.|יש לך מזל גדול עם אשתך.|You are very lucky with your wife.
+жа́лко|חבל; מסכן|it's a pity; feel sorry|d|Жа́лко, что ты уезжа́ешь.|חבל שאתה נוסע.|It is a pity that you are leaving.
+нело́вко|לא נעים, מביך|awkward|d|Мне нело́вко вас беспоко́ить.|לא נעים לי להטריד אתכם.|I feel awkward bothering you.
+лень|עצלות; אין כוח|laziness; can't be bothered|nf|Мне лень идти́ в магази́н.|אין לי כוח ללכת לחנות.|I can't be bothered to go to the shop.
+неохо́та|אין חשק|don't feel like it|d,slang|Мне неохо́та гото́вить.|אין לי חשק לבשל.|I don't feel like cooking.
+ни пу́ха ни пера́|בהצלחה (לפני מבחן)|break a leg|x|За́втра экза́мен? Ни пу́ха ни пера́!|מחר מבחן? בהצלחה!|Exam tomorrow? Break a leg!
+к чёрту|לעזאזל (תשובה ל"בהצלחה")|to hell (reply to "break a leg")|x,swear|Ни пу́ха! К чёрту!|בהצלחה! לעזאזל!|Break a leg! To hell with it!
+с лёгким па́ром|ברכה אחרי מקלחת או בניה|said after a bath or sauna|x|С лёгким па́ром! Как ба́ня?|מקלחת נעימה! איך הייתה הבניה?|Enjoy your bath! How was the bathhouse?
+сла́ва бо́гу|תודה לאל|thank God|x|Сла́ва бо́гу, ты до́ма!|תודה לאל, אתה בבית!|Thank God you are home!
+не дай бог|חס וחלילה|God forbid|x|Не дай бог заболе́ть в о́тпуске.|חס וחלילה לחלות בחופשה.|God forbid falling ill on vacation.
+бо́же мой|אלוהים אדירים|my God|x|Бо́же мой, как ты вы́росла!|אלוהים אדירים, כמה גדלת!|My God, how you have grown!
+го́споди|אלוהים, ריבונו של עולם|Lord, good heavens|x|Го́споди, что случи́лось?|אלוהים, מה קרה?|Good heavens, what happened?
+ра́ди бо́га|למען השם|for God's sake|x|Ра́ди бо́га, будь осторо́жен!|למען השם, תיזהר!|For God's sake, be careful!
+бог|אלוהים|God|nm|Бог лю́бит тро́ицу.|אלוהים אוהב שלישיות (פעם שלישית גלידה).|Third time lucky.
+пошли́|יאללה, הלכנו|let's go|x,slang|Ну что, пошли́?|נו, הלכנו?|So, shall we go?
+пое́хали|יאללה, נסענו|off we go|x,slang|Все гото́вы? Пое́хали!|כולם מוכנים? נסענו!|Everyone ready? Off we go!
+подожди́|חכה|wait|x|Подожди́, я не успева́ю!|חכה, אני לא מספיק!|Wait, I can't keep up!
+смотри́|תראה; תיזהר|look; watch out|x|Смотри́, кака́я краси́вая це́рковь!|תראה איזו כנסייה יפה!|Look, what a beautiful church!
+слу́шай|תקשיב|listen|x|Слу́шай, у меня́ иде́я.|תקשיב, יש לי רעיון.|Listen, I have an idea.
+зна́ешь|אתה יודע|you know|x|Зна́ешь, я по тебе́ скуча́л.|את יודעת, התגעגעתי אלייך.|You know, I missed you.
+понима́ешь|אתה מבין|you see|x|Понима́ешь, э́то не так про́сто.|אתה מבין, זה לא כל כך פשוט.|You see, it is not that simple.
+предста́вь|תאר לעצמך|imagine|x|Предста́вь, мы уже́ год вме́сте!|תארי לעצמך, אנחנו כבר שנה ביחד!|Imagine, we have been together a year already!
+ме́жду на́ми|בינינו|between us|x|То́лько э́то ме́жду на́ми.|רק שזה יישאר בינינו.|But this stays between us.
+как хо́чешь|איך שאתה רוצה|as you wish|x|Мо́жем оста́ться до́ма, как хо́чешь.|אפשר להישאר בבית, איך שאת רוצה.|We can stay at home, as you wish.
+како́й у́жас|איזו זוועה|how awful|x|Како́й у́жас, бе́дная ба́бушка!|איזו זוועה, סבתא המסכנה!|How awful, poor grandma!
+вот так|ככה|like this|x|Де́лай вот так, смотри́.|תעשה ככה, תסתכל.|Do it like this, look.
+и всё|וזהו|and that's all|x|Я про́сто уста́л, и всё.|אני פשוט עייף, וזהו.|I am just tired, that's all.
+вот и всё|וזה הכול|that's it|x|Вот и всё, мы гото́вы.|זה הכול, אנחנו מוכנים.|That is it, we are ready.
+ничего́ подо́бного|בכלל לא, מה פתאום|nothing of the kind|x|Я оби́делся? Ничего́ подо́бного!|נעלבתי? מה פתאום!|Me, offended? Nothing of the kind!
+так и быть|שיהיה, בסדר|so be it, all right|x|Так и быть, пойдём в кино́.|שיהיה, נלך לקולנוע.|All right then, let's go to the cinema.
+на вся́кий слу́чай|ליתר ביטחון|just in case|x|Возьми́ ку́ртку на вся́кий слу́чай.|קח מעיל ליתר ביטחון.|Take a jacket just in case.

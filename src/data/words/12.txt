@@ -1,0 +1,108 @@
+// Describing things and people; how, how much, how likely
+дли́нный|ארוך|long|a|Э́то была́ дли́нная неде́ля.|זה היה שבוע ארוך.|It was a long week.
+коро́ткий|קצר|short|a|У неё коро́ткие во́лосы.|יש לה שיער קצר.|She has short hair.
+широ́кий|רחב|wide|a|Э́то о́чень широ́кая у́лица.|זה רחוב רחב מאוד.|This is a very wide street.
+у́зкий|צר|narrow|a|В ста́ром го́роде у́зкие у́лицы.|בעיר העתיקה יש רחובות צרים.|There are narrow streets in the old town.
+тяжёлый|כבד; קשה|heavy; hard|a|У меня́ был тяжёлый день.|היה לי יום קשה.|I had a hard day.
+лёгкий|קל|light; easy|a|Э́то лёгкий вопро́с.|זו שאלה קלה.|That is an easy question.
+мя́гкий|רך|soft|a|Кака́я мя́гкая поду́шка!|איזו כרית רכה!|What a soft pillow!
+твёрдый|קשה, מוצק|hard, firm|a|Хлеб уже́ твёрдый.|הלחם כבר קשה.|The bread has gone hard.
+бы́стрый|מהיר|fast|a|Э́то са́мый бы́стрый по́езд.|זו הרכבת הכי מהירה.|This is the fastest train.
+ме́дленный|איטי|slow|a|Здесь о́чень ме́дленный интерне́т.|יש כאן אינטרנט איטי מאוד.|The internet is very slow here.
+бли́зкий|קרוב|close|a|Он мой бли́зкий друг.|הוא חבר קרוב שלי.|He is a close friend of mine.
+далёкий|רחוק|distant|a|Они́ прие́хали из далёкой страны́.|הם הגיעו מארץ רחוקה.|They came from a distant country.
+то́нкий|דק|thin|a|Наре́жь сыр то́нкими куска́ми.|תחתוך את הגבינה לפרוסות דקות.|Slice the cheese thinly.
+глубо́кий|עמוק|deep|a|Здесь глубо́кая река́.|הנהר כאן עמוק.|The river is deep here.
+огро́мный|ענקי|huge|a|У них огро́мная соба́ка.|יש להם כלב ענקי.|They have a huge dog.
+сре́дний|בינוני, אמצעי|medium, middle|a|Мне ко́фе сре́днего разме́ра.|לי קפה בגודל בינוני.|A medium coffee for me.
+бога́тый|עשיר|rich|a|Его́ дя́дя о́чень бога́тый.|הדוד שלו עשיר מאוד.|His uncle is very rich.
+бе́дный|עני; מסכן|poor|a|Бе́дный, ты совсе́м уста́л!|מסכן, אתה עייף לגמרי!|Poor thing, you are completely worn out!
+удо́бный|נוח|comfortable|a|Како́й удо́бный дива́н!|איזו ספה נוחה!|What a comfortable sofa!
+поле́зный|בריא, מועיל|healthy, useful|a|Ка́ша о́чень поле́зная еда́.|דייסה היא אוכל בריא מאוד.|Porridge is very healthy food.
+вре́дный|מזיק; מעצבן|harmful; nasty|a|Кури́ть вре́дно для здоро́вья.|לעשן מזיק לבריאות.|Smoking is bad for your health.
+опа́сный|מסוכן|dangerous|a|Э́то опа́сная доро́га.|זה כביש מסוכן.|This is a dangerous road.
+изве́стный|ידוע, מפורסם|well-known|a|Он изве́стный худо́жник.|הוא צייר ידוע.|He is a well-known artist.
+обы́чный|רגיל|ordinary|a|Сего́дня обы́чный рабо́чий день.|היום יום עבודה רגיל.|Today is an ordinary working day.
+осо́бенный|מיוחד|special|a|Сего́дня осо́бенный день.|היום יום מיוחד.|Today is a special day.
+ре́дкий|נדיר|rare|a|Э́то о́чень ре́дкое и́мя.|זה שם נדיר מאוד.|That is a very rare name.
+о́бщий|משותף, כללי|common, shared|a|У нас мно́го о́бщих друзе́й.|יש לנו הרבה חברים משותפים.|We have many friends in common.
+ли́чный|אישי|personal|a|Э́то мой ли́чный вопро́с.|זה עניין אישי שלי.|That is my personal business.
+чужо́й|של מישהו אחר, זר|someone else's|a|Не бери́ чужи́е ве́щи.|אל תיקח דברים של אחרים.|Don't take other people's things.
+совреме́нный|מודרני|modern|a|Э́то совреме́нный райо́н.|זו שכונה מודרנית.|This is a modern neighborhood.
+сле́дующий|הבא|next|a|Мы выхо́дим на сле́дующей остано́вке.|אנחנו יורדים בתחנה הבאה.|We get off at the next stop.
+про́шлый|שעבר, קודם|last, past|a|В про́шлом году́ мы бы́ли в Москве́.|בשנה שעברה היינו במוסקבה.|Last year we were in Moscow.
+бу́дущий|עתידי, הבא|future, next|a|Э́то моя́ бу́дущая жена́.|זו אשתי לעתיד.|This is my future wife.
+после́дний|אחרון|last|a|Э́то после́дний авто́бус.|זה האוטובוס האחרון.|This is the last bus.
+пе́рвый|ראשון|first|a|Э́то мой пе́рвый раз в Росси́и.|זו הפעם הראשונה שלי ברוסיה.|This is my first time in Russia.
+второ́й|שני|second|a|Мы живём на второ́м этаже́.|אנחנו גרים בקומה השנייה.|We live on the second floor.
+тре́тий|שלישי|third|a|Э́то уже́ тре́тья ча́шка ко́фе.|זה כבר הספל השלישי של קפה.|This is already the third cup of coffee.
+сухо́й|יבש|dry|a|Мне сухо́е кра́сное вино́.|לי יין אדום יבש.|Dry red wine for me.
+мо́крый|רטוב|wet|a|У тебя́ мо́крые во́лосы.|יש לך שיער רטוב.|Your hair is wet.
+шу́мный|רועש|noisy|a|Э́то о́чень шу́мный рестора́н.|זו מסעדה רועשת מאוד.|This is a very noisy restaurant.
+стра́шный|מפחיד, נורא|scary, terrible|a|Мне присни́лся стра́шный сон.|חלמתי חלום מפחיד.|I had a scary dream.
+ужа́сный|נוראי|awful|a|Кака́я ужа́сная пого́да!|איזה מזג אוויר נוראי!|What awful weather!
+прекра́сный|נפלא|wonderful|a|Како́й прекра́сный ве́чер!|איזה ערב נפלא!|What a wonderful evening!
+чуде́сный|נהדר, מופלא|marvelous|a|У вас чуде́сные де́ти!|יש לכם ילדים נהדרים!|You have marvelous children!
+замеча́тельный|נהדר, מצוין|remarkable|a|Вы замеча́тельная хозя́йка!|את מארחת נהדרת!|You are a wonderful hostess!
+отли́чный|מצוין|excellent|a|Э́то отли́чный вы́бор.|זו בחירה מצוינת.|That is an excellent choice.
+кла́ссный|מגניב|cool|a,slang|У тебя́ кла́ссная маши́на!|יש לך מכונית מגניבה!|You have a cool car!
+прия́тный|נעים|pleasant|a|Он о́чень прия́тный челове́к.|הוא אדם נעים מאוד.|He is a very pleasant person.
+гру́бый|גס|rude|a|Не будь таки́м гру́бым.|אל תהיה כזה גס.|Don't be so rude.
+жа́дный|קמצן, חמדן|greedy|a|Не будь жа́дным, дай попро́бовать.|אל תהיה קמצן, תן לטעום.|Don't be greedy, let me try.
+ще́дрый|נדיב|generous|a|Её оте́ц о́чень ще́дрый.|אבא שלה נדיב מאוד.|Her father is very generous.
+лени́вый|עצלן|lazy|a|Наш кот о́чень лени́вый.|החתול שלנו עצלן מאוד.|Our cat is very lazy.
+серьёзный|רציני|serious|a|У нас серьёзные отноше́ния.|יש לנו מערכת יחסים רצינית.|We have a serious relationship.
+сме́лый|אמיץ|brave|a|Ты о́чень сме́лый челове́к.|אתה אדם אמיץ מאוד.|You are a very brave person.
+скро́мный|צנוע|modest|a|Она́ о́чень скро́мная де́вушка.|היא בחורה צנועה מאוד.|She is a very modest girl.
+упря́мый|עקשן|stubborn|a|Де́душка о́чень упря́мый.|סבא עקשן מאוד.|Grandpa is very stubborn.
+внима́тельный|קשוב, מתחשב|attentive|a|Он о́чень внима́тельный муж.|הוא בעל קשוב מאוד.|He is a very attentive husband.
+осторо́жный|זהיר|careful|a|Будь осторо́жен на доро́ге.|תיזהר בדרך.|Be careful on the road.
+тала́нтливый|מוכשר|talented|a|У вас тала́нтливый сын.|יש לכם בן מוכשר.|You have a talented son.
+взро́слый|מבוגר, בוגר|adult, grown-up|a|Их де́ти уже́ взро́слые.|הילדים שלהם כבר בוגרים.|Their children are grown up already.
+пожило́й|קשיש|elderly|a|Уступи́ ме́сто пожило́й же́нщине.|פנה מקום לאישה המבוגרת.|Give your seat to the elderly woman.
+жена́тый|נשוי|married (man)|a,t:short|Мой брат уже́ жена́т.|אחי כבר נשוי.|My brother is already married.
+за́мужем|נשואה|married (woman)|d|Её сестра́ уже́ за́мужем.|אחותה כבר נשואה.|Her sister is already married.
+одино́кий|בודד|lonely|a|По́сле сме́рти му́жа она́ одино́кая.|אחרי מות בעלה היא בודדה.|After her husband's death she is lonely.
+бере́менная|בהיריון|pregnant|a|Его́ жена́ бере́менна.|אשתו בהיריון.|His wife is pregnant.
+пья́ный|שיכור|drunk|a|Он был немно́го пьян.|הוא היה קצת שיכור.|He was a little drunk.
+живо́й|חי; תוסס|alive; lively|a|Сла́ва бо́гу, все жи́вы и здоро́вы.|תודה לאל, כולם חיים ובריאים.|Thank God everyone is alive and well.
+норма́льный|נורמלי, בסדר|normal|a|Э́то норма́льная цена́.|זה מחיר נורמלי.|That is a normal price.
+пра́вильный|נכון|correct|a|Э́то пра́вильный отве́т.|זו התשובה הנכונה.|That is the correct answer.
+то́чный|מדויק|exact|a|Мне ну́жен то́чный а́дрес.|אני צריך כתובת מדויקת.|I need the exact address.
+поня́тный|מובן|clear, understandable|a|Спаси́бо за поня́тное объясне́ние.|תודה על ההסבר המובן.|Thank you for the clear explanation.
+невозмо́жный|בלתי אפשרי|impossible|a|Нет ничего́ невозмо́жного.|אין דבר בלתי אפשרי.|Nothing is impossible.
+ну́жный|נחוץ, נדרש|necessary, needed|a|Я нашёл ну́жную страни́цу.|מצאתי את העמוד הנדרש.|I found the page I needed.
+ли́шний|מיותר|extra, spare|a|У тебя́ есть ли́шний биле́т?|יש לך כרטיס מיותר?|Do you have a spare ticket?
+краси́во|יפה (באופן יפה)|beautifully|d|Как здесь краси́во!|כמה יפה כאן!|How beautiful it is here!
+стра́нно|מוזר|strange (it is)|d|Стра́нно, что он не звони́т.|מוזר שהוא לא מתקשר.|It is strange that he doesn't call.
+ве́село|כיף, עליז|fun, merrily|d|У вас всегда́ так ве́село!|אצלכם תמיד כל כך כיף!|It is always such fun at your place!
+гру́стно|עצוב|sad (it is)|d|Мне гру́стно без тебя́.|עצוב לי בלעדייך.|I am sad without you.
+оби́дно|מעליב, חבל|hurtful, a shame|d|Мне о́чень оби́дно.|זה מאוד פוגע בי.|I feel very hurt.
+осторо́жно|בזהירות|carefully|d|Осторо́жно, там ступе́нька!|זהירות, יש שם מדרגה!|Careful, there is a step!
+внима́тельно|בתשומת לב|attentively|d|Слу́шай меня́ внима́тельно.|תקשיב לי טוב.|Listen to me carefully.
+серьёзно|ברצינות|seriously|d|Ты э́то серьёзно?|אתה רציני?|Are you serious?
+специа́льно|בכוונה, במיוחד|on purpose, specially|d|Я пригото́вил э́то специа́льно для тебя́.|הכנתי את זה במיוחד בשבילך.|I made this specially for you.
+случа́йно|במקרה|by chance|d|Мы встре́тились случа́йно.|נפגשנו במקרה.|We met by chance.
+отде́льно|בנפרד|separately|d|Мо́жно заплати́ть отде́льно?|אפשר לשלם בנפרד?|Can we pay separately?
+пешко́м|ברגל|on foot|d|Дава́й пойдём пешко́м.|בוא נלך ברגל.|Let's walk.
+вслух|בקול רם|aloud|d|Прочита́й э́то вслух.|תקרא את זה בקול.|Read this aloud.
+мо́лча|בשתיקה|silently|d|Они́ сиде́ли мо́лча.|הם ישבו בשתיקה.|They sat in silence.
+сро́чно|בדחיפות|urgently|d|Мне сро́чно ну́жно позвони́ть.|אני צריך להתקשר בדחיפות.|I urgently need to make a call.
+постоя́нно|כל הזמן|constantly|d|Он постоя́нно опа́здывает.|הוא מאחר כל הזמן.|He is constantly late.
+постепе́нно|בהדרגה|gradually|d|Постепе́нно я на́чал понима́ть.|בהדרגה התחלתי להבין.|Gradually I began to understand.
+по-друго́му|אחרת|differently|d|Дава́й попро́буем по-друго́му.|בוא ננסה אחרת.|Let's try it differently.
+как раз|בדיוק|just, exactly|d|Я как раз собира́лся тебе́ звони́ть.|בדיוק התכוונתי להתקשר אליך.|I was just about to call you.
+абсолю́тно|לחלוטין|absolutely|d|Ты абсолю́тно прав.|אתה צודק לחלוטין.|You are absolutely right.
+соверше́нно|לגמרי, לחלוטין|completely|d|Я соверше́нно забы́л!|שכחתי לגמרי!|I completely forgot!
+по́лностью|באופן מלא|fully|d|Я по́лностью с тобо́й согла́сен.|אני מסכים איתך לגמרי.|I fully agree with you.
+приме́рно|בערך|approximately|d|Э́то сто́ит приме́рно сто ше́келей.|זה עולה בערך מאה שקל.|It costs about a hundred shekels.
+ро́вно|בדיוק (בזמן, בכמות)|exactly, sharp|d|Я бу́ду ро́вно в семь.|אהיה שם בשבע בדיוק.|I will be there at seven sharp.
+хотя́ бы|לפחות|at least|d|Съешь хотя́ бы немно́го.|תאכל לפחות קצת.|Eat at least a little.
+вряд ли|לא סביר|hardly, unlikely|d|Вряд ли он сего́дня придёт.|לא סביר שהוא יבוא היום.|He is unlikely to come today.
+скоре́е всего́|קרוב לוודאי|most likely|d|Скоре́е всего́, за́втра бу́дет дождь.|קרוב לוודאי שמחר יירד גשם.|Most likely it will rain tomorrow.
+тем бо́лее|על אחת כמה וכמה|all the more|d|Тем бо́лее на́до торопи́ться.|על אחת כמה וכמה צריך למהר.|All the more reason to hurry.
+во-пе́рвых|ראשית|firstly|d|Во-пе́рвых, я уста́л.|ראשית, אני עייף.|Firstly, I am tired.
+в конце́ концо́в|בסופו של דבר|in the end|d|В конце́ концо́в мы договори́лись.|בסופו של דבר הגענו להסכמה.|In the end we came to an agreement.
+в при́нципе|עקרונית|in principle|d|В при́нципе, я не про́тив.|עקרונית, אין לי התנגדות.|In principle, I don't mind.
+в любо́м слу́чае|בכל מקרה|in any case|d|В любо́м слу́чае позвони́ мне.|בכל מקרה תתקשר אליי.|Call me in any case.
+по кра́йней ме́ре|לכל הפחות|at least|d|По кра́йней ме́ре, мы попро́бовали.|לכל הפחות, ניסינו.|At least we tried.

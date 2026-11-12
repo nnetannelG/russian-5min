@@ -1,0 +1,105 @@
+// Nature, animals, travel, places
+приро́да|טבע|nature|nf|Я люблю́ отдыха́ть на приро́де.|אני אוהב לנוח בטבע.|I love relaxing in nature.
+лес|יער|forest|nm|Мы гуля́ли в лесу́.|טיילנו ביער.|We walked in the forest.
+де́рево|עץ|tree|nn|Под де́ревом стои́т скаме́йка.|מתחת לעץ עומד ספסל.|There is a bench under the tree.
+трава́|דשא, עשב|grass|nf|Де́ти бе́гают по траве́.|הילדים רצים על הדשא.|The children are running on the grass.
+река́|נהר|river|nf|Мы купа́лись в реке́.|התרחצנו בנהר.|We swam in the river.
+о́зеро|אגם|lake|nn|Да́ча стои́т у о́зера.|הדאצ'ה נמצאת ליד האגם.|The dacha is by the lake.
+мо́ре|ים|sea|nn|Ле́том мы е́дем на мо́ре.|בקיץ אנחנו נוסעים לים.|In summer we are going to the sea.
+пляж|חוף ים|beach|nm|Весь день мы бы́ли на пля́же.|כל היום היינו בחוף.|We were at the beach all day.
+гора́|הר|mountain|nf|Зимо́й мы е́здим в го́ры.|בחורף אנחנו נוסעים להרים.|In winter we go to the mountains.
+по́ле|שדה|field|nn|За до́мом большо́е по́ле.|מאחורי הבית יש שדה גדול.|There is a big field behind the house.
+о́стров|אי|island|nm|Мы отдыха́ли на о́строве.|נפשנו באי.|We vacationed on an island.
+бе́рег|חוף, גדה|shore, bank|nm|Мы сиде́ли на берегу́ реки́.|ישבנו על גדת הנהר.|We sat on the river bank.
+земля́|אדמה; כדור הארץ|earth, ground|nf|Земля́ ещё мо́края по́сле дождя́.|האדמה עוד רטובה אחרי הגשם.|The ground is still wet after the rain.
+песо́к|חול|sand|nm|Де́ти игра́ют в песке́.|הילדים משחקים בחול.|The children are playing in the sand.
+ка́мень|אבן|stone|nm|Осторо́жно, здесь ка́мни.|זהירות, יש כאן אבנים.|Careful, there are stones here.
+во́здух|אוויר|air|nm|Здесь о́чень чи́стый во́здух.|יש כאן אוויר נקי מאוד.|The air is very clean here.
+ого́нь|אש; (סלנג) אש, מעולה|fire; (slang) awesome|nm|Мы сиде́ли у огня́.|ישבנו ליד האש.|We sat by the fire.
+лёд|קרח|ice|nm|Осторо́жно, на доро́ге лёд.|זהירות, יש קרח על הכביש.|Careful, there is ice on the road.
+звезда́|כוכב|star|nf|Но́чью бы́ло ви́дно звёзды.|בלילה ראו כוכבים.|At night you could see the stars.
+луна́|ירח|moon|nf|Сего́дня по́лная луна́.|היום ירח מלא.|There is a full moon tonight.
+о́блако|ענן|cloud|nn|На не́бе ни о́блака.|אין ענן בשמיים.|There is not a cloud in the sky.
+гроза́|סופת רעמים|thunderstorm|nf|Но́чью была́ си́льная гроза́.|בלילה הייתה סופת רעמים חזקה.|There was a heavy thunderstorm at night.
+тума́н|ערפל|fog|nm|У́тром был густо́й тума́н.|בבוקר היה ערפל כבד.|There was thick fog in the morning.
+моро́з|כפור, קור עז|frost|nm|Сего́дня си́льный моро́з.|היום כפור עז.|There is a hard frost today.
+жара́|חום כבד|heat|nf|Я пло́хо переношу́ жару́.|אני מתקשה לסבול חום.|I don't cope well with the heat.
+гра́дус|מעלה|degree|nm|На у́лице ми́нус де́сять гра́дусов.|בחוץ מינוס עשר מעלות.|It is minus ten degrees outside.
+живо́тное|חיה|animal|nn|Она́ о́чень лю́бит живо́тных.|היא מאוד אוהבת חיות.|She loves animals very much.
+соба́ка|כלב|dog|nf|У нас до́ма живёт соба́ка.|אצלנו בבית גר כלב.|We have a dog at home.
+ко́шка|חתולה|cat|nf|Ко́шка спит на моём кре́сле.|החתולה ישנה על הכורסה שלי.|The cat is sleeping in my armchair.
+кот|חתול|tomcat|nm|Наш кот лю́бит смета́ну.|החתול שלנו אוהב שמנת חמוצה.|Our cat loves sour cream.
+пти́ца|ציפור|bird|nf|У́тром пою́т пти́цы.|בבוקר שרות הציפורים.|Birds sing in the morning.
+ло́шадь|סוס|horse|nf|В дере́вне мы ката́лись на ло́шади.|בכפר רכבנו על סוס.|In the village we rode a horse.
+коро́ва|פרה|cow|nf|У ба́бушки в дере́вне есть коро́ва.|לסבתא בכפר יש פרה.|Grandma has a cow in the village.
+свинья́|חזיר|pig|nf|Я не ем свини́ну.|אני לא אוכל חזיר.|I don't eat pork.
+медве́дь|דוב|bear|nm|В лесу́ живу́т медве́ди.|ביער חיים דובים.|Bears live in the forest.
+волк|זאב|wolf|nm|Я голо́дный как волк.|אני רעב כמו זאב.|I am hungry as a wolf.
+лиса́|שועל|fox|nf|В ска́зке лиса́ всегда́ хи́трая.|באגדה השועל תמיד ערמומי.|In fairy tales the fox is always sly.
+за́яц|ארנבת|hare|nm|Мы ви́дели в по́ле за́йца.|ראינו ארנבת בשדה.|We saw a hare in the field.
+мышь|עכבר|mouse|nf|Ко́шка пойма́ла мышь.|החתולה תפסה עכבר.|The cat caught a mouse.
+кома́р|יתוש|mosquito|nm|На да́че мно́го комаро́в.|בדאצ'ה יש הרבה יתושים.|There are a lot of mosquitoes at the dacha.
+дере́вня|כפר|village|nf|Ба́бушка живёт в дере́вне.|סבתא גרה בכפר.|Grandma lives in a village.
+райо́н|שכונה, אזור|district, neighborhood|nm|Мы живём в ти́хом райо́не.|אנחנו גרים בשכונה שקטה.|We live in a quiet neighborhood.
+столи́ца|עיר בירה|capital|nf|Москва́ столи́ца Росси́и.|מוסקבה היא בירת רוסיה.|Moscow is the capital of Russia.
+грани́ца|גבול|border|nf|Ле́том мы е́дем за грани́цу.|בקיץ אנחנו נוסעים לחוץ לארץ.|In summer we are going abroad.
+путеше́ствие|מסע, טיול|journey, trip|nn|Э́то бы́ло прекра́сное путеше́ствие.|זה היה טיול נפלא.|It was a wonderful trip.
+пое́здка|נסיעה|trip, ride|nf|Как прошла́ пое́здка?|איך עברה הנסיעה?|How was the trip?
+экску́рсия|סיור מודרך|guided tour|nf|За́втра у нас экску́рсия по го́роду.|מחר יש לנו סיור בעיר.|Tomorrow we have a city tour.
+тури́ст|תייר|tourist|nm|Ле́том здесь мно́го тури́стов.|בקיץ יש כאן הרבה תיירים.|There are many tourists here in summer.
+бага́ж|מטען|luggage|nm|Где мо́жно получи́ть бага́ж?|איפה אפשר לקבל את המטען?|Where can I collect my luggage?
+рейс|טיסה|flight|nm|Наш рейс заде́рживается.|הטיסה שלנו מתעכבת.|Our flight is delayed.
+поса́дка|עלייה למטוס; נחיתה|boarding; landing|nf|Поса́дка начнётся че́рез час.|העלייה למטוס תתחיל בעוד שעה.|Boarding will begin in an hour.
+тамо́жня|מכס|customs|nf|Мы до́лго стоя́ли на тамо́жне.|עמדנו הרבה זמן במכס.|We stood at customs for a long time.
+ви́за|ויזה|visa|nf|Мне нужна́ ви́за в Росси́ю.|אני צריך ויזה לרוסיה.|I need a visa for Russia.
+киломе́тр|קילומטר|kilometer|nm|До дере́вни пять киломе́тров.|עד הכפר יש חמישה קילומטרים.|It is five kilometers to the village.
+метр|מטר|meter|nm|Апте́ка в ста ме́трах отсю́да.|בית המרקחת במרחק מאה מטר מכאן.|The pharmacy is a hundred meters from here.
+се́вер|צפון|north|nm|Они́ живу́т на се́вере.|הם גרים בצפון.|They live in the north.
+юг|דרום|south|nm|Мы отдыха́ли на ю́ге.|נפשנו בדרום.|We vacationed in the south.
+восто́к|מזרח|east|nm|Со́лнце встаёт на восто́ке.|השמש זורחת במזרח.|The sun rises in the east.
+за́пад|מערב|west|nm|Окно́ выхо́дит на за́пад.|החלון פונה למערב.|The window faces west.
+Евро́па|אירופה|Europe|nf|Мы путеше́ствовали по Евро́пе.|טיילנו באירופה.|We traveled around Europe.
+Аме́рика|אמריקה|America|nf|Его́ сестра́ живёт в Аме́рике.|אחותו גרה באמריקה.|His sister lives in America.
+Петербу́рг|פטרבורג|Petersburg|nm|Петербу́рг о́чень краси́вый го́род.|פטרבורג עיר יפה מאוד.|Petersburg is a very beautiful city.
+Тель-Ави́в|תל אביב|Tel Aviv|nm|Я рабо́таю в Тель-Ави́ве.|אני עובד בתל אביב.|I work in Tel Aviv.
+Иерусали́м|ירושלים|Jerusalem|nm|Иерусали́м о́чень ста́рый го́род.|ירושלים עיר עתיקה מאוד.|Jerusalem is a very old city.
+израильтя́нин|ישראלי|Israeli (man)|nm|Я израильтя́нин, но учу́ ру́сский.|אני ישראלי, אבל לומד רוסית.|I am Israeli, but I am learning Russian.
+евре́й|יהודי|Jew|nm|Мой де́душка евре́й из Оде́ссы.|סבא שלי יהודי מאודסה.|My grandfather is a Jew from Odessa.
+иностра́нец|זר (אדם)|foreigner|nm|Я иностра́нец и пло́хо понима́ю.|אני זר ומבין לא טוב.|I am a foreigner and I don't understand well.
+иностра́нный|זר|foreign|a|Она́ зна́ет три иностра́нных языка́.|היא יודעת שלוש שפות זרות.|She knows three foreign languages.
+ме́стный|מקומי|local|a|Попро́буйте ме́стную ку́хню.|תטעמו את המטבח המקומי.|Try the local cuisine.
+ро́дина|מולדת|homeland|nf|Она́ скуча́ет по ро́дине.|היא מתגעגעת למולדת.|She misses her homeland.
+про́бка|פקק|traffic jam; cork|nf|Мы стои́м в про́бке.|אנחנו עומדים בפקק.|We are stuck in a traffic jam.
+светофо́р|רמזור|traffic light|nm|На светофо́ре поверни́те напра́во.|ברמזור פנו ימינה.|Turn right at the traffic light.
+перехо́д|מעבר (חצייה)|crossing|nm|Перейди́те у́лицу по перехо́ду.|חצו את הרחוב במעבר החצייה.|Cross the street at the crossing.
+парко́вка|חניה|parking|nf|Здесь есть беспла́тная парко́вка?|יש כאן חניה בחינם?|Is there free parking here?
+бензи́н|דלק|petrol|nm|У нас конча́ется бензи́н.|נגמר לנו הדלק.|We are running out of petrol.
+води́тель|נהג|driver|nm|Води́тель такси́ был о́чень ве́жливый.|נהג המונית היה מנומס מאוד.|The taxi driver was very polite.
+пассажи́р|נוסע|passenger|nm|Пассажи́ры уже́ в самолёте.|הנוסעים כבר במטוס.|The passengers are already on the plane.
+велосипе́д|אופניים|bicycle|nm|На рабо́ту я е́зжу на велосипе́де.|לעבודה אני נוסע באופניים.|I ride a bicycle to work.
+кора́бль|אונייה|ship|nm|Мы плы́ли на большо́м корабле́.|שטנו באונייה גדולה.|We sailed on a big ship.
+ло́дка|סירה|boat|nf|Де́душка лю́бит ката́ться на ло́дке.|סבא אוהב לשוט בסירה.|Grandpa loves going out in a boat.
+пала́тка|אוהל|tent|nf|Мы спа́ли в пала́тке.|ישנו באוהל.|We slept in a tent.
+костёр|מדורה|campfire|nm|Ве́чером мы сиде́ли у костра́.|בערב ישבנו ליד המדורה.|In the evening we sat by the campfire.
+рыба́лка|דיג|fishing|nf|Па́па у́тром уе́хал на рыба́лку.|אבא נסע בבוקר לדוג.|Dad went fishing in the morning.
+прогу́лка|טיול (הליכה)|walk|nf|Как насчёт прогу́лки по́сле у́жина?|מה לגבי טיול אחרי ארוחת הערב?|How about a walk after dinner?
+о́тдых|מנוחה, נופש|rest, vacation|nm|Мне ну́жен о́тдых.|אני צריך מנוחה.|I need a rest.
+пикни́к|פיקניק|picnic|nm|В воскресе́нье у нас пикни́к.|ביום ראשון יש לנו פיקניק.|We are having a picnic on Sunday.
+купа́ться|להתרחץ (בים, בנהר)|to bathe, to swim|v|Де́ти купа́ются в мо́ре.|הילדים מתרחצים בים.|The children are swimming in the sea.
+загора́ть|להשתזף|to sunbathe|v|Она́ лю́бит загора́ть на пля́же.|היא אוהבת להשתזף בחוף.|She loves sunbathing on the beach.
+лови́ть|לתפוס; לדוג|to catch|v|Де́душка ло́вит ры́бу.|סבא דג דגים.|Grandpa is fishing.
+собира́ть|לאסוף, לקטוף|to gather, to pick|v|Мы собира́ем я́годы в лесу́.|אנחנו קוטפים פירות יער ביער.|We are picking berries in the forest.
+сажа́ть|לשתול|to plant|v|Весно́й ба́бушка сажа́ет карто́шку.|באביב סבתא שותלת תפוחי אדמה.|In spring grandma plants potatoes.
+я́года|פרי יער, גרגר|berry|nf|Мы свари́ли варе́нье из я́год.|בישלנו ריבה מפירות יער.|We made jam from berries.
+клубни́ка|תות שדה|strawberry|nf|На да́че поспе́ла клубни́ка.|בדאצ'ה הבשילו התותים.|The strawberries have ripened at the dacha.
+мали́на|פטל|raspberry|nf|Чай с мали́ной помога́ет от просту́ды.|תה עם פטל עוזר נגד הצטננות.|Tea with raspberries helps with a cold.
+ви́шня|דובדבן חמוץ|sour cherry|nf|Ба́бушка печёт пиро́г с ви́шней.|סבתא אופה פשטידת דובדבנים.|Grandma is baking a cherry pie.
+арбу́з|אבטיח|watermelon|nm|Ле́том мы еди́м арбу́зы.|בקיץ אנחנו אוכלים אבטיחים.|In summer we eat watermelons.
+виногра́д|ענבים|grapes|nm|Хо́чешь сла́дкий виногра́д?|רוצה ענבים מתוקים?|Do you want some sweet grapes?
+апельси́н|תפוז|orange|nm|Я вы́жал сок из апельси́нов.|סחטתי מיץ מתפוזים.|I squeezed juice from oranges.
+лимо́н|לימון|lemon|nm|Мне чай с лимо́ном, пожа́луйста.|לי תה עם לימון, בבקשה.|Tea with lemon for me, please.
+оре́х|אגוז|nut|nm|Я купи́л оре́хи к ча́ю.|קניתי אגוזים לתה.|I bought nuts to go with the tea.
+рис|אורז|rice|nm|На гарни́р бу́дет рис.|כתוספת יהיה אורז.|There will be rice as a side dish.
+макаро́ны|פסטה|pasta|np|Де́ти обожа́ют макаро́ны с сы́ром.|ילדים מתים על פסטה עם גבינה.|Kids adore pasta with cheese.
+гре́чка|כוסמת|buckwheat|nf|На у́жин гре́чка с мя́сом.|לארוחת ערב כוסמת עם בשר.|Buckwheat with meat for dinner.
+котле́та|קציצה|meat patty (kotleta)|nf|Ба́бушка жа́рит котле́ты.|סבתא מטגנת קציצות.|Grandma is frying meat patties.

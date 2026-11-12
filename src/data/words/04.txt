@@ -1,0 +1,109 @@
+// Time, calendar, weather, the city, getting around, prepositions
+час|שעה|hour|nm,t:time|Я бу́ду че́рез час.|אהיה שם בעוד שעה.|I will be there in an hour.
+мину́та|דקה|minute|nf|Подожди́ одну́ мину́ту.|חכה דקה אחת.|Wait one minute.
+секу́нда|שנייה|second|nf|Секу́нду, я уже́ иду́!|שנייה, אני כבר בא!|One second, I am coming!
+неде́ля|שבוע|week|nf|Уви́димся че́рез неде́лю.|נתראה בעוד שבוע.|See you in a week.
+ме́сяц|חודש|month|nm|Мы здесь уже́ ме́сяц.|אנחנו כאן כבר חודש.|We have been here a month already.
+год|שנה|year|nm,t:age|Я живу́ здесь оди́н год.|אני גר כאן שנה אחת.|I have lived here for one year.
+раз|פעם|time, occasion|nm|Я здесь пе́рвый раз.|אני כאן פעם ראשונה.|It is my first time here.
+понеде́льник|יום שני|Monday|nm|В понеде́льник я рабо́таю.|ביום שני אני עובד.|I work on Monday.
+вто́рник|יום שלישי|Tuesday|nm|Во вто́рник у меня́ уро́к.|ביום שלישי יש לי שיעור.|I have a lesson on Tuesday.
+среда́|יום רביעי|Wednesday|nf|В сре́ду мы идём в кино́.|ביום רביעי אנחנו הולכים לקולנוע.|On Wednesday we are going to the cinema.
+четве́рг|יום חמישי|Thursday|nm|В четве́рг я свобо́ден.|ביום חמישי אני פנוי.|I am free on Thursday.
+пя́тница|יום שישי|Friday|nf|В пя́тницу мы у́жинаем у роди́телей.|ביום שישי אנחנו אוכלים ארוחת ערב אצל ההורים.|On Friday we have dinner at my parents'.
+суббо́та|שבת|Saturday|nf|В суббо́ту я не рабо́таю.|בשבת אני לא עובד.|I don't work on Saturday.
+воскресе́нье|יום ראשון|Sunday|nn|В воскресе́нье мы е́дем на да́чу.|ביום ראשון אנחנו נוסעים לדאצ'ה.|On Sunday we are going to the dacha.
+выходны́е|סוף שבוע|weekend|np|Что ты де́лаешь на выходны́х?|מה אתה עושה בסוף השבוע?|What are you doing at the weekend?
+пра́здник|חג|holiday|nm|С пра́здником вас, дороги́е!|חג שמח לכם, יקרים!|Happy holiday to you, dear ones!
+янва́рь|ינואר|January|nm|В январе́ в Москве́ хо́лодно.|בינואר קר במוסקבה.|It is cold in Moscow in January.
+февра́ль|פברואר|February|nm|В феврале́ у ма́мы день рожде́ния.|בפברואר יש לאמא יום הולדת.|Mom's birthday is in February.
+март|מרץ|March|nm|В ма́рте уже́ тепло́.|במרץ כבר חמים.|It is already warm in March.
+апре́ль|אפריל|April|nm|Мы прие́дем в апре́ле.|נגיע באפריל.|We will come in April.
+май|מאי|May|nm|В ма́е мы е́дем на мо́ре.|במאי אנחנו נוסעים לים.|In May we are going to the sea.
+ию́нь|יוני|June|nm|В ию́не начина́ется ле́то.|ביוני מתחיל הקיץ.|Summer begins in June.
+ию́ль|יולי|July|nm|В ию́ле о́чень жа́рко.|ביולי חם מאוד.|It is very hot in July.
+а́вгуст|אוגוסט|August|nm|В а́вгусте у меня́ о́тпуск.|באוגוסט יש לי חופשה.|I have a vacation in August.
+сентя́брь|ספטמבר|September|nm|В сентябре́ де́ти иду́т в шко́лу.|בספטמבר הילדים הולכים לבית הספר.|In September the children go to school.
+октя́брь|אוקטובר|October|nm|В октябре́ ча́сто идёт дождь.|באוקטובר יורד הרבה גשם.|It often rains in October.
+ноя́брь|נובמבר|November|nm|В ноябре́ ра́но темне́ет.|בנובמבר מחשיך מוקדם.|It gets dark early in November.
+дека́брь|דצמבר|December|nm|В декабре́ мы покупа́ем пода́рки.|בדצמבר אנחנו קונים מתנות.|In December we buy presents.
+весна́|אביב|spring|nf|Весно́й здесь о́чень краси́во.|באביב יפה פה מאוד.|It is very beautiful here in spring.
+ле́то|קיץ|summer|nn|Ле́том мы живём на да́че.|בקיץ אנחנו גרים בדאצ'ה.|In summer we live at the dacha.
+о́сень|סתיו|autumn|nf|Я люблю́ золоту́ю о́сень.|אני אוהב את הסתיו הזהוב.|I love the golden autumn.
+зима́|חורף|winter|nf|Зимо́й в Росси́и мно́го сне́га.|בחורף יש ברוסיה הרבה שלג.|There is a lot of snow in Russia in winter.
+пого́да|מזג אוויר|weather|nf|Кака́я сего́дня пого́да?|איזה מזג אוויר היום?|What is the weather like today?
+со́лнце|שמש|sun|nn|Сего́дня мно́го со́лнца.|היום יש הרבה שמש.|There is a lot of sun today.
+дождь|גשם|rain|nm|На у́лице идёт дождь.|בחוץ יורד גשם.|It is raining outside.
+снег|שלג|snow|nm|Смотри́, идёт снег!|תראה, יורד שלג!|Look, it is snowing!
+ве́тер|רוח|wind|nm|Сего́дня си́льный ве́тер.|היום יש רוח חזקה.|There is a strong wind today.
+не́бо|שמיים|sky|nn|Не́бо сего́дня голубо́е.|השמיים כחולים היום.|The sky is blue today.
+тепло́|חמים|warm (it is warm)|d|На у́лице сего́дня тепло́.|היום חמים בחוץ.|It is warm outside today.
+хо́лодно|קר|cold (it is cold)|d,t:mne|Мне хо́лодно, закро́й окно́.|קר לי, סגור את החלון.|I am cold, close the window.
+жа́рко|חם|hot (it is hot)|d|Ле́том в Изра́иле о́чень жа́рко.|בקיץ חם מאוד בישראל.|It is very hot in Israel in summer.
+го́род|עיר|city|nm|Э́то о́чень ста́рый го́род.|זו עיר עתיקה מאוד.|This is a very old city.
+у́лица|רחוב|street|nf|На како́й у́лице вы живёте?|באיזה רחוב אתם גרים?|Which street do you live on?
+центр|מרכז|center|nm|Мы живём в це́нтре го́рода.|אנחנו גרים במרכז העיר.|We live in the city center.
+парк|פארק|park|nm|Дава́й погуля́ем в па́рке.|בוא נטייל בפארק.|Let's take a walk in the park.
+двор|חצר|yard|nm|Маши́на стои́т во дворе́.|המכונית עומדת בחצר.|The car is parked in the yard.
+доро́га|דרך, כביש|road, way|nf|Доро́га была́ о́чень дли́нная.|הדרך הייתה ארוכה מאוד.|The road was very long.
+маши́на|מכונית|car|nf|У тебя́ есть маши́на?|יש לך מכונית?|Do you have a car?
+авто́бус|אוטובוס|bus|nm|Я е́ду на авто́бусе.|אני נוסע באוטובוס.|I am going by bus.
+метро́|מטרו, רכבת תחתית|metro|nn|Где здесь метро́?|איפה פה המטרו?|Where is the metro here?
+по́езд|רכבת|train|nm|По́езд ухо́дит в де́вять.|הרכבת יוצאת בתשע.|The train leaves at nine.
+самолёт|מטוס|plane|nm|Самолёт прилета́ет ве́чером.|המטוס נוחת בערב.|The plane arrives in the evening.
+такси́|מונית|taxi|nn|Дава́й возьмём такси́.|בוא ניקח מונית.|Let's take a taxi.
+биле́т|כרטיס|ticket|nm|Я купи́л два биле́та.|קניתי שני כרטיסים.|I bought two tickets.
+остано́вка|תחנת אוטובוס|bus stop|nf|Э́то на́ша остано́вка.|זו התחנה שלנו.|This is our stop.
+ста́нция|תחנה (מטרו, רכבת)|station|nf|Кака́я э́то ста́нция?|איזו תחנה זאת?|Which station is this?
+вокза́л|תחנת רכבת מרכזית|railway station|nm|Встре́тимся на вокза́ле.|ניפגש בתחנת הרכבת.|Let's meet at the railway station.
+аэропо́рт|שדה תעופה|airport|nm|Я встре́чу тебя́ в аэропорту́.|אפגוש אותך בשדה התעופה.|I will meet you at the airport.
+гости́ница|מלון|hotel|nf|На́ша гости́ница в це́нтре.|המלון שלנו במרכז.|Our hotel is in the center.
+рестора́н|מסעדה|restaurant|nm|Пойдём сего́дня в рестора́н?|נלך היום למסעדה?|Shall we go to a restaurant today?
+кафе́|בית קפה|cafe|nn|Встре́тимся в кафе́ в пять.|ניפגש בבית הקפה בחמש.|Let's meet at the cafe at five.
+апте́ка|בית מרקחת|pharmacy|nf|Где здесь апте́ка?|איפה יש פה בית מרקחת?|Where is a pharmacy here?
+больни́ца|בית חולים|hospital|nf|Ба́бушка сейча́с в больни́це.|סבתא עכשיו בבית החולים.|Grandma is in the hospital now.
+шко́ла|בית ספר|school|nf|Де́ти сейча́с в шко́ле.|הילדים עכשיו בבית הספר.|The children are at school now.
+банк|בנק|bank|nm|Мне на́до зайти́ в банк.|אני צריך לקפוץ לבנק.|I need to stop by the bank.
+по́чта|דואר|post office; mail|nf|По́чта рабо́тает до шести́.|הדואר פתוח עד שש.|The post office is open until six.
+музе́й|מוזיאון|museum|nm|Э́тот музе́й о́чень интере́сный.|המוזיאון הזה מעניין מאוד.|This museum is very interesting.
+теа́тр|תיאטרון|theater|nm|За́втра мы идём в теа́тр.|מחר אנחנו הולכים לתיאטרון.|Tomorrow we are going to the theater.
+кино́|קולנוע|cinema|nn|Пойдём в кино́ за́втра?|נלך מחר לקולנוע?|Shall we go to the cinema tomorrow?
+це́рковь|כנסייה|church|nf|Э́то о́чень ста́рая це́рковь.|זו כנסייה עתיקה מאוד.|This is a very old church.
+мост|גשר|bridge|nm|Мы идём че́рез мост.|אנחנו הולכים על הגשר.|We are walking across the bridge.
+пло́щадь|כיכר|square|nf|Кра́сная пло́щадь в це́нтре Москвы́.|הכיכר האדומה במרכז מוסקבה.|Red Square is in the center of Moscow.
+страна́|מדינה, ארץ|country|nf|Росси́я о́чень больша́я страна́.|רוסיה מדינה גדולה מאוד.|Russia is a very big country.
+Росси́я|רוסיה|Russia|nf|Я хочу́ пое́хать в Росси́ю.|אני רוצה לנסוע לרוסיה.|I want to go to Russia.
+Изра́иль|ישראל|Israel|nm|Я роди́лся в Изра́иле.|נולדתי בישראל.|I was born in Israel.
+Москва́|מוסקבה|Moscow|nf|Москва́ о́чень краси́вый го́род.|מוסקבה עיר יפה מאוד.|Moscow is a very beautiful city.
+язы́к|שפה; לשון|language; tongue|nm|Ру́сский язы́к тру́дный, но краси́вый.|השפה הרוסית קשה אבל יפה.|Russian is difficult but beautiful.
+ру́сский|רוסי|Russian|a|Я люблю́ ру́сскую ку́хню.|אני אוהב את המטבח הרוסי.|I love Russian cuisine.
+иври́т|עברית|Hebrew|nm|Ты говори́шь на иври́те?|אתה מדבר עברית?|Do you speak Hebrew?
+англи́йский|אנגלי; אנגלית|English|a|Он хорошо́ зна́ет англи́йский язы́к.|הוא יודע אנגלית טוב.|He knows English well.
+по-ру́сски|ברוסית|in Russian|d|Как э́то бу́дет по-ру́сски?|איך אומרים את זה ברוסית?|How do you say this in Russian?
+далеко́|רחוק|far|d|Э́то далеко́ отсю́да?|זה רחוק מכאן?|Is it far from here?
+бли́зко|קרוב|near, close|d|Метро́ совсе́м бли́зко.|המטרו ממש קרוב.|The metro is very close.
+ря́дом|ליד, בסמוך|nearby, next to|d|Сядь ря́дом со мной.|שב לידי.|Sit next to me.
+пря́мо|ישר|straight|d|Иди́те пря́мо, пото́м напра́во.|לכו ישר, אחר כך ימינה.|Go straight, then right.
+нале́во|שמאלה|to the left|d|Здесь на́до поверну́ть нале́во.|כאן צריך לפנות שמאלה.|You need to turn left here.
+напра́во|ימינה|to the right|d|Апте́ка напра́во за угло́м.|בית המרקחת מימין מעבר לפינה.|The pharmacy is to the right around the corner.
+наза́д|אחורה; לפני (זמן)|back; ago|d|Мы прие́хали два го́да наза́д.|הגענו לפני שנתיים.|We came two years ago.
+вперёд|קדימה|forward|d|Иди́ вперёд, я за тобо́й.|לך קדימה, אני אחריך.|Go ahead, I am behind you.
+внизу́|למטה|downstairs, below|d|Я жду тебя́ внизу́.|אני מחכה לך למטה.|I am waiting for you downstairs.
+наверху́|למעלה|upstairs, above|d|На́ша спа́льня наверху́.|חדר השינה שלנו למעלה.|Our bedroom is upstairs.
+ме́жду|בין|between|r|Ме́жду на́ми всё хорошо́.|בינינו הכול טוב.|Everything is fine between us.
+о́коло|ליד; בערך|near; about|r|Я бу́ду о́коло шести́.|אהיה שם בערך בשש.|I will be there around six.
+че́рез|בעוד; דרך|in (time); through|r|Че́рез пять мину́т всё бу́дет гото́во.|בעוד חמש דקות הכול יהיה מוכן.|In five minutes everything will be ready.
+по́сле|אחרי|after|r|По́сле рабо́ты я иду́ домо́й.|אחרי העבודה אני הולך הביתה.|After work I go home.
+до|עד; לפני|until; before|r|Я рабо́таю до шести́.|אני עובד עד שש.|I work until six.
+пе́ред|לפני, מול|in front of; before|r|Маши́на стои́т пе́ред до́мом.|המכונית עומדת מול הבית.|The car is parked in front of the house.
+за|מאחורי; בעד, לחיי|behind; for|r,t:toast|За ва́ше здоро́вье!|לחייכם! לבריאותכם!|To your health!
+под|מתחת|under|r|Ко́шка спит под столо́м.|החתולה ישנה מתחת לשולחן.|The cat is sleeping under the table.
+над|מעל|above|r|Ла́мпа виси́т над столо́м.|המנורה תלויה מעל השולחן.|The lamp hangs above the table.
+из|מ-, מתוך|from, out of|r,t:gen-prep|Я прие́хал из Изра́иля.|הגעתי מישראל.|I came from Israel.
+от|מ-, מאת|from|r|Э́то пода́рок от ба́бушки.|זו מתנה מסבתא.|This is a present from grandma.
+к|אל, ל-|to, toward|r,t:u-kogo|Приходи́ к нам в го́сти!|בוא לבקר אותנו!|Come and visit us!
+по|לפי; ברחבי, לאורך|along; around; by|r|Мы гуля́ем по го́роду.|אנחנו מטיילים בעיר.|We are walking around the city.
+о|על, אודות|about|r,t:o-prep|О чём ты ду́маешь?|על מה אתה חושב?|What are you thinking about?
+для|בשביל|for|r|Э́то пода́рок для тебя́.|זו מתנה בשבילך.|This is a present for you.
+без|בלי|without|r|Я не могу́ без тебя́.|אני לא יכול בלעדייך.|I can't be without you.
+про|על (דיבורי)|about (casual)|r,slang|Расскажи́ про свою́ семью́.|ספר על המשפחה שלך.|Tell me about your family.

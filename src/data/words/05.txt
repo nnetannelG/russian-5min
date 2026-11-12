@@ -1,0 +1,104 @@
+// Body, health, feelings, character
+голова́|ראש|head|nf|У меня́ боли́т голова́.|כואב לי הראש.|I have a headache.
+рука́|יד|hand, arm|nf|Дай мне ру́ку.|תן לי יד.|Give me your hand.
+нога́|רגל|leg, foot|nf|У ба́бушки боля́т но́ги.|לסבתא כואבות הרגליים.|Grandma's legs hurt.
+глаз|עין|eye|nm|У тебя́ краси́вые глаза́.|יש לך עיניים יפות.|You have beautiful eyes.
+у́хо|אוזן|ear|nn|У ребёнка боли́т у́хо.|לילד כואבת האוזן.|The child has an earache.
+нос|אף|nose|nm|У меня́ холо́дный нос.|יש לי אף קר.|My nose is cold.
+рот|פה|mouth|nm|Откро́й рот, пожа́луйста.|פתח את הפה, בבקשה.|Open your mouth, please.
+зуб|שן|tooth|nm|У меня́ боли́т зуб.|כואבת לי שן.|I have a toothache.
+во́лосы|שיער|hair|np|У неё дли́нные во́лосы.|יש לה שיער ארוך.|She has long hair.
+лицо́|פנים|face|nn|У него́ до́брое лицо́.|יש לו פנים טובות.|He has a kind face.
+се́рдце|לב|heart|nn|У неё до́брое се́рдце.|יש לה לב טוב.|She has a kind heart.
+спина́|גב|back|nf|У па́пы боли́т спина́.|לאבא כואב הגב.|Dad's back hurts.
+живо́т|בטן|stomach, belly|nm|У меня́ боли́т живо́т.|כואבת לי הבטן.|My stomach hurts.
+го́рло|גרון|throat|nn|У меня́ боли́т го́рло.|כואב לי הגרון.|I have a sore throat.
+па́лец|אצבע|finger|nm|Я поре́зал па́лец.|חתכתי את האצבע.|I cut my finger.
+здоро́вье|בריאות|health|nn|Как ва́ше здоро́вье?|מה שלום הבריאות שלכם?|How is your health?
+врач|רופא|doctor|nm|Тебе́ на́до пойти́ к врачу́.|אתה צריך ללכת לרופא.|You need to see a doctor.
+лека́рство|תרופה|medicine|nn|Ты при́нял лека́рство?|לקחת את התרופה?|Did you take the medicine?
+табле́тка|כדור, טבלייה|pill|nf|Мне нужна́ табле́тка от головы́.|אני צריך כדור נגד כאב ראש.|I need a pill for a headache.
+температу́ра|חום; טמפרטורה|temperature, fever|nf|У ребёнка высо́кая температу́ра.|לילד יש חום גבוה.|The child has a high fever.
+боль|כאב|pain|nf|Боль уже́ прошла́.|הכאב כבר עבר.|The pain is gone already.
+боле́ть|לכאוב; להיות חולה|to hurt; to be ill|v|Что у тебя́ боли́т?|מה כואב לך?|What hurts?
+больно́й|חולה|ill, sick|a|Он больно́й и лежи́т до́ма.|הוא חולה ושוכב בבית.|He is ill and stays in bed at home.
+здоро́вый|בריא|healthy|a|Гла́вное, что́бы все бы́ли здоро́вы.|העיקר שכולם יהיו בריאים.|The main thing is that everyone is healthy.
+уста́ть|להתעייף|to get tired|v,t:past|Я о́чень уста́л сего́дня.|התעייפתי מאוד היום.|I got very tired today.
+чу́вствовать|להרגיש|to feel|v|Я чу́вствую себя́ хорошо́.|אני מרגיש טוב.|I feel well.
+чу́вство|רגש, תחושה|feeling|nn|У неё хоро́шее чу́вство ю́мора.|יש לה חוש הומור טוב.|She has a good sense of humor.
+настрое́ние|מצב רוח|mood|nn|У меня́ сего́дня хоро́шее настрое́ние.|יש לי היום מצב רוח טוב.|I am in a good mood today.
+ра́дость|שמחה|joy|nf|Кака́я ра́дость, что вы прие́хали!|איזו שמחה שהגעתם!|What a joy that you came!
+сча́стье|אושר|happiness|nn|Жела́ю вам сча́стья!|אני מאחל לכם אושר!|I wish you happiness!
+счастли́вый|מאושר|happy|a|Я о́чень счастли́вый челове́к.|אני אדם מאושר מאוד.|I am a very happy person.
+гру́стный|עצוב|sad|a|Почему́ ты така́я гру́стная?|למה את כל כך עצובה?|Why are you so sad?
+весёлый|עליז, שמח|cheerful|a|Он о́чень весёлый па́рень.|הוא בחור עליז מאוד.|He is a very cheerful guy.
+злой|כועס; רשע|angry; mean|a|Не будь таки́м злым.|אל תהיה כזה כועס.|Don't be so angry.
+споко́йный|רגוע, שקט|calm|a|Он всегда́ споко́йный.|הוא תמיד רגוע.|He is always calm.
+не́рвничать|להיות עצבני, להילחץ|to be nervous|v|Не не́рвничай, всё бу́дет хорошо́.|אל תילחץ, הכול יהיה בסדר.|Don't be nervous, everything will be fine.
+волнова́ться|לדאוג|to worry|v,t:refl|Не волну́йся, ма́ма.|אל תדאגי, אמא.|Don't worry, mom.
+боя́ться|לפחד|to be afraid|v|Не бо́йся, я с тобо́й.|אל תפחד, אני איתך.|Don't be afraid, I am with you.
+стра́шно|מפחיד|scary|d|Мне немно́го стра́шно.|קצת מפחיד אותי.|I am a little scared.
+скуча́ть|להתגעגע; להשתעמם|to miss; to be bored|v|Я о́чень скуча́ю по тебе́.|אני מתגעגע אלייך מאוד.|I miss you very much.
+ску́чно|משעמם|boring|d,t:sht|Мне ску́чно без тебя́.|משעמם לי בלעדייך.|I am bored without you.
+интере́сно|מעניין|interesting (it is)|d|Э́то о́чень интере́сно!|זה מעניין מאוד!|That is very interesting!
+интере́сный|מעניין|interesting|a|Како́й интере́сный расска́з!|איזה סיפור מעניין!|What an interesting story!
+смешно́й|מצחיק|funny|a|Како́й смешно́й ко́тик!|איזה חתלתול מצחיק!|What a funny kitty!
+рад|שמח|glad|a,t:short|Я о́чень рад тебя́ ви́деть!|אני שמח מאוד לראות אותך!|I am very glad to see you!
+жаль|חבל|it is a pity|d|О́чень жаль, что ты не придёшь.|חבל מאוד שלא תבוא.|It is a great pity that you won't come.
+сты́дно|מביך, בושה|ashamed|d|Мне сты́дно за мой ру́сский.|אני מתבייש ברוסית שלי.|I am ashamed of my Russian.
+прия́тно|נעים|pleasant, nice|d|О́чень прия́тно познако́миться!|נעים מאוד להכיר!|Very nice to meet you!
+удо́бно|נוח|comfortable, convenient|d|Вам удо́бно в суббо́ту?|נוח לכם בשבת?|Is Saturday convenient for you?
+тру́дно|קשה|difficult (it is)|d|Мне тру́дно говори́ть по-ру́сски.|קשה לי לדבר רוסית.|It is hard for me to speak Russian.
+легко́|קל|easy (it is)|d|Э́то совсе́м не легко́.|זה בכלל לא קל.|That is not easy at all.
+краси́вый|יפה|beautiful|a|У вас о́чень краси́вый дом.|יש לכם בית יפה מאוד.|You have a very beautiful home.
+у́мный|חכם|smart|a|У вас о́чень у́мная дочь.|יש לכם בת חכמה מאוד.|You have a very smart daughter.
+глу́пый|טיפש|stupid, silly|a|Э́то был глу́пый вопро́с.|זו הייתה שאלה טיפשית.|That was a silly question.
+си́льный|חזק|strong|a|Мой па́па о́чень си́льный.|אבא שלי חזק מאוד.|My dad is very strong.
+сла́бый|חלש|weak|a|По́сле боле́зни я ещё сла́бый.|אחרי המחלה אני עוד חלש.|I am still weak after the illness.
+молодо́й|צעיר|young|a|Вы ещё тако́й молодо́й!|אתה עוד כל כך צעיר!|You are still so young!
+ста́рый|זקן; ישן|old|a|Э́то мой ста́рый друг.|זה חבר ותיק שלי.|This is my old friend.
+высо́кий|גבוה|tall, high|a|Её брат о́чень высо́кий.|אח שלה גבוה מאוד.|Her brother is very tall.
+ни́зкий|נמוך|low, short|a|Здесь о́чень ни́зкие це́ны.|יש פה מחירים נמוכים מאוד.|The prices here are very low.
+то́лстый|שמן; עבה|fat; thick|a|Наш кот стал то́лстым.|החתול שלנו נהיה שמן.|Our cat has become fat.
+худо́й|רזה|thin|a|Ты тако́й худо́й, ку́шай бо́льше!|אתה כל כך רזה, תאכל יותר!|You are so thin, eat more!
+ми́лый|חמוד, נחמד|sweet, dear|a,aff|Кака́я ми́лая де́вочка!|איזו ילדה חמודה!|What a sweet girl!
+че́стный|ישר, הגון|honest|a|Он че́стный челове́к.|הוא אדם ישר.|He is an honest man.
+стра́нный|מוזר|strange|a|Како́й стра́нный за́пах!|איזה ריח מוזר!|What a strange smell!
+смея́ться|לצחוק|to laugh|v|Почему́ вы смеётесь?|למה אתם צוחקים?|Why are you laughing?
+улыба́ться|לחייך|to smile|v|Она́ мне улыба́ется.|היא מחייכת אליי.|She is smiling at me.
+пла́кать|לבכות|to cry|v|Не плачь, всё хорошо́.|אל תבכי, הכול בסדר.|Don't cry, everything is fine.
+обня́ть|לחבק|to hug|v|Дай я тебя́ обниму́!|תן לי לחבק אותך!|Let me hug you!
+целова́ть|לנשק|to kiss|v|Целу́ю тебя́, до за́втра!|נשיקות, עד מחר!|Kisses, see you tomorrow!
+любо́вь|אהבה|love|nf|Э́то любо́вь с пе́рвого взгля́да.|זו אהבה ממבט ראשון.|It is love at first sight.
+наде́яться|לקוות|to hope|v|Наде́юсь, ско́ро уви́димся.|אני מקווה שנתראה בקרוב.|I hope we will see each other soon.
+ве́рить|להאמין|to believe|v|Я тебе́ ве́рю.|אני מאמין לך.|I believe you.
+по́мнить|לזכור|to remember|v|Ты по́мнишь, как мы познако́мились?|אתה זוכר איך הכרנו?|Do you remember how we met?
+забы́ть|לשכוח|to forget|v|Я забы́л ключи́ до́ма.|שכחתי את המפתחות בבית.|I forgot the keys at home.
+мечта́ть|לחלום (לשאוף)|to dream (of)|v|Я мечта́ю пое́хать в Петербу́рг.|אני חולם לנסוע לפטרבורג.|I dream of going to Petersburg.
+мечта́|חלום, משאלה|dream, wish|nf|Э́то моя́ да́вняя мечта́.|זה חלום ישן שלי.|This is my long-time dream.
+нра́виться|למצוא חן|to be pleasing, to like|v,t:nravitsya|Мне о́чень нра́вится твоя́ семья́.|המשפחה שלך מאוד מוצאת חן בעיניי.|I like your family very much.
+прости́ть|לסלוח|to forgive|v|Прости́ меня́, пожа́луйста.|תסלח לי, בבקשה.|Forgive me, please.
+извини́|סליחה (לחבר)|sorry (informal)|x|Извини́, я опозда́л.|סליחה, איחרתי.|Sorry, I am late.
+уве́рен|בטוח|sure|a,t:short|Ты уве́рен, что э́то здесь?|אתה בטוח שזה כאן?|Are you sure it is here?
+гото́вый|מוכן|ready|a|Ты гото́ва? Нам пора́.|את מוכנה? אנחנו צריכים לזוז.|Are you ready? It is time to go.
+за́нят|עסוק|busy|a|Сейча́с я немно́го за́нят.|עכשיו אני קצת עסוק.|I am a bit busy right now.
+свобо́дный|פנוי; חופשי|free|a|Ты свобо́дна сего́дня ве́чером?|את פנויה היום בערב?|Are you free tonight?
+до́лжен|חייב, צריך|must, have to|a,t:short|Я до́лжен тебе́ что́-то сказа́ть.|אני חייב להגיד לך משהו.|I have to tell you something.
+ва́жный|חשוב|important|a|Э́то о́чень ва́жный день.|זה יום חשוב מאוד.|This is a very important day.
+гла́вный|עיקרי, ראשי|main|a|Семья́ для меня́ гла́вное.|המשפחה היא העיקר בשבילי.|Family is the main thing for me.
+настоя́щий|אמיתי|real|a|Ты настоя́щий друг.|אתה חבר אמיתי.|You are a real friend.
+просто́й|פשוט|simple|a|Э́то о́чень просто́й реце́пт.|זה מתכון פשוט מאוד.|This is a very simple recipe.
+сло́жный|מסובך|complicated|a|Э́то сло́жный вопро́с.|זו שאלה מסובכת.|That is a complicated question.
+ти́хо|בשקט|quietly|d|Ти́хо, ребёнок спит!|שקט, הילד ישן!|Quiet, the child is sleeping!
+гро́мко|בקול רם|loudly|d|Не говори́ так гро́мко.|אל תדבר כל כך חזק.|Don't speak so loudly.
+ти́хий|שקט|quiet|a|Э́то о́чень ти́хий райо́н.|זו שכונה שקטה מאוד.|This is a very quiet neighborhood.
+бо́льно|כואב|painful (it hurts)|d|Тебе́ не бо́льно?|לא כואב לך?|Doesn't it hurt?
+просту́да|הצטננות|a cold|nf|У меня́ си́льная просту́да.|יש לי הצטננות חזקה.|I have a bad cold.
+ка́шель|שיעול|cough|nm|У него́ си́льный ка́шель.|יש לו שיעול חזק.|He has a bad cough.
+выздора́вливать|להחלים|to get well|v|Выздора́вливай скоре́е!|תחלים מהר!|Get well soon!
+сон|שינה; חלום|sleep; dream|nm|Мне присни́лся стра́нный сон.|חלמתי חלום מוזר.|I had a strange dream.
+си́ла|כוח|strength|nf|У меня́ бо́льше нет сил.|אין לי יותר כוח.|I have no strength left.
+слеза́|דמעה|tear|nf|Э́то слёзы ра́дости.|אלה דמעות של שמחה.|These are tears of joy.
+улы́бка|חיוך|smile|nf|У тебя́ краси́вая улы́бка.|יש לך חיוך יפה.|You have a beautiful smile.
+хара́ктер|אופי|character|nm|У неё си́льный хара́ктер.|יש לה אופי חזק.|She has a strong character.
+душа́|נשמה|soul|nf|У него́ до́брая душа́.|יש לו נשמה טובה.|He has a kind soul.

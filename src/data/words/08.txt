@@ -1,0 +1,107 @@
+// Connectors, fillers, adverbs: the glue of a real conversation
+так|כך, ככה; כל כך|so; like this|d|Не говори́ так!|אל תדבר ככה!|Don't talk like that!
+вообще́|בכלל|in general; at all|d|Я вообще́ не пью.|אני בכלל לא שותה.|I don't drink at all.
+про́сто|פשוט, סתם|simply, just|d|Я про́сто хочу́ помо́чь.|אני פשוט רוצה לעזור.|I just want to help.
+и́менно|בדיוק|exactly|d|И́менно э́то я хоте́л сказа́ть.|בדיוק את זה רציתי להגיד.|That is exactly what I wanted to say.
+действи́тельно|באמת|really, indeed|d|Э́то действи́тельно о́чень вку́сно.|זה באמת טעים מאוד.|This really is very tasty.
+наве́рное|כנראה|probably|d|Он, наве́рное, ещё спит.|הוא כנראה עוד ישן.|He is probably still asleep.
+то́чно|בדיוק; בטוח|exactly; for sure|d|Ты то́чно придёшь?|אתה בטוח בא?|Are you definitely coming?
+возмо́жно|ייתכן|possibly|d|Возмо́жно, ты прав.|ייתכן שאתה צודק.|Perhaps you are right.
+обяза́тельно|בהחלט, חובה|definitely, without fail|d|Я обяза́тельно приду́!|אני בטוח אבוא!|I will definitely come!
+наконе́ц|סוף סוף|finally|d|Наконе́ц ты прие́хал!|סוף סוף הגעת!|You have finally arrived!
+снача́ла|קודם, בהתחלה|first, at first|d|Снача́ла поеди́м, пото́м пойдём.|קודם נאכל, אחר כך נלך.|First we eat, then we go.
+сно́ва|שוב|again|d|Рад тебя́ сно́ва ви́деть.|שמח לראות אותך שוב.|Glad to see you again.
+опя́ть|שוב, עוד פעם|again, once more|d|Опя́ть идёт дождь.|שוב יורד גשם.|It is raining again.
+вдруг|פתאום|suddenly|d|Вдруг позвони́ла ма́ма.|פתאום אמא התקשרה.|Suddenly mom called.
+сра́зу|מיד|right away|d|Я сра́зу тебя́ узна́л.|זיהיתי אותך מיד.|I recognized you right away.
+всё равно́|לא משנה; בכל זאת|all the same; anyway|d|Мне всё равно́, куда́ идти́.|לא משנה לי לאן ללכת.|I don't mind where we go.
+наприме́р|למשל|for example|d|Наприме́р, за́втра ве́чером.|למשל, מחר בערב.|For example, tomorrow evening.
+кста́ти|דרך אגב|by the way|d|Кста́ти, как твоя́ ма́ма?|דרך אגב, מה שלום אמא שלך?|By the way, how is your mom?
+зна́чит|אז, כלומר|so, that means|x|Зна́чит, уви́димся в суббо́ту.|אז נתראה בשבת.|So, see you on Saturday.
+коро́че|בקיצור|in short|x,slang|Коро́че, я опозда́л на по́езд.|בקיצור, פספסתי את הרכבת.|Long story short, I missed the train.
+в о́бщем|בגדול, בסך הכול|basically, all in all|x|В о́бщем, всё хорошо́.|בגדול, הכול טוב.|All in all, everything is fine.
+на са́мом де́ле|למעשה, באמת|actually|x|На са́мом де́ле э́то легко́.|למעשה זה קל.|Actually, it is easy.
+че́стно говоря́|בכנות|honestly speaking|x|Че́стно говоря́, я о́чень уста́л.|בכנות, אני עייף מאוד.|Honestly, I am very tired.
+ме́жду про́чим|אגב, שתדע|by the way, mind you|x|Ме́жду про́чим, я то́же гото́влю.|שתדע, גם אני מבשל.|Mind you, I cook too.
+к сожале́нию|לצערי|unfortunately|x|К сожале́нию, я не смогу́ прийти́.|לצערי, לא אוכל לבוא.|Unfortunately, I won't be able to come.
+к сча́стью|למרבה המזל|fortunately|x|К сча́стью, всё зако́нчилось хорошо́.|למרבה המזל, הכול נגמר טוב.|Fortunately, everything ended well.
+по-мо́ему|לדעתי|in my opinion|x|По-мо́ему, э́то о́чень вку́сно.|לדעתי זה טעים מאוד.|In my opinion, this is very tasty.
+наоборо́т|להפך|on the contrary|d|Нет, совсе́м наоборо́т!|לא, בדיוק להפך!|No, quite the opposite!
+вме́сто|במקום|instead of|r|Я возьму́ чай вме́сто ко́фе.|אקח תה במקום קפה.|I will have tea instead of coffee.
+кро́ме|חוץ מ-|except, besides|r|Все пришли́, кро́ме Са́ши.|כולם באו חוץ מסשה.|Everyone came except Sasha.
+хотя́|למרות ש-|although|c|Я приду́, хотя́ о́чень уста́л.|אבוא, למרות שאני עייף מאוד.|I will come, although I am very tired.
+зато́|אבל לעומת זאת|but then, on the other hand|c|До́рого, зато́ о́чень вку́сно.|יקר, אבל מאוד טעים.|Expensive, but very tasty.
+одна́ко|אולם, עם זאת|however|c|Одна́ко уже́ по́здно.|אולם כבר מאוחר.|However, it is already late.
+поэ́тому|לכן|therefore|c|Я боле́л, поэ́тому не пришёл.|הייתי חולה, לכן לא באתי.|I was ill, so I did not come.
+так что|אז, כך ש-|so, so that|c|Уже́ по́здно, так что пойдём.|כבר מאוחר, אז בוא נלך.|It is late, so let's go.
+как бу́дто|כאילו|as if|c|Ты как бу́дто не рад.|אתה כאילו לא שמח.|You seem as if you are not glad.
+чем|מאשר|than|c,t:comp|Чай лу́чше, чем ко́фе.|תה יותר טוב מקפה.|Tea is better than coffee.
+чуть-чу́ть|טיפ-טיפה|a tiny bit|d|Мне то́лько чуть-чу́ть.|לי רק טיפ-טיפה.|Just a tiny bit for me.
+сли́шком|יותר מדי|too (much)|d|Ты сли́шком мно́го рабо́таешь.|אתה עובד יותר מדי.|You work too much.
+доста́точно|מספיק|enough|d|Э́того доста́точно, спаси́бо.|זה מספיק, תודה.|That is enough, thank you.
+дово́льно|די, למדי|rather, quite|d|Сего́дня дово́льно хо́лодно.|היום די קר.|It is rather cold today.
+так себе́|ככה ככה|so-so|d,slang|Фильм был так себе́.|הסרט היה ככה ככה.|The film was so-so.
+норма́льно|בסדר, נורמלי|fine, okay|d|У меня́ всё норма́льно.|אצלי הכול בסדר.|Everything is okay with me.
+отли́чно|מצוין|excellent|d|У нас всё отли́чно!|אצלנו הכול מצוין!|Everything is excellent with us!
+прекра́сно|נפלא|wonderful|d|Ты прекра́сно вы́глядишь!|את נראית נפלא!|You look wonderful!
+замеча́тельно|נהדר|remarkably, great|d|Вы замеча́тельно гото́вите!|אתם מבשלים נהדר!|You cook wonderfully!
+ужа́сно|נורא|terribly|d|Я ужа́сно хочу́ спать.|אני נורא רוצה לישון.|I am terribly sleepy.
+кла́ссно|מגניב|cool|d,slang|Как кла́ссно, что ты пришёл!|איזה מגניב שבאת!|How cool that you came!
+здо́рово|אחלה, יופי|great|d,slang|Здо́рово, что мы встре́тились!|אחלה שנפגשנו!|It is great that we met!
+кру́то|אדיר, מגניב|awesome|d,slang|Э́то о́чень кру́то!|זה ממש אדיר!|That is really awesome!
+пло́хо|רע, לא טוב|badly|d|Я пло́хо спал.|ישנתי רע.|I slept badly.
+непло́хо|לא רע|not bad|d|Ты непло́хо говори́шь по-ру́сски!|אתה מדבר רוסית לא רע!|You speak Russian quite well!
+пра́вильно|נכון|correctly|d|Я пра́вильно сказа́л?|אמרתי נכון?|Did I say it correctly?
+ве́рно|נכון, אמת|true, right|d|Да, соверше́нно ве́рно.|כן, נכון לחלוטין.|Yes, absolutely right.
+я́сно|ברור|clear|d|Всё я́сно, спаси́бо.|הכול ברור, תודה.|Everything is clear, thank you.
+поня́тно|מובן|understood|d|Тепе́рь мне всё поня́тно.|עכשיו הכול מובן לי.|Now I understand everything.
+ва́жно|חשוב|important (it is)|d|Э́то о́чень ва́жно для меня́.|זה חשוב לי מאוד.|This is very important to me.
+везде́|בכל מקום|everywhere|d|Я иска́л тебя́ везде́.|חיפשתי אותך בכל מקום.|I looked for you everywhere.
+нигде́|בשום מקום|nowhere|d|Я нигде́ не могу́ его́ найти́.|אני לא מוצא אותו בשום מקום.|I can't find him anywhere.
+где́-то|איפשהו|somewhere|d|Я где́-то ви́дел э́того челове́ка.|ראיתי את האיש הזה איפשהו.|I have seen this man somewhere.
+когда́-то|פעם, מתישהו|once, some time ago|d|Когда́-то я жил в дере́вне.|פעם גרתי בכפר.|I once lived in a village.
+ка́к-то|איכשהו|somehow|d|Мы ка́к-то спра́вимся.|נסתדר איכשהו.|We will manage somehow.
+почему́-то|משום מה|for some reason|d|Он почему́-то не отвеча́ет.|הוא משום מה לא עונה.|For some reason he is not answering.
+како́й-то|איזשהו|some, some kind of|p|Тебе́ звони́л како́й-то мужчи́на.|התקשר אליך איזשהו גבר.|Some man called you.
+ника́к|בשום אופן|in no way|d|Я ника́к не могу́ засну́ть.|אני לא מצליח להירדם בשום אופן.|I just can't fall asleep.
+никуда́|לשום מקום|(to) nowhere|d|Сего́дня я никуда́ не иду́.|היום אני לא הולך לשום מקום.|I am not going anywhere today.
+не́когда|אין זמן|there is no time|d|Мне сейча́с не́когда.|אין לי עכשיו זמן.|I have no time right now.
+мно́гие|רבים|many (people)|p|Мно́гие так ду́мают.|רבים חושבים כך.|Many people think so.
+не́сколько|כמה, מספר|several|m|Я зна́ю не́сколько слов.|אני יודע כמה מילים.|I know a few words.
+о́ба|שניהם|both|m|Мы о́ба уста́ли.|שנינו התעייפנו.|We are both tired.
+весь|כל ה-|whole, all|p|Я весь день был до́ма.|הייתי בבית כל היום.|I was at home all day.
+це́лый|שלם|whole, entire|a|Я ждал це́лый час.|חיכיתי שעה שלמה.|I waited a whole hour.
+любо́й|כל, איזה שלא יהיה|any|p|Приходи́ в любо́е вре́мя.|בוא בכל זמן.|Come at any time.
+са́мый|הכי|the most|p|Ты са́мая краси́вая!|את הכי יפה!|You are the most beautiful!
+одина́ковый|זהה|identical|a|У нас одина́ковые су́мки.|יש לנו תיקים זהים.|We have identical bags.
+ра́зный|שונה, מגוון|different, various|a|Мы с бра́том о́чень ра́зные.|אחי ואני שונים מאוד.|My brother and I are very different.
+похо́жий|דומה|similar|a|Ты о́чень похо́ж на па́пу.|אתה דומה מאוד לאבא.|You look a lot like dad.
+осо́бенно|במיוחד|especially|d|Я люблю́ фру́кты, осо́бенно я́блоки.|אני אוהב פירות, במיוחד תפוחים.|I love fruit, especially apples.
+обы́чно|בדרך כלל|usually|d|Обы́чно я встаю́ в семь.|בדרך כלל אני קם בשבע.|I usually get up at seven.
+ре́дко|לעתים רחוקות|rarely|d|Мы ре́дко ви́димся.|אנחנו מתראים לעתים רחוקות.|We rarely see each other.
+одна́жды|פעם אחת|once|d|Одна́жды я заблуди́лся в Москве́.|פעם אחת הלכתי לאיבוד במוסקבה.|Once I got lost in Moscow.
+неда́вно|לא מזמן|recently|d|Мы неда́вно перее́хали.|עברנו דירה לא מזמן.|We moved recently.
+то́лько что|הרגע, זה עתה|just now|d|Он то́лько что ушёл.|הוא הרגע הלך.|He has just left.
+зара́нее|מראש|in advance|d|Купи́ биле́ты зара́нее.|תקנה כרטיסים מראש.|Buy the tickets in advance.
+во́время|בזמן|on time|d|Он всегда́ прихо́дит во́время.|הוא תמיד מגיע בזמן.|He always comes on time.
+навсегда́|לתמיד|forever|d|Я хочу́ оста́ться здесь навсегда́.|אני רוצה להישאר כאן לתמיד.|I want to stay here forever.
+у́тром|בבוקר|in the morning|d|У́тром я пью ко́фе.|בבוקר אני שותה קפה.|In the morning I drink coffee.
+днём|בצהריים, במשך היום|in the daytime|d|Днём я на рабо́те.|ביום אני בעבודה.|During the day I am at work.
+ве́чером|בערב|in the evening|d|Что ты де́лаешь ве́чером?|מה אתה עושה בערב?|What are you doing in the evening?
+но́чью|בלילה|at night|d|Но́чью бы́ло о́чень хо́лодно.|בלילה היה קר מאוד.|It was very cold at night.
+послеза́втра|מחרתיים|the day after tomorrow|d|Мы улета́ем послеза́втра.|אנחנו טסים מחרתיים.|We are flying out the day after tomorrow.
+позавчера́|שלשום|the day before yesterday|d|Я ви́дел его́ позавчера́.|ראיתי אותו שלשום.|I saw him the day before yesterday.
+та́кже|כמו כן, וגם|also, as well|d|Мы та́кже ку́пим торт.|נקנה גם עוגה.|We will also buy a cake.
+ни|לא... ולא, אף|neither, nor|c,t:neg2|У меня́ нет ни бра́та, ни сестры́.|אין לי לא אח ולא אחות.|I have neither a brother nor a sister.
+ведь|הרי|after all, you know|x|Я ведь тебе́ говори́л!|הרי אמרתי לך!|I told you, didn't I!
+же|הרי, הלוא (הדגשה)|(emphasis particle)|x|Я же тебя́ люблю́!|הרי אני אוהב אותך!|But I love you!
+ли|האם|whether, if|x|Я не зна́ю, придёт ли он.|אני לא יודע אם הוא יבוא.|I don't know whether he will come.
+бы|הייתי, היה (תנאי)|would (conditional)|x|Я бы хоте́л ча́ю.|הייתי רוצה תה.|I would like some tea.
+ра́зве|וכי, האם באמת|really? (surprise)|x|Ра́зве ты не зна́ешь?|אתה באמת לא יודע?|Don't you really know?
+неуже́ли|באמת?! יכול להיות?|is it really possible?|x|Неуже́ли э́то пра́вда?|יכול להיות שזה נכון?|Can that really be true?
+ага́|אהה, כן|uh-huh|x,slang|Ага́, я всё по́нял.|אהה, הבנתי הכול.|Uh-huh, I got it all.
+ой|אוי|oh, oops|x|Ой, я забы́л ключи́!|אוי, שכחתי את המפתחות!|Oh, I forgot the keys!
+ого́|וואו|wow|x,slang|Ого́, како́й большо́й торт!|וואו, איזו עוגה גדולה!|Wow, what a big cake!
+ура́|הידד|hooray|x|Ура́, за́втра выходно́й!|הידד, מחר יום חופש!|Hooray, tomorrow is a day off!
+алло́|הלו|hello (on the phone)|x|Алло́, ма́ма, ты меня́ слы́шишь?|הלו, אמא, את שומעת אותי?|Hello, mom, can you hear me?
+ничего́ себе́|וואו, לא ייאמן|wow, no way|x,slang|Ничего́ себе́, как ты вы́рос!|וואו, איך גדלת!|Wow, how you have grown!

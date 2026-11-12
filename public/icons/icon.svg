@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#000"/>
+  <g transform="translate(256 256) scale(1.12) translate(-256 -256)">
+    <rect x="56" y="56" width="400" height="400" rx="96" fill="#15131f"/>
+    <text x="256" y="338" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="250" fill="#a493ff">Я</text>
+    <circle cx="372" cy="150" r="46" fill="#3ddc97"/>
+    <text x="372" y="171" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="60" fill="#04130c">5</text>
+  </g>
+</svg>

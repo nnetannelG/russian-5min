@@ -1,0 +1,106 @@
+// Numbers and amounts, society, culture, sport, medicine
+ноль|אפס|zero|m|На у́лице ноль гра́дусов.|בחוץ אפס מעלות.|It is zero degrees outside.
+оди́ннадцать|אחת עשרה|eleven|m|Уже́ оди́ннадцать часо́в.|כבר אחת עשרה.|It is already eleven o'clock.
+двена́дцать|שתים עשרה|twelve|m|В году́ двена́дцать ме́сяцев.|בשנה יש שנים עשר חודשים.|There are twelve months in a year.
+два́дцать|עשרים|twenty|m|Ей два́дцать лет.|היא בת עשרים.|She is twenty years old.
+три́дцать|שלושים|thirty|m|Мне три́дцать лет.|אני בן שלושים.|I am thirty years old.
+со́рок|ארבעים|forty|m|Э́то сто́ит со́рок рубле́й.|זה עולה ארבעים רובל.|It costs forty rubles.
+пятьдеся́т|חמישים|fifty|m|Па́пе пятьдеся́т лет.|אבא בן חמישים.|Dad is fifty.
+сто|מאה|a hundred|m|Я сто раз тебе́ говори́л!|אמרתי לך מאה פעם!|I have told you a hundred times!
+ты́сяча|אלף|a thousand|nf|Э́то сто́ит ты́сячу рубле́й.|זה עולה אלף רובל.|It costs a thousand rubles.
+миллио́н|מיליון|a million|nm|В Москве́ живу́т миллио́ны люде́й.|במוסקבה גרים מיליוני אנשים.|Millions of people live in Moscow.
+полтора́|אחד וחצי|one and a half|m|Я жду уже́ полтора́ часа́.|אני מחכה כבר שעה וחצי.|I have been waiting an hour and a half.
+проце́нт|אחוז|percent|nm|Ски́дка два́дцать проце́нтов.|הנחה של עשרים אחוז.|A twenty percent discount.
+коли́чество|כמות|quantity|nn|Ва́жно ка́чество, а не коли́чество.|חשובה האיכות ולא הכמות.|Quality matters, not quantity.
+ка́чество|איכות|quality|nn|Здесь проду́кты хоро́шего ка́чества.|יש כאן מוצרים באיכות טובה.|The groceries here are of good quality.
+рост|גובה (של אדם)|height|nm|Како́й у тебя́ рост?|מה הגובה שלך?|How tall are you?
+вес|משקל|weight|nm|Мне на́до сбро́сить вес.|אני צריך להוריד במשקל.|I need to lose weight.
+ско́рость|מהירות|speed|nf|Не превыша́й ско́рость!|אל תעבור את המהירות!|Don't exceed the speed limit!
+килогра́мм|קילו|kilogram|nm|Да́йте килогра́мм я́блок.|תנו קילו תפוחים.|Give me a kilo of apples.
+литр|ליטר|liter|nm|Купи́ два ли́тра молока́.|תקנה שני ליטר חלב.|Buy two liters of milk.
+шту́ка|יחידה, חתיכה|piece, item|nf|Мне три шту́ки, пожа́луйста.|לי שלוש יחידות, בבקשה.|Three of them for me, please.
+кусо́к|חתיכה, פרוסה|piece, slice|nm|Хо́чешь кусо́к то́рта?|רוצה חתיכת עוגה?|Do you want a piece of cake?
+по́рция|מנה|portion|nf|Здесь о́чень больши́е по́рции.|המנות כאן גדולות מאוד.|The portions here are very big.
+па́чка|חבילה|pack|nf|Купи́ па́чку ча́я.|תקנה חבילת תה.|Buy a pack of tea.
+ба́нка|צנצנת; פחית|jar; can|nf|Ба́бушка дала́ нам ба́нку варе́нья.|סבתא נתנה לנו צנצנת ריבה.|Grandma gave us a jar of jam.
+бу́ква|אות|letter (of alphabet)|nf|В ру́сском алфави́те три́дцать три бу́квы.|באלף-בית הרוסי שלושים ושלוש אותיות.|There are thirty-three letters in the Russian alphabet.
+звук|צליל|sound|nm|Что э́то за звук?|מה זה הצליל הזה?|What is that sound?
+го́лос|קול|voice|nm|У тебя́ прия́тный го́лос.|יש לך קול נעים.|You have a pleasant voice.
+шум|רעש|noise|nm|Я не могу́ спать из-за шу́ма.|אני לא יכול לישון בגלל הרעש.|I can't sleep because of the noise.
+тишина́|שקט, דממה|silence|nf|Кака́я здесь тишина́!|איזה שקט יש כאן!|How quiet it is here!
+за́пах|ריח|smell|nm|Како́й чуде́сный за́пах!|איזה ריח נהדר!|What a wonderful smell!
+мне́ние|דעה|opinion|nn|Мне ва́жно твоё мне́ние.|הדעה שלך חשובה לי.|Your opinion matters to me.
+мысль|מחשבה|thought|nf|Э́то хоро́шая мысль!|זו מחשבה טובה!|That is a good thought!
+па́мять|זיכרון|memory|nf|У ба́бушки отли́чная па́мять.|לסבתא יש זיכרון מצוין.|Grandma has an excellent memory.
+внима́ние|תשומת לב|attention|nn|Спаси́бо за внима́ние!|תודה על תשומת הלב!|Thank you for your attention!
+привы́чка|הרגל|habit|nf|У меня́ есть плоха́я привы́чка.|יש לי הרגל רע.|I have a bad habit.
+отноше́ния|מערכת יחסים, יחסים|relationship|np|У нас хоро́шие отноше́ния с сосе́дями.|יש לנו יחסים טובים עם השכנים.|We get on well with our neighbors.
+дру́жба|חברות|friendship|nf|На́шей дру́жбе уже́ де́сять лет.|החברות שלנו כבר בת עשר שנים.|Our friendship is ten years old already.
+уваже́ние|כבוד, הערכה|respect|nn|Я говорю́ э́то с уваже́нием.|אני אומר את זה בכבוד.|I say this with respect.
+забо́та|דאגה, טיפול|care|nf|Спаси́бо за твою́ забо́ту.|תודה על הדאגה שלך.|Thank you for your care.
+оби́да|עלבון|offense, hurt|nf|Не держи́ на меня́ оби́ду.|אל תשמרי לי טינה.|Don't hold a grudge against me.
+ссо́ра|ריב|quarrel|nf|Э́то была́ глу́пая ссо́ра.|זה היה ריב טיפשי.|It was a silly quarrel.
+свобо́да|חופש|freedom|nf|Для меня́ важна́ свобо́да.|חשוב לי החופש.|Freedom is important to me.
+возмо́жность|אפשרות, הזדמנות|opportunity, possibility|nf|У меня́ не́ было возмо́жности позвони́ть.|לא הייתה לי אפשרות להתקשר.|I had no opportunity to call.
+спо́соб|דרך, אופן|way, method|nm|Э́то лу́чший спо́соб учи́ть язы́к.|זו הדרך הכי טובה ללמוד שפה.|This is the best way to learn a language.
+у́ровень|רמה|level|nm|У тебя́ уже́ хоро́ший у́ровень.|כבר יש לך רמה טובה.|You already have a good level.
+состоя́ние|מצב|state, condition|nn|Маши́на в отли́чном состоя́нии.|המכונית במצב מצוין.|The car is in excellent condition.
+собы́тие|אירוע|event|nn|Сва́дьба э́то большо́е собы́тие.|חתונה היא אירוע גדול.|A wedding is a big event.
+реше́ние|החלטה; פתרון|decision; solution|nn|Э́то бы́ло тру́дное реше́ние.|זו הייתה החלטה קשה.|It was a difficult decision.
+предложе́ние|הצעה; משפט|proposal; sentence|nn|Он сде́лал ей предложе́ние.|הוא הציע לה נישואין.|He proposed to her.
+приглаше́ние|הזמנה|invitation|nn|Спаси́бо за приглаше́ние!|תודה על ההזמנה!|Thank you for the invitation!
+разгово́р|שיחה|conversation|nm|У нас был до́лгий разгово́р.|הייתה לנו שיחה ארוכה.|We had a long conversation.
+культу́ра|תרבות|culture|nf|Мне интере́сна ру́сская культу́ра.|התרבות הרוסית מעניינת אותי.|I am interested in Russian culture.
+иску́сство|אמנות|art|nn|Она́ изуча́ет иску́сство.|היא לומדת אמנות.|She studies art.
+нау́ка|מדע|science|nf|Мой оте́ц занима́ется нау́кой.|אבי עוסק במדע.|My father works in science.
+образова́ние|השכלה, חינוך|education|nn|У неё вы́сшее образова́ние.|יש לה השכלה גבוהה.|She has a university education.
+рели́гия|דת|religion|nf|Мы ре́дко говори́м о рели́гии.|אנחנו מדברים על דת לעתים רחוקות.|We rarely talk about religion.
+синаго́га|בית כנסת|synagogue|nf|Де́душка хо́дит в синаго́гу.|סבא הולך לבית הכנסת.|Grandpa goes to the synagogue.
+век|מאה (שנים)|century|nm|Э́той це́ркви пять веко́в.|הכנסייה הזאת בת חמש מאות שנה.|This church is five centuries old.
+про́шлое|עבר|the past|nn|Не бу́дем говори́ть о про́шлом.|לא נדבר על העבר.|Let's not talk about the past.
+бу́дущее|עתיד|the future|nn|Мы ду́маем о бу́дущем.|אנחנו חושבים על העתיד.|We are thinking about the future.
+де́тство|ילדות|childhood|nn|Расскажи́ о своём де́тстве.|ספרי על הילדות שלך.|Tell me about your childhood.
+мо́лодость|נעורים, צעירות|youth|nf|В мо́лодости де́душка был спортсме́ном.|בצעירותו סבא היה ספורטאי.|In his youth grandpa was an athlete.
+ста́рость|זקנה|old age|nf|Ста́рость не ра́дость.|הזקנה אינה שמחה.|Old age is no joy.
+поколе́ние|דור|generation|nn|Э́то друго́е поколе́ние.|זה דור אחר.|That is a different generation.
+о́бщество|חברה (ציבור)|society|nn|Мы живём в совреме́нном о́бществе.|אנחנו חיים בחברה מודרנית.|We live in a modern society.
+госуда́рство|מדינה (מוסד)|state|nn|Изра́иль молодо́е госуда́рство.|ישראל היא מדינה צעירה.|Israel is a young state.
+прави́тельство|ממשלה|government|nn|Все руга́ют прави́тельство.|כולם מקללים את הממשלה.|Everyone criticizes the government.
+президе́нт|נשיא|president|nm|Кто сейча́с президе́нт?|מי הנשיא עכשיו?|Who is the president now?
+поли́тика|פוליטיקה|politics|nf|За столо́м лу́чше не говори́ть о поли́тике.|ליד השולחן עדיף לא לדבר על פוליטיקה.|It is better not to talk politics at the table.
+эконо́мика|כלכלה|economy|nf|Он изуча́ет эконо́мику.|הוא לומד כלכלה.|He studies economics.
+а́рмия|צבא|army|nf|Я служи́л в а́рмии три го́да.|שירתי בצבא שלוש שנים.|I served in the army for three years.
+солда́т|חייל|soldier|nm|Мой брат сейча́с солда́т.|אחי חייל עכשיו.|My brother is a soldier now.
+поли́ция|משטרה|police|nf|На́до позвони́ть в поли́цию.|צריך להתקשר למשטרה.|We need to call the police.
+нало́г|מס|tax|nm|У нас высо́кие нало́ги.|אצלנו המסים גבוהים.|We have high taxes.
+пе́нсия|פנסיה|pension|nf|Ба́бушка уже́ на пе́нсии.|סבתא כבר בפנסיה.|Grandma is already retired.
+заво́д|מפעל|factory|nm|Де́душка всю жизнь рабо́тал на заво́де.|סבא עבד כל חייו במפעל.|Grandpa worked at a factory all his life.
+това́р|סחורה, מוצר|goods, product|nm|Э́то хоро́ший това́р.|זו סחורה טובה.|These are good goods.
+рекла́ма|פרסומת|advertisement|nf|По те́лику одна́ рекла́ма.|בטלוויזיה יש רק פרסומות.|There is nothing but ads on the telly.
+кри́зис|משבר|crisis|nm|Сейча́с в стране́ кри́зис.|עכשיו יש משבר במדינה.|There is a crisis in the country now.
+но́вости|חדשות|the news|np|Ты смотре́л вече́рние но́вости?|ראית את חדשות הערב?|Did you watch the evening news?
+ра́дио|רדיו|radio|nn|Ба́бушка слу́шает ра́дио на ку́хне.|סבתא מקשיבה לרדיו במטבח.|Grandma listens to the radio in the kitchen.
+журна́л|מגזין, כתב עת|magazine|nm|Я чита́л об э́том в журна́ле.|קראתי על זה במגזין.|I read about it in a magazine.
+статья́|כתבה, מאמר|article|nf|Э́то интере́сная статья́.|זו כתבה מעניינת.|This is an interesting article.
+писа́тель|סופר|writer|nm|Толсто́й вели́кий ру́сский писа́тель.|טולסטוי הוא סופר רוסי גדול.|Tolstoy is a great Russian writer.
+худо́жник|צייר, אמן|artist, painter|nm|Её де́душка был худо́жником.|סבא שלה היה צייר.|Her grandfather was a painter.
+актёр|שחקן|actor|nm|Э́то мой люби́мый актёр.|זה השחקן האהוב עליי.|This is my favorite actor.
+певе́ц|זמר|singer|nm|Кто э́тот певе́ц?|מי הזמר הזה?|Who is this singer?
+спорт|ספורט|sport|nm|Ты занима́ешься спо́ртом?|אתה עוסק בספורט?|Do you do any sport?
+футбо́л|כדורגל|football|nm|Ве́чером мы смо́трим футбо́л.|בערב אנחנו רואים כדורגל.|In the evening we are watching football.
+хокке́й|הוקי|hockey|nm|В Росси́и о́чень лю́бят хокке́й.|ברוסיה מאוד אוהבים הוקי.|In Russia people love hockey.
+ша́хматы|שחמט|chess|np|Де́душка научи́л меня́ игра́ть в ша́хматы.|סבא לימד אותי לשחק שחמט.|Grandpa taught me to play chess.
+кома́нда|קבוצה (ספורט); צוות|team|nf|За каку́ю кома́нду ты боле́ешь?|איזו קבוצה אתה אוהד?|Which team do you support?
+матч|משחק (ספורט)|match|nm|Сего́дня ва́жный матч.|היום יש משחק חשוב.|There is an important match today.
+побе́да|ניצחון|victory|nf|Поздравля́ю с побе́дой!|ברכות על הניצחון!|Congratulations on the victory!
+бассе́йн|בריכה|swimming pool|nm|По утра́м я хожу́ в бассе́йн.|בבקרים אני הולך לבריכה.|In the mornings I go to the pool.
+трениро́вка|אימון|training, workout|nf|У меня́ ве́чером трениро́вка.|יש לי אימון בערב.|I have a workout in the evening.
+медсестра́|אחות (רפואית)|nurse|nf|Моя́ тётя рабо́тает медсестро́й.|דודה שלי עובדת כאחות.|My aunt works as a nurse.
+опера́ция|ניתוח|operation|nf|Де́душке сде́лали опера́цию.|עשו לסבא ניתוח.|Grandpa had an operation.
+уко́л|זריקה|injection|nm|Мне сде́лали уко́л.|נתנו לי זריקה.|I was given an injection.
+страхо́вка|ביטוח|insurance|nf|У вас есть страхо́вка?|יש לכם ביטוח?|Do you have insurance?
+ско́рая по́мощь|אמבולנס|ambulance|nf|Вы́зовите ско́рую по́мощь!|תזמינו אמבולנס!|Call an ambulance!
+ава́рия|תאונה|accident|nf|На доро́ге была́ ава́рия.|בכביש הייתה תאונה.|There was an accident on the road.
+пожа́р|שריפה|fire (blaze)|nm|В сосе́днем до́ме был пожа́р.|בבית הסמוך הייתה שריפה.|There was a fire in the house next door.
+опа́сность|סכנה|danger|nf|Вы в опа́сности?|אתם בסכנה?|Are you in danger?
+помоги́те|הצילו, עזרו|help!|x|Помоги́те, мне пло́хо!|עזרו לי, אני מרגיש רע!|Help, I feel unwell!

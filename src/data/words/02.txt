@@ -1,0 +1,104 @@
+// Family, people, pointing words, everyday verbs, numbers
+брат|אח|brother|nm|Мой брат живёт в Москве́.|אחי גר במוסקבה.|My brother lives in Moscow.
+сестра́|אחות|sister|nf|У тебя́ есть сестра́?|יש לך אחות?|Do you have a sister?
+сын|בן|son|nm|Наш сын уже́ большо́й.|הבן שלנו כבר גדול.|Our son is already big.
+дочь|בת|daughter|nf|Э́то моя́ дочь А́ня.|זו הבת שלי אניה.|This is my daughter Anya.
+муж|בעל|husband|nm|Мой муж сейча́с на рабо́те.|בעלי עכשיו בעבודה.|My husband is at work now.
+жена́|אישה, רעיה|wife|nf|Э́то моя́ жена́.|זו אשתי.|This is my wife.
+ба́бушка|סבתא|grandmother|nf|Ба́бушка гото́вит борщ.|סבתא מבשלת בורשט.|Grandma is cooking borscht.
+де́душка|סבא|grandfather|nm,t:gender|Де́душка чита́ет газе́ту.|סבא קורא עיתון.|Grandpa is reading a newspaper.
+роди́тели|הורים|parents|np|Мои́ роди́тели живу́т в Изра́иле.|ההורים שלי גרים בישראל.|My parents live in Israel.
+ребёнок|ילד|child|nm|Ребёнок уже́ спит.|הילד כבר ישן.|The child is already asleep.
+де́ти|ילדים|children|np,t:plural|У вас есть де́ти?|יש לכם ילדים?|Do you have children?
+семья́|משפחה|family|nf|У нас больша́я семья́.|יש לנו משפחה גדולה.|We have a big family.
+де́вушка|בחורה; חברה (בת זוג)|girl; girlfriend|nf|Э́то моя́ де́вушка.|זו החברה שלי.|This is my girlfriend.
+па́рень|בחור; חבר (בן זוג)|guy; boyfriend|nm|Он хоро́ший па́рень.|הוא בחור טוב.|He is a good guy.
+же́нщина|אישה|woman|nf|Кто э́та же́нщина?|מי האישה הזאת?|Who is this woman?
+мужчи́на|גבר|man|nm|Э́тот мужчи́на мой дя́дя.|הגבר הזה הוא הדוד שלי.|This man is my uncle.
+подру́га|חברה (ידידה)|female friend|nf|Она́ моя́ подру́га.|היא חברה שלי.|She is my friend.
+и́мя|שם פרטי|first name|nn|Како́е краси́вое и́мя!|איזה שם יפה!|What a beautiful name!
+наш|שלנו|our|p|Наш го́род о́чень краси́вый.|העיר שלנו יפה מאוד.|Our city is very beautiful.
+ваш|שלכם; שלך (בנימוס)|your (plural or polite)|p,polite|Как ва́ша ма́ма?|מה שלום אמא שלכם?|How is your mom?
+его́|שלו; אותו|his; him|p,t:g-v|Э́то его́ маши́на.|זו המכונית שלו.|This is his car.
+её|שלה; אותה|her|p|Я зна́ю её бра́та.|אני מכיר את אחיה.|I know her brother.
+их|שלהם; אותם|their; them|p|Я их не зна́ю.|אני לא מכיר אותם.|I don't know them.
+э́тот|הזה|this|p|Э́тот торт о́чень вку́сный.|העוגה הזאת טעימה מאוד.|This cake is very tasty.
+тот|ההוא|that|p|Тот дом о́чень ста́рый.|הבית ההוא ישן מאוד.|That house is very old.
+тако́й|כזה; כל כך|such; so|p|Ты така́я краси́вая!|את כל כך יפה!|You are so beautiful!
+свой|של עצמו|one's own|p,t:svoj|Он лю́бит свою́ рабо́ту.|הוא אוהב את העבודה שלו.|He loves his job.
+себя́|את עצמו, עצמי|oneself|p|Как ты себя́ чу́вствуешь?|איך אתה מרגיש?|How do you feel?
+сам|בעצמו|by oneself|p|Я сам э́то сде́лал.|עשיתי את זה בעצמי.|I did it myself.
+ка́ждый|כל (אחד)|every, each|p|Я звоню́ ма́ме ка́ждый день.|אני מתקשר לאמא כל יום.|I call mom every day.
+друго́й|אחר|other, another|p|Дава́й в друго́й раз.|בוא בפעם אחרת.|Let's do it another time.
+кто́-то|מישהו|someone|p|Кто́-то звони́т в дверь.|מישהו מצלצל בדלת.|Someone is ringing the doorbell.
+что́-то|משהו|something|p|Хо́чешь что́-то съесть?|רוצה לאכול משהו?|Do you want something to eat?
+ничего́|כלום; לא נורא|nothing; it's okay|p,t:neg2|Я ничего́ не понима́ю.|אני לא מבין כלום.|I don't understand anything.
+никто́|אף אחד|nobody|p|Никто́ не зна́ет.|אף אחד לא יודע.|Nobody knows.
+никогда́|אף פעם|never|d|Я никогда́ не́ был в Росси́и.|אף פעם לא הייתי ברוסיה.|I have never been to Russia.
+всегда́|תמיד|always|d|Она́ всегда́ улыба́ется.|היא תמיד מחייכת.|She always smiles.
+иногда́|לפעמים|sometimes|d|Иногда́ я гото́влю сам.|לפעמים אני מבשל בעצמי.|Sometimes I cook myself.
+ча́сто|לעתים קרובות|often|d|Мы ча́сто хо́дим в кино́.|אנחנו הולכים הרבה לקולנוע.|We often go to the cinema.
+пото́м|אחר כך|later, then|d|Я позвоню́ пото́м.|אתקשר אחר כך.|I will call later.
+тепе́рь|עכשיו, מעתה|now (from now on)|d|Тепе́рь я понима́ю.|עכשיו אני מבין.|Now I understand.
+тогда́|אז|then, in that case|d|Тогда́ пойдём вме́сте.|אז נלך ביחד.|Then let's go together.
+сюда́|לכאן|(to) here|d|Иди́ сюда́!|בוא הנה!|Come here!
+туда́|לשם|(to) there|d|Я не хочу́ туда́ идти́.|אני לא רוצה ללכת לשם.|I don't want to go there.
+домо́й|הביתה|(to) home|d,t:dir|Пора́ идти́ домо́й.|הגיע הזמן ללכת הביתה.|It is time to go home.
+куда́|לאן|where to|d|Куда́ ты идёшь?|לאן אתה הולך?|Where are you going?
+отку́да|מאיפה|where from|d|Отку́да вы прие́хали?|מאיפה הגעתם?|Where did you come from?
+заче́м|בשביל מה|what for|d|Заче́м тебе́ э́то?|בשביל מה אתה צריך את זה?|What do you need this for?
+чей|של מי|whose|p|Чей э́то телефо́н?|של מי הטלפון הזה?|Whose phone is this?
+сказа́ть|לומר, להגיד|to say, to tell|v|Что ты сказа́л?|מה אמרת?|What did you say?
+спроси́ть|לשאול|to ask|v|Мо́жно тебя́ спроси́ть?|אפשר לשאול אותך?|May I ask you?
+отве́тить|לענות|to answer|v|Она́ мне не отве́тила.|היא לא ענתה לי.|She did not answer me.
+слу́шать|להקשיב|to listen|v|Я слу́шаю му́зыку.|אני מקשיב למוזיקה.|I am listening to music.
+смотре́ть|להסתכל, לצפות|to look, to watch|v|Мы смо́трим но́вый фильм.|אנחנו צופים בסרט חדש.|We are watching a new film.
+чита́ть|לקרוא|to read|v,t:acc|Я чита́ю интере́сную кни́гу.|אני קורא ספר מעניין.|I am reading an interesting book.
+писа́ть|לכתוב|to write|v|Я пишу́ ма́ме письмо́.|אני כותב מכתב לאמא.|I am writing a letter to mom.
+рабо́тать|לעבוד|to work|v|Где ты рабо́таешь?|איפה אתה עובד?|Where do you work?
+отдыха́ть|לנוח|to rest|v|Сего́дня мы отдыха́ем.|היום אנחנו נחים.|Today we are resting.
+спать|לישון|to sleep|v|Я о́чень хочу́ спать.|אני מאוד רוצה לישון.|I really want to sleep.
+пить|לשתות|to drink|v|Что ты бу́дешь пить?|מה תשתה?|What will you drink?
+гото́вить|לבשל; להכין|to cook; to prepare|v|Ма́ма о́чень вку́сно гото́вит.|אמא מבשלת טעים מאוד.|Mom cooks very well.
+купи́ть|לקנות|to buy|v|Мне на́до купи́ть хлеб.|אני צריך לקנות לחם.|I need to buy bread.
+дать|לתת|to give|v|Дай мне, пожа́луйста, соль.|תן לי בבקשה מלח.|Give me the salt, please.
+взять|לקחת|to take|v|Возьми́ ещё оди́н!|קח עוד אחד!|Take one more!
+помо́чь|לעזור|to help|v,t:dat|Помоги́ мне, пожа́луйста.|תעזור לי, בבקשה.|Help me, please.
+ждать|לחכות|to wait|v|Я жду тебя́ до́ма.|אני מחכה לך בבית.|I am waiting for you at home.
+прийти́|לבוא, להגיע|to come, to arrive|v|Я приду́ в семь.|אבוא בשבע.|I will come at seven.
+пойти́|ללכת, לצאת לדרך|to go, to set off|v,t:future|Пойдём гуля́ть в парк!|בוא נלך לטייל בפארק!|Let's go for a walk in the park!
+е́хать|לנסוע|to go (by vehicle)|v|Мы е́дем к ба́бушке.|אנחנו נוסעים לסבתא.|We are going to grandma's.
+стоя́ть|לעמוד|to stand|v|Он стои́т у две́ри.|הוא עומד ליד הדלת.|He is standing by the door.
+сиде́ть|לשבת|to sit|v|Мы сиди́м на ку́хне.|אנחנו יושבים במטבח.|We are sitting in the kitchen.
+звони́ть|להתקשר; לצלצל|to call; to ring|v|Тебе́ звони́т ма́ма.|אמא מתקשרת אליך.|Mom is calling you.
+игра́ть|לשחק; לנגן|to play|v|Де́ти игра́ют во дворе́.|הילדים משחקים בחצר.|The children are playing in the yard.
+учи́ть|ללמוד (משהו); ללמד|to learn; to teach|v|Я учу́ ру́сский язы́к.|אני לומד רוסית.|I am learning Russian.
+е́сли|אם|if|c|Е́сли хо́чешь, пойдём вме́сте.|אם אתה רוצה, נלך ביחד.|If you want, let's go together.
+что́бы|כדי|in order to, so that|c|Я учу́ ру́сский, что́бы говори́ть с тобо́й.|אני לומד רוסית כדי לדבר איתך.|I am learning Russian to talk with you.
+вот|הנה|here is|x|Вот твой чай.|הנה התה שלך.|Here is your tea.
+ну|נו; טוב|well|x,slang|Ну, как дела́?|נו, מה נשמע?|Well, how are things?
+да́же|אפילו|even|d|Да́же я э́то зна́ю.|אפילו אני יודע את זה.|Even I know that.
+почти́|כמעט|almost|d|Я почти́ гото́в.|אני כמעט מוכן.|I am almost ready.
+совсе́м|לגמרי; בכלל|completely; at all|d|Я совсе́м не уста́л.|אני בכלל לא עייף.|I am not tired at all.
+немно́го|קצת|a little|d|Я немно́го уста́л.|אני קצת עייף.|I am a little tired.
+мно́го|הרבה|a lot, many|d|У меня́ мно́го рабо́ты.|יש לי הרבה עבודה.|I have a lot of work.
+ма́ло|מעט|few, little|d|У нас ма́ло вре́мени.|יש לנו מעט זמן.|We have little time.
+бо́льше|יותר|more|d,t:comp|Я бо́льше не хочу́.|אני לא רוצה יותר.|I don't want any more.
+ме́ньше|פחות|less|d|Мне на́до ме́ньше рабо́тать.|אני צריך לעבוד פחות.|I need to work less.
+лу́чше|יותר טוב; עדיף|better|d|Так намно́го лу́чше.|ככה הרבה יותר טוב.|That is much better.
+ху́же|יותר גרוע|worse|d|Сего́дня мне ху́же.|היום אני מרגיש יותר גרוע.|I feel worse today.
+бы́стро|מהר|quickly|d|Ты говори́шь сли́шком бы́стро.|אתה מדבר מהר מדי.|You speak too fast.
+ме́дленно|לאט|slowly|d|Говори́те ме́дленно, пожа́луйста.|דברו לאט, בבקשה.|Speak slowly, please.
+ра́но|מוקדם|early|d|Я встаю́ о́чень ра́но.|אני קם מוקדם מאוד.|I get up very early.
+по́здно|מאוחר|late|d|Уже́ о́чень по́здно.|כבר מאוחר מאוד.|It is already very late.
+до́лго|הרבה זמן|for a long time|d|Мы до́лго тебя́ жда́ли.|חיכינו לך הרבה זמן.|We waited for you a long time.
+давно́|מזמן|long ago; for a long time|d|Мы давно́ не ви́делись!|מזמן לא התראינו!|Long time no see!
+ско́ро|בקרוב|soon|d|Ско́ро уви́димся!|נתראה בקרוב!|See you soon!
+вме́сте|ביחד|together|d|Мы живём вме́сте.|אנחנו גרים ביחד.|We live together.
+четы́ре|ארבע|four|m|У неё четы́ре ко́шки.|יש לה ארבעה חתולים.|She has four cats.
+пять|חמש|five|m|Я бу́ду че́рез пять мину́т.|אהיה שם בעוד חמש דקות.|I will be there in five minutes.
+шесть|שש|six|m|Мы у́жинаем в шесть.|אנחנו אוכלים ארוחת ערב בשש.|We have dinner at six.
+семь|שבע|seven|m|Я встаю́ в семь утра́.|אני קם בשבע בבוקר.|I get up at seven in the morning.
+во́семь|שמונה|eight|m|Фильм начина́ется в во́семь.|הסרט מתחיל בשמונה.|The film starts at eight.
+де́вять|תשע|nine|m|Магази́н открыва́ется в де́вять.|החנות נפתחת בתשע.|The shop opens at nine.
+де́сять|עשר|ten|m|Мне ну́жно де́сять мину́т.|אני צריך עשר דקות.|I need ten minutes.

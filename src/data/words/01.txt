@@ -1,0 +1,101 @@
+// ru | he | en | pos[,tag][,t:tip] | sentence ru | sentence he | sentence en
+приве́т|היי, שלום|hi|x|Приве́т! Как дела́?|היי! מה נשמע?|Hi! How are things?
+да|כן|yes|x|Да, я зна́ю.|כן, אני יודע.|Yes, I know.
+нет|לא; אין|no; there is no|x|Нет, спаси́бо.|לא, תודה.|No, thank you.
+спаси́бо|תודה|thank you|x|Спаси́бо большо́е!|תודה רבה!|Thank you very much!
+пожа́луйста|בבקשה|please; you're welcome|x|Да́йте во́ду, пожа́луйста.|תנו מים, בבקשה.|Give me water, please.
+я|אני|I|p,t:no-be|Я до́ма.|אני בבית.|I am at home.
+ты|אתה / את|you (informal)|p,t:ty-vy|Ты где?|איפה אתה?|Where are you?
+он|הוא|he|p|Он мой друг.|הוא חבר שלי.|He is my friend.
+она́|היא|she|p|Она́ моя́ сестра́.|היא אחותי.|She is my sister.
+мы|אנחנו|we|p|Мы уже́ здесь.|אנחנו כבר כאן.|We are already here.
+вы|אתם; אתה/את (בנימוס)|you (plural or polite)|p,polite|Как вы пожива́ете?|מה שלומכם?|How are you doing?
+они́|הם / הן|they|p|Они́ там.|הם שם.|They are there.
+э́то|זה, זו|this is; this|p|Что э́то?|מה זה?|What is this?
+не|לא (לפני פועל)|not|x|Я не хочу́.|אני לא רוצה.|I don't want to.
+и|ו-|and|c|Ма́ма и па́па до́ма.|אמא ואבא בבית.|Mom and dad are home.
+что|מה; ש-|what; that|p,t:sht|Что ты хо́чешь?|מה אתה רוצה?|What do you want?
+как|איך; כמו|how; like|d,t:zovut|Как тебя́ зову́т?|איך קוראים לך?|What is your name?
+кто|מי|who|p|Кто э́то?|מי זה?|Who is this?
+где|איפה|where|d|Где туале́т?|איפה השירותים?|Where is the toilet?
+хорошо́|טוב, בסדר|well; okay|d,t:o-a|У меня́ всё хорошо́.|אצלי הכול טוב.|Everything is fine with me.
+в|ב-; אל|in; to|r,t:prep|Я в маши́не.|אני במכונית.|I am in the car.
+на|על; ב-; אל|on; at; to|r|Он на рабо́те.|הוא בעבודה.|He is at work.
+с|עם; מ-|with; from|r,t:instr|Чай с лимо́ном.|תה עם לימון.|Tea with lemon.
+у|אצל; ליד|at; by (also "have")|r,t:have|У меня́ есть брат.|יש לי אח.|I have a brother.
+быть|להיות|to be|v,t:past|Я был до́ма.|הייתי בבית.|I was at home.
+есть|יש; לאכול|there is; to eat|v,t:est|У тебя́ есть вре́мя?|יש לך זמן?|Do you have time?
+хоте́ть|לרצות|to want|v|Я хочу́ чай.|אני רוצה תה.|I want tea.
+знать|לדעת; להכיר|to know|v,t:verb1|Ты зна́ешь, где он?|אתה יודע איפה הוא?|Do you know where he is?
+понима́ть|להבין|to understand|v|Я не понима́ю.|אני לא מבין.|I don't understand.
+говори́ть|לדבר; לומר|to speak; to say|v,t:verb2|Я немно́го говорю́ по-ру́сски.|אני מדבר קצת רוסית.|I speak a little Russian.
+люби́ть|לאהוב|to love|v|Я тебя́ люблю́.|אני אוהב אותך.|I love you.
+мочь|יכול, להיות מסוגל|can, to be able|v|Я могу́ помо́чь.|אני יכול לעזור.|I can help.
+де́лать|לעשות|to do; to make|v|Что ты де́лаешь?|מה אתה עושה?|What are you doing?
+идти́|ללכת (ברגל)|to go (on foot)|v,t:go|Я иду́ домо́й.|אני הולך הביתה.|I am going home.
+мой|שלי|my|p,t:moj|Э́то мой дом.|זה הבית שלי.|This is my house.
+твой|שלך|your (informal)|p|Э́то твой телефо́н?|זה הטלפון שלך?|Is this your phone?
+здра́вствуйте|שלום (מנומס)|hello (polite)|x,polite|Здра́вствуйте! Как ва́ши дела́?|שלום! מה שלומכם?|Hello! How are you?
+пока́|ביי; בינתיים|bye; for now|x,slang|Пока́! До за́втра.|ביי! נתראה מחר.|Bye! See you tomorrow.
+до свида́ния|להתראות|goodbye|x,polite|До свида́ния! Спаси́бо за всё.|להתראות! תודה על הכול.|Goodbye! Thanks for everything.
+извини́те|סליחה (מנומס)|excuse me; sorry|x,polite|Извини́те, где метро́?|סליחה, איפה המטרו?|Excuse me, where is the metro?
+о́чень|מאוד|very|d|О́чень вку́сно!|טעים מאוד!|Very tasty!
+ещё|עוד; עדיין|more; still|d|Хо́чешь ещё ча́ю?|רוצה עוד תה?|Do you want more tea?
+уже́|כבר|already|d|Я уже́ до́ма.|אני כבר בבית.|I am already home.
+то́же|גם|also, too|d|Я то́же хочу́.|גם אני רוצה.|I want some too.
+то́лько|רק|only|d|Я хочу́ то́лько ко́фе.|אני רוצה רק קפה.|I only want coffee.
+сейча́с|עכשיו|now|d|Я сейча́с на рабо́те.|אני עכשיו בעבודה.|I am at work now.
+здесь|כאן, פה|here|d|Я здесь.|אני כאן.|I am here.
+там|שם|there|d|Кто там?|מי שם?|Who is there?
+тут|פה|here (casual)|d|Тут о́чень краси́во.|מאוד יפה פה.|It is very beautiful here.
+но|אבל|but|c|Я хочу́, но не могу́.|אני רוצה, אבל לא יכול.|I want to, but I can't.
+а|ואילו, ו-; אבל|and, whereas|c|Я до́ма, а ты?|אני בבית, ואתה?|I am at home, and you?
+и́ли|או|or|c|Чай и́ли ко́фе?|תה או קפה?|Tea or coffee?
+потому́ что|כי, מפני ש-|because|c|Я до́ма, потому́ что я уста́л.|אני בבית כי אני עייף.|I am home because I am tired.
+почему́|למה|why|d|Почему́ ты не спишь?|למה אתה לא ישן?|Why aren't you sleeping?
+когда́|מתי; כאשר|when|d|Когда́ ты придёшь?|מתי תבוא?|When will you come?
+ско́лько|כמה|how much, how many|d|Ско́лько э́то сто́ит?|כמה זה עולה?|How much does this cost?
+како́й|איזה|which, what kind of|p|Како́й чай ты хо́чешь?|איזה תה אתה רוצה?|Which tea do you want?
+всё|הכול|everything|p|Всё хорошо́.|הכול בסדר.|Everything is fine.
+все|כולם|everyone, all|p|Все уже́ здесь.|כולם כבר כאן.|Everyone is already here.
+ма́ма|אמא|mom|nf,t:gender|Ма́ма до́ма?|אמא בבית?|Is mom at home?
+па́па|אבא|dad|nm|Па́па на рабо́те.|אבא בעבודה.|Dad is at work.
+друг|חבר|friend|nm|Он мой лу́чший друг.|הוא החבר הכי טוב שלי.|He is my best friend.
+дом|בית|house, home|nm|У нас большо́й дом.|יש לנו בית גדול.|We have a big house.
+до́ма|בבית|at home|d|Ты до́ма?|אתה בבית?|Are you at home?
+рабо́та|עבודה|work, job|nf|Как рабо́та?|איך העבודה?|How is work?
+вре́мя|זמן|time|nn,t:gen-net|У меня́ нет вре́мени.|אין לי זמן.|I have no time.
+день|יום|day|nm|До́брый день!|צהריים טובים!|Good afternoon!
+до́брый|טוב לב; טוב|kind; good|a|Он о́чень до́брый.|הוא טוב לב מאוד.|He is very kind.
+у́тро|בוקר|morning|nn|До́брое у́тро, ма́ма!|בוקר טוב, אמא!|Good morning, mom!
+ве́чер|ערב|evening|nm|До́брый ве́чер!|ערב טוב!|Good evening!
+ночь|לילה|night|nf,t:soft|Споко́йной но́чи!|לילה טוב!|Good night!
+сего́дня|היום|today|d,t:g-v|Что ты де́лаешь сего́дня?|מה אתה עושה היום?|What are you doing today?
+за́втра|מחר|tomorrow|d|Уви́димся за́втра.|נתראה מחר.|See you tomorrow.
+вчера́|אתמול|yesterday|d|Вчера́ я был у ма́мы.|אתמול הייתי אצל אמא.|Yesterday I was at mom's.
+мо́жно|אפשר, מותר|may, it is allowed|d,t:mozhno|Мо́жно войти́?|אפשר להיכנס?|May I come in?
+на́до|צריך|need to, must|d,t:nado|Мне на́до идти́.|אני צריך ללכת.|I need to go.
+ну́жно|צריך, נחוץ|necessary, needed|d|Что тебе́ ну́жно?|מה אתה צריך?|What do you need?
+нельзя́|אסור; אי אפשר|not allowed; impossible|d|Здесь нельзя́ кури́ть.|אסור לעשן כאן.|You can't smoke here.
+дава́й|בוא, יאללה|let's; come on|x,slang,t:davaj|Дава́й пойдём домо́й.|בוא נלך הביתה.|Let's go home.
+ла́дно|טוב, בסדר|okay, fine|x,slang|Ла́дно, пока́!|טוב, ביי!|Okay, bye!
+коне́чно|כמובן, בטח|of course|d,t:sht|Коне́чно, приходи́!|בטח, בוא!|Of course, come over!
+мо́жет быть|אולי|maybe|d|Мо́жет быть, за́втра.|אולי מחר.|Maybe tomorrow.
+пра́вда|אמת; באמת|truth; really|nf|Э́то пра́вда?|זה נכון?|Is that true?
+вода́|מים|water|nf|Мо́жно воды́?|אפשר מים?|May I have some water?
+чай|תה|tea|nm|Хо́чешь чай?|רוצה תה?|Do you want tea?
+ко́фе|קפה|coffee|nm|Я люблю́ ко́фе с молоко́м.|אני אוהב קפה עם חלב.|I love coffee with milk.
+еда́|אוכל|food|nf|Еда́ о́чень вку́сная.|האוכל טעים מאוד.|The food is very tasty.
+вку́сно|טעים|tasty|d|Спаси́бо, бы́ло о́чень вку́сно!|תודה, היה טעים מאוד!|Thank you, it was very tasty!
+большо́й|גדול|big|a,t:adj|Како́й большо́й дом!|איזה בית גדול!|What a big house!
+ма́ленький|קטן|small|a|У нас ма́ленькая ку́хня.|יש לנו מטבח קטן.|We have a small kitchen.
+хоро́ший|טוב|good|a|Он хоро́ший челове́к.|הוא אדם טוב.|He is a good person.
+плохо́й|רע|bad|a|Э́то плоха́я иде́я.|זה רעיון רע.|This is a bad idea.
+но́вый|חדש|new|a|У меня́ но́вая рабо́та.|יש לי עבודה חדשה.|I have a new job.
+оди́н|אחד|one|m|У меня́ оди́н брат.|יש לי אח אחד.|I have one brother.
+два|שניים|two|m,t:num|Два ко́фе, пожа́луйста.|שני קפה, בבקשה.|Two coffees, please.
+три|שלושה|three|m|У нас три ко́мнаты.|יש לנו שלושה חדרים.|We have three rooms.
+челове́к|אדם, בן אדם|person|nm|Она́ хоро́ший челове́к.|היא אדם טוב.|She is a good person.
+жить|לחיות; לגור|to live|v|Где вы живёте?|איפה אתם גרים?|Where do you live?
+ду́мать|לחשוב|to think|v|Я ду́маю, что да.|אני חושב שכן.|I think so.
+ви́деть|לראות|to see|v|Я тебя́ не ви́жу.|אני לא רואה אותך.|I don't see you.

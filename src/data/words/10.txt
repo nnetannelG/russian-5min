@@ -1,0 +1,102 @@
+// Clothes, colors, shopping, the house and its things, gadgets
+оде́жда|בגדים|clothes|nf|Мне нужна́ тёплая оде́жда.|אני צריך בגדים חמים.|I need warm clothes.
+ку́ртка|מעיל קצר|jacket|nf|Наде́нь ку́ртку, на у́лице ве́тер.|תלבש מעיל, יש רוח בחוץ.|Put on a jacket, it is windy outside.
+пальто́|מעיל ארוך|coat|nn|Дава́йте я возьму́ ва́ше пальто́.|תנו לי לקחת את המעיל שלכם.|Let me take your coat.
+ша́пка|כובע (חם)|hat|nf|Без ша́пки зимо́й нельзя́.|בלי כובע אי אפשר בחורף.|You can't go without a hat in winter.
+шарф|צעיף|scarf|nm|Ба́бушка связа́ла мне шарф.|סבתא סרגה לי צעיף.|Grandma knitted me a scarf.
+перча́тки|כפפות|gloves|np|Я потеря́л перча́тки.|איבדתי את הכפפות.|I lost my gloves.
+сви́тер|סוודר|sweater|nm|Како́й тёплый сви́тер!|איזה סוודר חם!|What a warm sweater!
+руба́шка|חולצה מכופתרת|shirt|nf|Тебе́ идёт э́та руба́шка.|החולצה הזאת מתאימה לך.|This shirt suits you.
+футбо́лка|חולצת טי|T-shirt|nf|Ле́том я ношу́ футбо́лки.|בקיץ אני לובש חולצות טי.|In summer I wear T-shirts.
+брю́ки|מכנסיים|trousers|np|Э́ти брю́ки мне малы́.|המכנסיים האלה קטנים עליי.|These trousers are too small for me.
+джи́нсы|ג'ינס|jeans|np|Я купи́л но́вые джи́нсы.|קניתי ג'ינס חדש.|I bought new jeans.
+ю́бка|חצאית|skirt|nf|Кака́я краси́вая ю́бка!|איזו חצאית יפה!|What a beautiful skirt!
+пла́тье|שמלה|dress|nn|Тебе́ о́чень идёт э́то пла́тье.|השמלה הזאת מאוד מתאימה לך.|This dress suits you very much.
+костю́м|חליפה|suit|nm|На сва́дьбу ну́жен костю́м.|לחתונה צריך חליפה.|You need a suit for the wedding.
+носки́|גרביים|socks|np|Где мои́ тёплые носки́?|איפה הגרביים החמות שלי?|Where are my warm socks?
+о́бувь|נעליים (באופן כללי)|footwear|nf|Сними́те о́бувь, пожа́луйста.|תחלצו נעליים, בבקשה.|Take off your shoes, please.
+ту́фли|נעליים (אלגנטיות)|shoes|np|Э́ти ту́фли о́чень удо́бные.|הנעליים האלה נוחות מאוד.|These shoes are very comfortable.
+боти́нки|נעלי הליכה, מגפונים|boots (ankle)|np|Мои́ боти́нки промо́кли.|הנעליים שלי נרטבו.|My boots got wet.
+сапоги́|מגפיים|high boots|np|Зимо́й она́ но́сит сапоги́.|בחורף היא נועלת מגפיים.|In winter she wears boots.
+кроссо́вки|נעלי ספורט|sneakers|np|Для прогу́лки наде́нь кроссо́вки.|לטיול תנעל נעלי ספורט.|Put on sneakers for the walk.
+очки́|משקפיים|glasses|np|Я не ви́жу без очко́в.|אני לא רואה בלי משקפיים.|I can't see without glasses.
+зонт|מטרייה|umbrella|nm|Возьми́ зонт, бу́дет дождь.|קח מטרייה, יירד גשם.|Take an umbrella, it is going to rain.
+часы́|שעון|watch, clock|np|Ско́лько на твои́х часа́х?|מה השעה בשעון שלך?|What time is it by your watch?
+кольцо́|טבעת|ring|nn|Он подари́л ей кольцо́.|הוא נתן לה טבעת.|He gave her a ring.
+рюкза́к|תרמיל גב|backpack|nm|Положи́ во́ду в рюкза́к.|שים את המים בתרמיל.|Put the water in the backpack.
+чемода́н|מזוודה|suitcase|nm|Мой чемода́н о́чень тяжёлый.|המזוודה שלי כבדה מאוד.|My suitcase is very heavy.
+карма́н|כיס|pocket|nm|Ключи́ у меня́ в карма́не.|המפתחות אצלי בכיס.|The keys are in my pocket.
+носи́ть|ללבוש; לשאת|to wear; to carry|v|Она́ всегда́ но́сит чёрное.|היא תמיד לובשת שחור.|She always wears black.
+наде́ть|ללבוש, לשים|to put on|v|Что мне сего́дня наде́ть?|מה ללבוש היום?|What should I wear today?
+снять|להוריד, לפשוט; לשכור|to take off; to rent|v|Сними́ ку́ртку, здесь тепло́.|תוריד את המעיל, חם פה.|Take off your jacket, it is warm here.
+приме́рить|למדוד (בגד)|to try on|v|Мо́жно э́то приме́рить?|אפשר למדוד את זה?|May I try this on?
+подходи́ть|להתאים; לגשת|to suit, to fit; to approach|v|Э́тот цвет тебе́ подхо́дит.|הצבע הזה מתאים לך.|This color suits you.
+кра́сный|אדום|red|a|Она́ купи́ла кра́сное пла́тье.|היא קנתה שמלה אדומה.|She bought a red dress.
+си́ний|כחול|blue (dark)|a|Мне нра́вится си́ний цвет.|מוצא חן בעיניי הצבע הכחול.|I like the color blue.
+голубо́й|תכלת|light blue|a|У неё голубы́е глаза́.|יש לה עיניים כחולות.|She has blue eyes.
+зелёный|ירוק|green|a|Я люблю́ зелёный чай.|אני אוהב תה ירוק.|I love green tea.
+жёлтый|צהוב|yellow|a|Тако́й жёлтый лимо́н!|איזה לימון צהוב!|Such a yellow lemon!
+бе́лый|לבן|white|a|На у́лице всё бе́лое от сне́га.|בחוץ הכול לבן משלג.|Everything outside is white with snow.
+чёрный|שחור|black|a|Мне чёрный ко́фе без са́хара.|לי קפה שחור בלי סוכר.|Black coffee without sugar for me.
+се́рый|אפור|gray|a|Сего́дня се́рое не́бо.|היום השמיים אפורים.|The sky is gray today.
+кори́чневый|חום|brown|a|У него́ кори́чневая ку́ртка.|יש לו מעיל חום.|He has a brown jacket.
+ро́зовый|ורוד|pink|a|До́чка лю́бит ро́зовый цвет.|הבת אוהבת את הצבע הוורוד.|My daughter loves pink.
+све́тлый|בהיר|light, bright|a|У них о́чень све́тлая кварти́ра.|יש להם דירה מוארת מאוד.|They have a very bright apartment.
+тёмный|כהה, חשוך|dark|a|На у́лице уже́ темно́.|בחוץ כבר חושך.|It is already dark outside.
+я́ркий|בוהק, עז|bright, vivid|a|Како́е я́ркое со́лнце!|איזו שמש בוהקת!|What a bright sun!
+поку́пка|קנייה|purchase|nf|Мы идём за поку́пками.|אנחנו הולכים לקניות.|We are going shopping.
+продаве́ц|מוכר|shop assistant|nm|Спроси́ у продавца́.|תשאל את המוכר.|Ask the shop assistant.
+ка́сса|קופה|cash desk|nf|Плати́ть на́до в ка́ссе.|צריך לשלם בקופה.|You have to pay at the cash desk.
+ски́дка|הנחה|discount|nf|Сего́дня больши́е ски́дки.|היום יש הנחות גדולות.|There are big discounts today.
+паке́т|שקית|bag (plastic or paper)|nm|Вам ну́жен паке́т?|אתם צריכים שקית?|Do you need a bag?
+чек|קבלה|receipt|nm|Не забу́дьте взять чек.|אל תשכחו לקחת קבלה.|Don't forget to take the receipt.
+дешёвый|זול|cheap|a|Э́то дешёвый, но хоро́ший рестора́н.|זו מסעדה זולה אבל טובה.|This is a cheap but good restaurant.
+беспла́тно|בחינם|for free|d|Вход сего́дня беспла́тно.|הכניסה היום בחינם.|Entrance is free today.
+нали́чные|מזומן|cash|np|У вас есть нали́чные?|יש לכם מזומן?|Do you have cash?
+ме́бель|רהיטים|furniture|nf|Мы купи́ли но́вую ме́бель.|קנינו רהיטים חדשים.|We bought new furniture.
+шкаф|ארון|wardrobe, cupboard|nm|Ку́ртка виси́т в шкафу́.|המעיל תלוי בארון.|The jacket is hanging in the wardrobe.
+по́лка|מדף|shelf|nf|Кни́га стои́т на по́лке.|הספר עומד על המדף.|The book is on the shelf.
+зе́ркало|מראה|mirror|nn|Посмотри́ на себя́ в зе́ркало.|תסתכל על עצמך במראה.|Look at yourself in the mirror.
+ковёр|שטיח|carpet|nm|На стене́ виси́т ковёр.|על הקיר תלוי שטיח.|A carpet hangs on the wall.
+ла́мпа|מנורה|lamp|nf|Включи́ ла́мпу, здесь темно́.|תדליק את המנורה, חשוך פה.|Turn on the lamp, it is dark here.
+поду́шка|כרית|pillow|nf|Мне нужна́ ещё одна́ поду́шка.|אני צריך עוד כרית.|I need one more pillow.
+одея́ло|שמיכה|blanket|nn|Дай мне тёплое одея́ло.|תן לי שמיכה חמה.|Give me a warm blanket.
+полоте́нце|מגבת|towel|nn|Чи́стое полоте́нце в ва́нной.|מגבת נקייה באמבטיה.|There is a clean towel in the bathroom.
+мы́ло|סבון|soap|nn|Помо́й ру́ки с мы́лом.|תשטוף ידיים עם סבון.|Wash your hands with soap.
+душ|מקלחת|shower|nm|Я бы́стро приму́ душ.|אני אתקלח מהר.|I will take a quick shower.
+плита́|כיריים|stove|nf|Суп стои́т на плите́.|המרק על הכיריים.|The soup is on the stove.
+ча́йник|קומקום|kettle|nm|Ча́йник уже́ вскипе́л.|הקומקום כבר רתח.|The kettle has already boiled.
+кастрю́ля|סיר|pot|nf|Борщ в большо́й кастрю́ле.|הבורשט בסיר הגדול.|The borscht is in the big pot.
+сковорода́|מחבת|frying pan|nf|Пожа́рь я́йца на сковороде́.|תטגן ביצים במחבת.|Fry the eggs in the pan.
+му́сор|זבל, אשפה|rubbish|nm|Вы́неси му́сор, пожа́луйста.|תוציא את הזבל, בבקשה.|Take out the rubbish, please.
+убо́рка|ניקיון|cleaning|nf|В суббо́ту у нас убо́рка.|בשבת יש אצלנו ניקיון.|We do the cleaning on Saturday.
+пол|רצפה|floor|nm|Не сиди́ на холо́дном полу́.|אל תשב על הרצפה הקרה.|Don't sit on the cold floor.
+стена́|קיר|wall|nf|На стене́ вися́т семе́йные фо́то.|על הקיר תלויות תמונות משפחתיות.|Family photos hang on the wall.
+у́гол|פינה|corner|nm|Магази́н за угло́м.|החנות מעבר לפינה.|The shop is around the corner.
+ле́стница|מדרגות|stairs|nf|Мы подняли́сь по ле́стнице.|עלינו במדרגות.|We went up the stairs.
+лифт|מעלית|elevator|nm|Лифт опя́ть не рабо́тает.|המעלית שוב לא עובדת.|The elevator is out of order again.
+эта́ж|קומה|floor, storey|nm|Мы живём на пя́том этаже́.|אנחנו גרים בקומה החמישית.|We live on the fifth floor.
+подъе́зд|חדר מדרגות, כניסה לבניין|building entrance|nm|Я жду тебя́ у подъе́зда.|אני מחכה לך ליד הכניסה לבניין.|I am waiting for you at the entrance.
+балко́н|מרפסת|balcony|nm|Мы пьём чай на балко́не.|אנחנו שותים תה במרפסת.|We are having tea on the balcony.
+кры́ша|גג|roof|nf|На кры́ше лежи́т снег.|על הגג יש שלג.|There is snow on the roof.
+ремо́нт|שיפוץ|renovation, repair|nm|Мы де́лаем ремо́нт в кварти́ре.|אנחנו עושים שיפוץ בדירה.|We are renovating the apartment.
+коридо́р|מסדרון|corridor|nm|Оста́вь су́мку в коридо́ре.|תשאיר את התיק במסדרון.|Leave the bag in the corridor.
+спа́льня|חדר שינה|bedroom|nf|Спа́льня на второ́м этаже́.|חדר השינה בקומה השנייה.|The bedroom is on the second floor.
+гости́ная|סלון|living room|nf|Го́сти сидя́т в гости́ной.|האורחים יושבים בסלון.|The guests are sitting in the living room.
+звоно́к|צלצול; פעמון|ring; doorbell|nm|Я жду ва́жного звонка́.|אני מחכה לשיחה חשובה.|I am waiting for an important call.
+заря́дка|מטען; התעמלות בוקר|charger; morning exercise|nf|У тебя́ есть заря́дка для телефо́на?|יש לך מטען לטלפון?|Do you have a phone charger?
+экра́н|מסך|screen|nm|У меня́ разби́лся экра́н.|נשבר לי המסך.|My screen got broken.
+кно́пка|כפתור|button|nf|Нажми́ на кра́сную кно́пку.|תלחץ על הכפתור האדום.|Press the red button.
+паро́ль|סיסמה|password|nm|Како́й здесь паро́ль от вайфа́я?|מה הסיסמה של הוויי-פיי כאן?|What is the wifi password here?
+приложе́ние|אפליקציה|app|nn|Я учу́ ру́сский в приложе́нии.|אני לומד רוסית באפליקציה.|I am learning Russian in an app.
+сайт|אתר אינטרנט|website|nm|Посмотри́ на са́йте.|תסתכל באתר.|Look on the website.
+ви́део|סרטון, וידאו|video|nn|Я посла́л тебе́ смешно́е ви́део.|שלחתי לך סרטון מצחיק.|I sent you a funny video.
+ка́мера|מצלמה|camera|nf|У э́того телефо́на хоро́шая ка́мера.|לטלפון הזה יש מצלמה טובה.|This phone has a good camera.
+нау́шники|אוזניות|headphones|np|Я забы́л нау́шники до́ма.|שכחתי את האוזניות בבית.|I forgot my headphones at home.
+бума́га|נייר|paper|nf|Дай мне лист бума́ги.|תן לי דף נייר.|Give me a sheet of paper.
+ру́чка|עט; ידית|pen; handle|nf|У тебя́ есть ру́чка?|יש לך עט?|Do you have a pen?
+каранда́ш|עיפרון|pencil|nm|Ребёнок рису́ет карандашо́м.|הילד מצייר בעיפרון.|The child is drawing with a pencil.
+но́жницы|מספריים|scissors|np|Где лежа́т но́жницы?|איפה המספריים?|Where are the scissors?
+коро́бка|קופסה|box|nf|Что в э́той коро́бке?|מה יש בקופסה הזאת?|What is in this box?
+игру́шка|צעצוע|toy|nf|Мы купи́ли вну́ку игру́шку.|קנינו לנכד צעצוע.|We bought our grandson a toy.
+мяч|כדור|ball|nm|Де́ти игра́ют в мяч.|הילדים משחקים בכדור.|The children are playing ball.

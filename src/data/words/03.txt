@@ -1,0 +1,99 @@
+// Food, the table, the home
+хлеб|לחם|bread|nm|Купи́ хлеб, пожа́луйста.|תקנה לחם, בבקשה.|Buy some bread, please.
+молоко́|חלב|milk|nn,t:o-a|В холоди́льнике нет молока́.|אין חלב במקרר.|There is no milk in the fridge.
+мя́со|בשר|meat|nn|Я не ем мя́со.|אני לא אוכל בשר.|I don't eat meat.
+ры́ба|דג|fish|nf|На у́жин бу́дет ры́ба.|לארוחת ערב יהיה דג.|There will be fish for dinner.
+суп|מרק|soup|nm|Суп ещё горя́чий.|המרק עוד חם.|The soup is still hot.
+борщ|בורשט|borscht|nm|Ба́бушкин борщ са́мый вку́сный.|הבורשט של סבתא הכי טעים.|Grandma's borscht is the tastiest.
+ка́ша|דייסה|porridge|nf|На за́втрак я ем ка́шу.|לארוחת בוקר אני אוכל דייסה.|I eat porridge for breakfast.
+сыр|גבינה|cheese|nm|Хо́чешь бутербро́д с сы́ром?|רוצה כריך עם גבינה?|Do you want a cheese sandwich?
+ма́сло|חמאה; שמן|butter; oil|nn|Я люблю́ хлеб с ма́слом.|אני אוהב לחם עם חמאה.|I love bread with butter.
+яйцо́|ביצה|egg|nn|Я хочу́ два яйца́.|אני רוצה שתי ביצים.|I want two eggs.
+соль|מלח|salt|nf|Переда́й соль, пожа́луйста.|תעביר את המלח, בבקשה.|Pass the salt, please.
+са́хар|סוכר|sugar|nm,t:gen-prep|Мне чай без са́хара.|לי תה בלי סוכר.|Tea without sugar for me.
+карто́шка|תפוחי אדמה|potatoes|nf|Жа́реная карто́шка с гриба́ми.|תפוחי אדמה מטוגנים עם פטריות.|Fried potatoes with mushrooms.
+о́вощи|ירקות|vegetables|np|Я люблю́ све́жие о́вощи.|אני אוהב ירקות טריים.|I love fresh vegetables.
+фру́кты|פירות|fruit|np|На столе́ лежа́т фру́кты.|על השולחן מונחים פירות.|There is fruit on the table.
+я́блоко|תפוח|apple|nn|Хо́чешь зелёное я́блоко?|רוצה תפוח ירוק?|Do you want a green apple?
+сала́т|סלט|salad|nm|Положи́ мне сала́т, пожа́луйста.|תשים לי סלט, בבקשה.|Put some salad on my plate, please.
+пиро́г|פשטידה, מאפה|pie|nm|Ма́ма испекла́ пиро́г.|אמא אפתה פשטידה.|Mom baked a pie.
+блины́|בליני, חביתיות|pancakes (blini)|np|Я люблю́ блины́ со смета́ной.|אני אוהב בליני עם שמנת חמוצה.|I love blini with sour cream.
+пельме́ни|פלמני, כיסונים|dumplings|np|Мы ле́пим пельме́ни всей семьёй.|אנחנו מכינים פלמני כל המשפחה.|The whole family makes dumplings together.
+торт|עוגה|cake|nm|Я купи́л торт на день рожде́ния.|קניתי עוגה ליום ההולדת.|I bought a cake for the birthday.
+конфе́та|סוכרייה, בונבון|candy|nf|Возьми́ ещё конфе́ту.|קח עוד סוכרייה.|Take another candy.
+сок|מיץ|juice|nm|Де́тям сок, а нам вино́.|לילדים מיץ, ולנו יין.|Juice for the kids, wine for us.
+вино́|יין|wine|nn|Кра́сное и́ли бе́лое вино́?|יין אדום או לבן?|Red or white wine?
+пи́во|בירה|beer|nn|Пойдём пить пи́во.|בוא נלך לשתות בירה.|Let's go have a beer.
+во́дка|וודקה|vodka|nf|Па́па налива́ет во́дку.|אבא מוזג וודקה.|Dad is pouring vodka.
+за́втрак|ארוחת בוקר|breakfast|nm|Что у нас на за́втрак?|מה יש לנו לארוחת בוקר?|What do we have for breakfast?
+обе́д|ארוחת צהריים|lunch|nm|Обе́д уже́ гото́в!|ארוחת הצהריים כבר מוכנה!|Lunch is ready!
+у́жин|ארוחת ערב|dinner|nm|Спаси́бо за вку́сный у́жин!|תודה על ארוחת הערב הטעימה!|Thank you for the tasty dinner!
+стол|שולחן|table|nm|Все за стол!|כולם לשולחן!|Everyone to the table!
+стул|כיסא|chair|nm|Возьми́ ещё оди́н стул.|קח עוד כיסא.|Take one more chair.
+ку́хня|מטבח|kitchen|nf|Ма́ма сейча́с на ку́хне.|אמא עכשיו במטבח.|Mom is in the kitchen now.
+ко́мната|חדר|room|nf|Э́то бу́дет твоя́ ко́мната.|זה יהיה החדר שלך.|This will be your room.
+кварти́ра|דירה|apartment|nf|У них но́вая кварти́ра.|יש להם דירה חדשה.|They have a new apartment.
+дверь|דלת|door|nf|Закро́й дверь, пожа́луйста.|סגור את הדלת, בבקשה.|Close the door, please.
+окно́|חלון|window|nn|Откро́й окно́, здесь жа́рко.|פתח את החלון, חם פה.|Open the window, it is hot in here.
+крова́ть|מיטה|bed|nf|Ребёнок уже́ в крова́ти.|הילד כבר במיטה.|The child is already in bed.
+дива́н|ספה|sofa|nm|Сади́сь на дива́н.|שב על הספה.|Sit down on the sofa.
+ключ|מפתח|key|nm|Где мои́ ключи́?|איפה המפתחות שלי?|Where are my keys?
+ча́шка|ספל|cup|nf|Мо́жно ча́шку ко́фе?|אפשר ספל קפה?|May I have a cup of coffee?
+стака́н|כוס|glass|nm|Стака́н воды́, пожа́луйста.|כוס מים, בבקשה.|A glass of water, please.
+таре́лка|צלחת|plate|nf|Дай мне твою́ таре́лку.|תן לי את הצלחת שלך.|Give me your plate.
+ло́жка|כף|spoon|nf|Мне нужна́ ло́жка.|אני צריך כף.|I need a spoon.
+ви́лка|מזלג|fork|nf|Ви́лка сле́ва, нож спра́ва.|המזלג משמאל, הסכין מימין.|Fork on the left, knife on the right.
+нож|סכין|knife|nm|Осторо́жно, нож о́стрый!|זהירות, הסכין חד!|Careful, the knife is sharp!
+буты́лка|בקבוק|bottle|nf|Откро́й буты́лку вина́.|פתח בקבוק יין.|Open a bottle of wine.
+холоди́льник|מקרר|fridge|nm|Положи́ сыр в холоди́льник.|שים את הגבינה במקרר.|Put the cheese in the fridge.
+де́ньги|כסף|money|np|У меня́ с собо́й нет де́нег.|אין עליי כסף.|I have no money on me.
+магази́н|חנות|shop|nm|Я иду́ в магази́н.|אני הולך לחנות.|I am going to the shop.
+ры́нок|שוק|market|nm|О́вощи лу́чше покупа́ть на ры́нке.|ירקות עדיף לקנות בשוק.|It is better to buy vegetables at the market.
+цена́|מחיר|price|nf|Кака́я здесь цена́?|מה המחיר כאן?|What is the price here?
+до́рого|יקר|expensive|d|Э́то сли́шком до́рого.|זה יקר מדי.|That is too expensive.
+дёшево|בזול|cheap|d|Здесь всё о́чень дёшево.|הכול מאוד זול פה.|Everything is very cheap here.
+голо́дный|רעב|hungry|a|Ты голо́дный?|אתה רעב?|Are you hungry?
+сы́тый|שבע|full (not hungry)|a,t:short|Спаси́бо, я уже́ сыт.|תודה, אני כבר שבע.|Thank you, I am already full.
+горя́чий|חם (למגע)|hot|a|Осторо́жно, чай горя́чий.|זהירות, התה חם.|Careful, the tea is hot.
+холо́дный|קר|cold|a|Вода́ о́чень холо́дная.|המים קרים מאוד.|The water is very cold.
+тёплый|חמים|warm|a|Сего́дня тёплый день.|היום יום חמים.|Today is a warm day.
+све́жий|טרי|fresh|a|Хлеб совсе́м све́жий.|הלחם טרי לגמרי.|The bread is completely fresh.
+сла́дкий|מתוק|sweet|a|Торт сли́шком сла́дкий.|העוגה מתוקה מדי.|The cake is too sweet.
+солёный|מלוח|salty|a|Суп немно́го солёный.|המרק קצת מלוח.|The soup is a little salty.
+о́стрый|חריף; חד|spicy; sharp|a|Я люблю́ о́струю еду́.|אני אוהב אוכל חריף.|I love spicy food.
+вку́сный|טעים|tasty|a|Како́й вку́сный пиро́г!|איזו פשטידה טעימה!|What a tasty pie!
+ку́шать|לאכול (ביתי, חם)|to eat (homey)|v,aff|Де́ти, иди́те ку́шать!|ילדים, בואו לאכול!|Kids, come and eat!
+попро́бовать|לטעום; לנסות|to taste; to try|v|Попро́буй, э́то вку́сно!|תטעם, זה טעים!|Try it, it is tasty!
+нали́ть|למזוג|to pour|v|Тебе́ нали́ть ча́ю?|למזוג לך תה?|Shall I pour you some tea?
+положи́ть|לשים, להניח|to put|v|Тебе́ положи́ть ещё?|לשים לך עוד?|Shall I give you some more?
+мыть|לשטוף|to wash|v|Я мо́ю ру́ки пе́ред едо́й.|אני שוטף ידיים לפני האוכל.|I wash my hands before eating.
+откры́ть|לפתוח|to open|v|Мо́жно откры́ть окно́?|אפשר לפתוח את החלון?|May I open the window?
+закры́ть|לסגור|to close|v|Магази́н уже́ закры́т.|החנות כבר סגורה.|The shop is already closed.
+включи́ть|להדליק, להפעיל|to turn on|v|Включи́ свет, пожа́луйста.|תדליק את האור, בבקשה.|Turn on the light, please.
+вы́ключить|לכבות|to turn off|v|Вы́ключи телеви́зор.|תכבה את הטלוויזיה.|Turn off the TV.
+сади́ться|להתיישב|to sit down|v,t:refl|Сади́тесь, пожа́луйста!|שבו בבקשה!|Please sit down!
+встава́ть|לקום|to get up|v|Пора́ встава́ть!|הגיע הזמן לקום!|Time to get up!
+прия́тного аппети́та|בתיאבון|enjoy your meal|x,polite|Прия́тного аппети́та всем!|בתיאבון לכולם!|Enjoy your meal, everyone!
+на здоро́вье|לבריאות (תשובה לתודה על אוכל)|you're welcome (for food)|x|Ку́шай на здоро́вье!|תאכל לבריאות!|Eat and enjoy!
+хва́тит|מספיק|enough|d|Спаси́бо, мне хва́тит.|תודה, מספיק לי.|Thank you, that is enough for me.
+по́лный|מלא|full|a|У меня́ ещё по́лная таре́лка.|יש לי עוד צלחת מלאה.|My plate is still full.
+пусто́й|ריק|empty|a|Наш холоди́льник пусто́й.|המקרר שלנו ריק.|Our fridge is empty.
+чи́стый|נקי|clean|a|Таре́лки уже́ чи́стые.|הצלחות כבר נקיות.|The plates are already clean.
+гря́зный|מלוכלך|dirty|a|У тебя́ гря́зные ру́ки.|יש לך ידיים מלוכלכות.|Your hands are dirty.
+смета́на|שמנת חמוצה|sour cream|nf|Борщ едя́т со смета́ной.|בורשט אוכלים עם שמנת חמוצה.|Borscht is eaten with sour cream.
+гриб|פטרייה|mushroom|nm|Мы собира́ем грибы́ в лесу́.|אנחנו אוספים פטריות ביער.|We pick mushrooms in the forest.
+огуре́ц|מלפפון|cucumber|nm|Ба́бушка де́лает солёные огурцы́.|סבתא מכינה מלפפונים חמוצים.|Grandma makes pickles.
+помидо́р|עגבנייה|tomato|nm|Сала́т из помидо́ров и огурцо́в.|סלט עגבניות ומלפפונים.|A tomato and cucumber salad.
+лук|בצל|onion|nm|Я не люблю́ лук.|אני לא אוהב בצל.|I don't like onion.
+ку́рица|עוף; תרנגולת|chicken|nf|На обе́д ку́рица с карто́шкой.|לצהריים עוף עם תפוחי אדמה.|Chicken with potatoes for lunch.
+колбаса́|נקניק|sausage|nf|Купи́ колбасу́ и сыр.|תקנה נקניק וגבינה.|Buy sausage and cheese.
+бутербро́д|כריך|sandwich|nm|Сде́лать тебе́ бутербро́д?|להכין לך כריך?|Shall I make you a sandwich?
+моро́женое|גלידה|ice cream|nn|Де́ти хотя́т моро́женое.|הילדים רוצים גלידה.|The children want ice cream.
+шокола́д|שוקולד|chocolate|nm|Она́ лю́бит го́рький шокола́д.|היא אוהבת שוקולד מריר.|She loves dark chocolate.
+пече́нье|עוגיות|cookies|nn|Я люблю́ чай с пече́ньем.|אני אוהב תה עם עוגיות.|I love tea with cookies.
+посу́да|כלים (כלי אוכל)|dishes|nf|Я помо́ю посу́ду.|אני אשטוף את הכלים.|I will wash the dishes.
+вкус|טעם|taste|nm|У э́того сы́ра стра́нный вкус.|לגבינה הזאת יש טעם מוזר.|This cheese has a strange taste.
+свет|אור|light|nm|В ко́мнате нет све́та.|אין אור בחדר.|There is no light in the room.
+телеви́зор|טלוויזיה|TV set|nm|Де́душка смо́трит телеви́зор.|סבא צופה בטלוויזיה.|Grandpa is watching TV.
+ва́нная|חדר אמבטיה|bathroom|nf|Ва́нная напра́во.|חדר האמבטיה מימין.|The bathroom is on the right.
+туале́т|שירותים|toilet|nm|Туале́т в конце́ коридо́ра.|השירותים בסוף המסדרון.|The toilet is at the end of the corridor.

@@ -1,0 +1,18 @@
+// Pronoun forms that appear in almost every sentence
+меня́|אותי|me|p|Ты меня́ слы́шишь?|אתה שומע אותי?|Can you hear me?
+мне|לי|to me|p,t:nado|Дай мне во́ду.|תן לי מים.|Give me water.
+тебя́|אותך|you (object)|p|Я тебя́ жду.|אני מחכה לך.|I am waiting for you.
+тебе́|לך|to you|p|Что тебе́ купи́ть?|מה לקנות לך?|What shall I buy you?
+у меня́|יש לי; אצלי|I have; at my place|x,t:have|У меня́ есть иде́я.|יש לי רעיון.|I have an idea.
+у тебя́|יש לך; אצלך|you have; at your place|x|Что у тебя́ но́вого?|מה חדש אצלך?|What is new with you?
+нас|אותנו; אצלנו|us|p|У нас всё хорошо́.|אצלנו הכול טוב.|Everything is fine with us.
+нам|לנו|to us|p|Нам на́до идти́.|אנחנו צריכים ללכת.|We need to go.
+вас|אתכם; אותך (בנימוס)|you (object, plural or polite)|p,polite|Я вас не понима́ю.|אני לא מבין אתכם.|I don't understand you.
+вам|לכם; לך (בנימוס)|to you (plural or polite)|p,polite|Вам помо́чь?|לעזור לכם?|Can I help you?
+ему́|לו|to him|p|Позвони́ ему́ за́втра.|תתקשר אליו מחר.|Call him tomorrow.
+ей|לה|to her|p|Я купи́л ей цветы́.|קניתי לה פרחים.|I bought her flowers.
+им|להם|to them|p|Скажи́ им спаси́бо.|תגיד להם תודה.|Tell them thank you.
+оно́|זה, הוא (סתמי)|it|p|Где молоко́? Оно́ в холоди́льнике.|איפה החלב? הוא במקרר.|Where is the milk? It is in the fridge.
+со мной|איתי|with me|x,t:instr|Пойдём со мной!|בוא איתי!|Come with me!
+с тобо́й|איתך|with you|x|Я хочу́ быть с тобо́й.|אני רוצה להיות איתך.|I want to be with you.
+кото́рый|ש-, אשר|which, who (relative)|p|Э́то друг, кото́рый живёт в Москве́.|זה החבר שגר במוסקבה.|This is the friend who lives in Moscow.

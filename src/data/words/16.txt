@@ -1,0 +1,149 @@
+// High-frequency words found missing when checked against a spoken-Russian frequency list
+из-за|בגלל|because of|r|Мы опозда́ли из-за про́бки.|איחרנו בגלל הפקק.|We were late because of the traffic.
+лишь|רק, בלבד|only, merely|d|Э́то лишь нача́ло.|זו רק ההתחלה.|This is only the beginning.
+что́-нибудь|משהו (כלשהו)|anything, something|p|Хо́чешь что́-нибудь вы́пить?|רוצה לשתות משהו?|Do you want something to drink?
+кто́-нибудь|מישהו (כלשהו)|anyone, someone|p|Кто́-нибудь есть до́ма?|יש מישהו בבית?|Is anyone home?
+когда́-нибудь|מתישהו, אי פעם|someday, ever|d|Ты когда́-нибудь был в Петербу́рге?|היית פעם בפטרבורג?|Have you ever been to Petersburg?
+ка́к-нибудь|איכשהו; מתישהו|somehow; sometime|d|Заходи́ ка́к-нибудь в го́сти.|קפוץ מתישהו לביקור.|Drop by sometime.
+отсю́да|מכאן|from here|d|Вокза́л далеко́ отсю́да?|תחנת הרכבת רחוקה מכאן?|Is the station far from here?
+отту́да|משם|from there|d|Я то́лько что отту́да.|הרגע חזרתי משם.|I have just come from there.
+про́тив|נגד|against|r|Ты не про́тив, е́сли я откро́ю окно́?|אכפת לך אם אפתח את החלון?|Do you mind if I open the window?
+пусть|ש-, תן ל-|let (him, her, them)|x|Пусть он немно́го отдохнёт.|שינוח קצת.|Let him rest a little.
+никако́й|שום|no, none at all|p|У меня́ нет никаки́х пла́нов.|אין לי שום תוכניות.|I have no plans at all.
+вро́де|נדמה ש-, כאילו|it seems, sort of|x|Вро́де всё в поря́дке.|נדמה שהכול בסדר.|Everything seems to be fine.
+хоть|לפחות; אף על פי|at least; even though|x|Позвони́ хоть раз в неде́лю.|תתקשר לפחות פעם בשבוע.|Call at least once a week.
+пора́|הגיע הזמן|it is time|d|Уже́ по́здно, нам пора́.|כבר מאוחר, הגיע הזמן שנלך.|It is late, it is time for us to go.
+ита́к|ובכן|so, well then|x|Ита́к, что мы де́лаем?|ובכן, מה אנחנו עושים?|So, what are we doing?
+сто́лько|כל כך הרבה|so much, so many|d|У меня́ сто́лько дел!|יש לי כל כך הרבה דברים לעשות!|I have so many things to do!
+пре́жде|קודם, לפני|before, first|d|Пре́жде чем идти́, поза́втракай.|לפני שאתה הולך, תאכל ארוחת בוקר.|Before you go, have breakfast.
+зате́м|אחר כך|then, after that|d|Снача́ла суп, зате́м второ́е.|קודם מרק, אחר כך מנה עיקרית.|First soup, then the main course.
+ина́че|אחרת|otherwise|d|Поторопи́сь, ина́че опозда́ем.|תזדרז, אחרת נאחר.|Hurry up, otherwise we will be late.
+обра́тно|בחזרה|back|d|Когда́ ты е́дешь обра́тно?|מתי אתה נוסע בחזרה?|When are you going back?
+наско́лько|עד כמה|how much, as far as|d|Наско́лько я зна́ю, он до́ма.|עד כמה שאני יודע, הוא בבית.|As far as I know, he is at home.
+не́которые|כמה, אחדים|some|p|Не́которые слова́ я уже́ зна́ю.|כמה מילים אני כבר יודע.|I already know some words.
+еди́нственный|יחיד|only, sole|a|Ты мой еди́нственный друг здесь.|אתה החבר היחיד שלי כאן.|You are my only friend here.
+внутри́|בפנים|inside|d|Внутри́ тепло́ и ую́тно.|בפנים חמים ונעים.|It is warm and cozy inside.
+снару́жи|בחוץ|outside|d|Я подожду́ тебя́ снару́жи.|אחכה לך בחוץ.|I will wait for you outside.
+вокру́г|מסביב|around|d|Вокру́г до́ма большо́й сад.|מסביב לבית יש גן גדול.|There is a big garden around the house.
+ми́мо|על פני, ליד|past, by|d|Мы прошли́ ми́мо шко́лы.|עברנו ליד בית הספר.|We walked past the school.
+впереди́|מקדימה, לפנינו|ahead, in front|d|Впереди́ нас ждёт мно́го интере́сного.|לפנינו מחכים הרבה דברים מעניינים.|A lot of interesting things await us ahead.
+сза́ди|מאחור|behind, in the back|d|Сади́сь сза́ди, там бо́льше ме́ста.|שב מאחור, שם יש יותר מקום.|Sit in the back, there is more room there.
+вверх|למעלה (כיוון)|up|d|Посмотри́ вверх, там звёзды!|תסתכל למעלה, יש שם כוכבים!|Look up, there are stars!
+вниз|למטה (כיוון)|down|d|Мы спусти́лись вниз по ле́стнице.|ירדנו למטה במדרגות.|We went down the stairs.
+во́зле|ליד|near, by|r|Я живу́ во́зле па́рка.|אני גר ליד הפארק.|I live near the park.
+среди́|בין, בקרב|among|r|Среди́ нас есть врач.|יש בינינו רופא.|There is a doctor among us.
+ма́льчик|ילד, בן|boy|nm|У них роди́лся ма́льчик.|נולד להם בן.|They had a boy.
+де́вочка|ילדה|girl (child)|nf|Э́та де́вочка моя́ племя́нница.|הילדה הזאת היא האחיינית שלי.|This girl is my niece.
+моме́нт|רגע|moment|nm|Подожди́ оди́н моме́нт.|חכה רגע אחד.|Wait one moment.
+те́ло|גוף|body|nn|По́сле спо́рта боли́т всё те́ло.|אחרי ספורט כואב כל הגוף.|After sport my whole body aches.
+путь|דרך, מסלול|way, path|nm|Счастли́вого пути́!|דרך צלחה!|Have a good trip!
+кровь|דם|blood|nf|У тебя́ кровь на па́льце.|יש לך דם על האצבע.|You have blood on your finger.
+оста́вить|להשאיר|to leave (something)|v|Я оста́вил телефо́н в маши́не.|השארתי את הטלפון במכונית.|I left my phone in the car.
+испо́льзовать|להשתמש|to use|v|Ты мо́жешь испо́льзовать мой компью́тер.|אתה יכול להשתמש במחשב שלי.|You can use my computer.
+переста́ть|להפסיק|to stop (doing)|v|Переста́нь, э́то не смешно́!|תפסיק, זה לא מצחיק!|Stop it, that is not funny!
+ненави́деть|לשנוא|to hate|v|Я ненави́жу опа́здывать.|אני שונא לאחר.|I hate being late.
+насто́лько|עד כדי כך|so, to such an extent|d|Я не насто́лько голо́дный.|אני לא עד כדי כך רעב.|I am not that hungry.
+забра́ть|לאסוף, לקחת|to pick up, to take away|v|Я заберу́ тебя́ в семь.|אאסוף אותך בשבע.|I will pick you up at seven.
+быва́ть|לקרות; לבקר|to happen; to visit|v|Ничего́, тако́е быва́ет.|לא נורא, זה קורה.|Never mind, it happens.
+означа́ть|להיות משמעותו|to mean, to signify|v|Что означа́ет э́тот знак?|מה המשמעות של התמרור הזה?|What does this sign mean?
+связь|קשר; קליטה|connection; reception|nf|Здесь о́чень плоха́я связь.|יש כאן קליטה גרועה מאוד.|The reception is very bad here.
+речь|דיבור, נאום|speech|nf|О чём идёт речь?|על מה מדובר?|What is this about?
+по́вод|סיבה, הזדמנות|occasion, reason|nm|Есть по́вод вы́пить!|יש סיבה לשתות!|There is a reason for a drink!
+приня́ть|לקבל|to accept, to receive|v|Спаси́бо, что при́няли нас.|תודה שקיבלתם אותנו.|Thank you for having us.
+сло́вно|כאילו|as if|c|Он сло́вно меня́ не слы́шит.|הוא כאילו לא שומע אותי.|It is as if he doesn't hear me.
+намно́го|בהרבה|much (more)|d|Сего́дня намно́го тепле́е.|היום הרבה יותר חם.|It is much warmer today.
+наконе́ц-то|סוף סוף!|at last!|x|Наконе́ц-то ты пришёл!|סוף סוף באת!|At last you have come!
+гора́здо|הרבה יותר|far, much (more)|d|Так гора́здо лу́чше.|ככה הרבה יותר טוב.|That is far better.
+впервы́е|לראשונה|for the first time|d|Я впервы́е в Росси́и.|אני ברוסיה לראשונה.|I am in Russia for the first time.
+находи́ться|להימצא|to be located|v|Где нахо́дится туале́т?|איפה נמצאים השירותים?|Where is the toilet?
+называ́ться|להיקרא|to be called|v|Как называ́ется э́то блю́до?|איך קוראים למנה הזאת?|What is this dish called?
+вполне́|בהחלט, לגמרי|quite, fully|d|Э́то вполне́ возмо́жно.|זה בהחלט אפשרי.|That is quite possible.
+уда́ться|להצליח (למישהו)|to succeed, to manage|v|Мне удало́сь купи́ть биле́ты.|הצלחתי לקנות כרטיסים.|I managed to buy tickets.
+суд|בית משפט|court|nm|Де́ло пошло́ в суд.|העניין הגיע לבית המשפט.|The matter went to court.
+непра́вильный|לא נכון|wrong|a|Э́то непра́вильный а́дрес.|זו כתובת לא נכונה.|This is the wrong address.
+необходи́мый|הכרחי|necessary|a|Возьми́ то́лько необходи́мые ве́щи.|קח רק את הדברים ההכרחיים.|Take only the necessary things.
+наро́д|עם; אנשים|people, nation|nm|На у́лице мно́го наро́ду.|יש הרבה אנשים ברחוב.|There are a lot of people in the street.
+попа́сть|להגיע; לפגוע|to get to; to hit|v|Как попа́сть в центр?|איך מגיעים למרכז?|How do I get to the center?
+вы́ход|יציאה|exit|nm|Где здесь вы́ход?|איפה כאן היציאה?|Where is the exit here?
+вход|כניסה|entrance|nm|Вход с друго́й стороны́.|הכניסה מהצד השני.|The entrance is on the other side.
+во́все|בכלל (לא)|at all|d|Я во́все не уста́л.|אני בכלל לא עייף.|I am not tired at all.
+вы́яснить|לברר|to find out|v|На́до вы́яснить, когда́ по́езд.|צריך לברר מתי הרכבת.|We need to find out when the train is.
+информа́ция|מידע|information|nf|Где мо́жно получи́ть информа́цию?|איפה אפשר לקבל מידע?|Where can I get information?
+ра́зница|הבדל|difference|nf|Кака́я ра́зница ме́жду ни́ми?|מה ההבדל ביניהם?|What is the difference between them?
+винова́тый|אשם|guilty, to blame|a,t:short|Прости́, я винова́т.|סליחה, אני אשם.|Sorry, it is my fault.
+поско́льку|מכיוון ש-|since, because|c|Поско́льку идёт дождь, оста́немся до́ма.|מכיוון שיורד גשם, נישאר בבית.|Since it is raining, we will stay at home.
+шаг|צעד|step|nm|Э́то о́чень ва́жный шаг.|זה צעד חשוב מאוד.|This is a very important step.
+отпусти́ть|לשחרר|to let go|v|Отпусти́ мою́ ру́ку.|תעזוב את היד שלי.|Let go of my hand.
+доказа́ть|להוכיח|to prove|v|Я могу́ э́то доказа́ть.|אני יכול להוכיח את זה.|I can prove it.
+большинство́|רוב|majority|nn|Большинство́ люде́й так ду́мает.|רוב האנשים חושבים כך.|Most people think so.
+отда́ть|לתת, להחזיר|to give away, to give back|v|Я отда́м тебе́ де́ньги за́втра.|אתן לך את הכסף מחר.|I will give you the money tomorrow.
+бежа́ть|לרוץ (עכשיו, בכיוון אחד)|to run (right now)|v|Прости́, мне на́до бежа́ть!|סליחה, אני חייב לרוץ!|Sorry, I have to run!
+роль|תפקיד|role|nf|Э́то не игра́ет ро́ли.|זה לא משחק תפקיד.|That doesn't matter.
+разгова́ривать|לשוחח|to talk, to converse|v|Мы до́лго разгова́ривали.|שוחחנו הרבה זמן.|We talked for a long time.
+дире́ктор|מנהל|director|nm|Мне на́до поговори́ть с дире́ктором.|אני צריך לדבר עם המנהל.|I need to talk to the director.
+приходи́ться|להיאלץ|to have to|v|Мне прихо́дится мно́го рабо́тать.|אני נאלץ לעבוד הרבה.|I have to work a lot.
+едва́|בקושי|barely|d|Я едва́ успе́л на по́езд.|בקושי הספקתי לרכבת.|I barely made the train.
+мозг|מוח|brain|nm|У меня́ мозг уже́ не рабо́тает.|המוח שלי כבר לא עובד.|My brain is not working any more.
+ложь|שקר|a lie|nf|Я не люблю́ ложь.|אני לא אוהב שקר.|I don't like lies.
+взгляну́ть|להציץ, להעיף מבט|to take a look|v|Мо́жно мне взгляну́ть?|אפשר להציץ?|May I take a look?
+класс|כיתה; (סלנג) מגניב|class; (slang) cool|nm|Сын у́чится в пя́том кла́ссе.|הבן לומד בכיתה ה'.|My son is in the fifth grade.
+факт|עובדה|fact|nm|Э́то о́чень интере́сный факт.|זו עובדה מעניינת מאוד.|That is a very interesting fact.
+укра́сть|לגנוב|to steal|v|У меня́ укра́ли кошелёк.|גנבו לי את הארנק.|My wallet was stolen.
+лу́чший|הטוב ביותר|best|a|Э́то лу́чший день в мое́й жи́зни.|זה היום הכי טוב בחיי.|This is the best day of my life.
+знак|סימן; תמרור|sign|nm|Э́то хоро́ший знак.|זה סימן טוב.|That is a good sign.
+ку́ча|ערימה; המון|heap; loads of|nf,slang|У меня́ ку́ча рабо́ты.|יש לי המון עבודה.|I have loads of work.
+небольшо́й|קטן, לא גדול|small, not big|a|У нас небольша́я кварти́ра.|יש לנו דירה לא גדולה.|We have a small apartment.
+два́жды|פעמיים|twice|d|Я звони́л тебе́ два́жды.|התקשרתי אליך פעמיים.|I called you twice.
+оказа́ться|להתברר; למצוא את עצמך|to turn out|v|Оказа́лось, что мы сосе́ди!|התברר שאנחנו שכנים!|It turned out that we are neighbors!
+взгляд|מבט; דעה|look, glance; view|nm|На пе́рвый взгляд всё про́сто.|במבט ראשון הכול פשוט.|At first glance everything is simple.
+систе́ма|מערכת|system|nf|Систе́ма сего́дня не рабо́тает.|המערכת לא עובדת היום.|The system is not working today.
+результа́т|תוצאה|result|nm|Я дово́лен результа́том.|אני מרוצה מהתוצאה.|I am pleased with the result.
+зда́ние|בניין|building|nn|Э́то о́чень ста́рое зда́ние.|זה בניין ישן מאוד.|This is a very old building.
+называ́ть|לקרוא (בשם), לכנות|to call, to name|v|Друзья́ называ́ют меня́ Да́ня.|החברים קוראים לי דניה.|My friends call me Danya.
+зря|לשווא, סתם|in vain, for nothing|d|Ты зря волну́ешься.|אתה דואג סתם.|You are worrying for nothing.
+полице́йский|שוטר|policeman|nm|Спроси́ доро́гу у полице́йского.|תשאל את השוטר איך להגיע.|Ask the policeman the way.
+всё-таки|בכל זאת|still, after all|d|Я всё-таки пойду́.|אני בכל זאת אלך.|I will go after all.
+судьба́|גורל|fate|nf|Зна́чит, э́то судьба́.|אז זה הגורל.|So it is fate.
+вы́звать|להזמין, לקרוא ל-|to call (a taxi, a doctor)|v|Я сейча́с вы́зову такси́.|אני מזמין עכשיו מונית.|I will call a taxi now.
+вариа́нт|אפשרות|option|nm|Есть друго́й вариа́нт?|יש אפשרות אחרת?|Is there another option?
+положе́ние|מצב, מעמד|position, situation|nn|Мы в тру́дном положе́нии.|אנחנו במצב קשה.|We are in a difficult position.
+геро́й|גיבור|hero|nm|Ты мой геро́й!|אתה הגיבור שלי!|You are my hero!
+чу́до|נס, פלא|miracle|nn|Э́то про́сто чу́до!|זה פשוט נס!|It is simply a miracle!
+оте́ль|מלון|hotel|nm|Мы живём в оте́ле у мо́ря.|אנחנו גרים במלון ליד הים.|We are staying in a hotel by the sea.
+вспо́мнить|להיזכר|to recall|v|Я не могу́ вспо́мнить его́ и́мя.|אני לא מצליח להיזכר בשם שלו.|I can't recall his name.
+срок|מועד, תקופה|deadline, term|nm|У прое́кта коро́ткий срок.|לפרויקט יש מועד קצר.|The project has a short deadline.
+извиня́ться|להתנצל|to apologize|v|Не на́до извиня́ться.|לא צריך להתנצל.|There is no need to apologize.
+дух|רוח|spirit|nm|Не па́дай ду́хом!|אל תאבד את הרוח!|Don't lose heart!
+страх|פחד|fear|nm|Я дрожу́ от стра́ха.|אני רועד מפחד.|I am shaking with fear.
+горди́ться|להתגאות|to be proud|v|Я о́чень горжу́сь тобо́й.|אני גאה בך מאוד.|I am very proud of you.
+следи́ть|להשגיח, לעקוב|to keep an eye on, to follow|v|Следи́ за детьми́, пожа́луйста.|תשגיח על הילדים, בבקשה.|Keep an eye on the children, please.
+призна́ть|להודות, להכיר ב-|to admit|v|Призна́ю, я был не прав.|אני מודה, טעיתי.|I admit I was wrong.
+назва́ние|שם (של דבר)|name, title|nn|Како́е назва́ние у э́того фи́льма?|מה השם של הסרט הזה?|What is the title of this film?
+со́бственный|משלו, עצמי|own|a|У неё со́бственный би́знес.|יש לה עסק משלה.|She has her own business.
+ожида́ть|לצפות|to expect|v|Я э́того не ожида́л!|לא ציפיתי לזה!|I did not expect that!
+сумасше́дший|משוגע|crazy|a|Ты про́сто сумасше́дший!|אתה פשוט משוגע!|You are simply crazy!
+созда́ть|ליצור, להקים|to create|v|Мы хоти́м созда́ть семью́.|אנחנו רוצים להקים משפחה.|We want to start a family.
+по́льза|תועלת|benefit, use|nf|От э́того нет никако́й по́льзы.|אין מזה שום תועלת.|There is no benefit in that at all.
+прое́кт|פרויקט|project|nm|Мы рабо́таем над но́вым прое́ктом.|אנחנו עובדים על פרויקט חדש.|We are working on a new project.
+переры́в|הפסקה|break|nm|Дава́й сде́лаем переры́в.|בוא נעשה הפסקה.|Let's take a break.
+до́ктор|דוקטור, רופא|doctor|nm|До́ктор, что со мной?|דוקטור, מה יש לי?|Doctor, what is wrong with me?
+дво́е|שניים (אנשים)|two (people)|m|Нас бу́дет дво́е.|נהיה שניים.|There will be two of us.
+вечери́нка|מסיבה|party|nf|В суббо́ту у нас вечери́нка.|בשבת יש אצלנו מסיבה.|We are having a party on Saturday.
+заба́вный|משעשע|amusing|a|Како́й заба́вный щено́к!|איזה גור משעשע!|What an amusing puppy!
+потряса́ющий|מדהים|amazing|a|Како́й потряса́ющий вид!|איזה נוף מדהים!|What an amazing view!
+великоле́пный|נהדר, מפואר|magnificent|a|У́жин был великоле́пный.|ארוחת הערב הייתה נהדרת.|The dinner was magnificent.
+невероя́тный|לא ייאמן|incredible|a|Э́то невероя́тная исто́рия.|זה סיפור לא ייאמן.|That is an incredible story.
+удиви́тельный|מפליא, מיוחד|surprising, amazing|a|Она́ удиви́тельный челове́к.|היא אדם מיוחד במינו.|She is an amazing person.
+идеа́льный|מושלם|ideal, perfect|a|Э́то идеа́льное ме́сто для пикника́.|זה מקום מושלם לפיקניק.|This is the perfect place for a picnic.
+реа́льный|אמיתי, מציאותי|real|a|Э́то реа́льная исто́рия.|זה סיפור אמיתי.|This is a real story.
+осо́бый|מיוחד|special|a|Э́то осо́бый слу́чай.|זה מקרה מיוחד.|This is a special case.
+несча́стный|אומלל|unhappy|a|Почему́ ты тако́й несча́стный?|למה אתה כל כך אומלל?|Why are you so unhappy?
+прия́тель|חבר, מכר|pal, friend|nm|Э́то мой ста́рый прия́тель.|זה חבר ותיק שלי.|This is my old pal.
+стари́к|זקן|old man|nm|Стари́к сиди́т на скаме́йке.|הזקן יושב על הספסל.|The old man is sitting on the bench.
+щено́к|גור כלבים|puppy|nm|Де́ти давно́ хотя́т щенка́.|הילדים כבר מזמן רוצים גור.|The children have wanted a puppy for a long time.
+племя́нница|אחיינית|niece|nf|Моя́ племя́нница хо́дит в шко́лу.|האחיינית שלי הולכת לבית הספר.|My niece goes to school.
+племя́нник|אחיין|nephew|nm|Мой племя́нник лю́бит футбо́л.|האחיין שלי אוהב כדורגל.|My nephew loves football.
+дово́льный|מרוצה|pleased, satisfied|a,t:short|Я о́чень дово́лен пода́рком.|אני מרוצה מאוד מהמתנה.|I am very pleased with the present.
+согла́сен|מסכים|agreed, I agree|a,t:short|Я с тобо́й согла́сен.|אני מסכים איתך.|I agree with you.
+прав|צודק|right (correct)|a,t:short|Ты, как всегда́, права́.|את, כמו תמיד, צודקת.|You are right, as always.
+бу́ду|אהיה (עתיד של "להיות")|I will be|v,t:future|За́втра я бу́ду до́ма.|מחר אהיה בבית.|Tomorrow I will be at home.

@@ -1,0 +1,108 @@
+// Verbs: movement, talking, daily routine, getting things done
+ходи́ть|ללכת (באופן קבוע)|to go on foot (regularly)|v,t:go-multi|Я хожу́ на рабо́ту пешко́м.|אני הולך לעבודה ברגל.|I walk to work.
+е́здить|לנסוע (באופן קבוע)|to go by vehicle (regularly)|v|Мы ча́сто е́здим к роди́телям.|אנחנו נוסעים הרבה להורים.|We often go to my parents'.
+бе́гать|לרוץ|to run|v|По утра́м я бе́гаю в па́рке.|בבקרים אני רץ בפארק.|In the mornings I run in the park.
+лете́ть|לטוס|to fly|v|За́втра мы лети́м в Москву́.|מחר אנחנו טסים למוסקבה.|Tomorrow we are flying to Moscow.
+пла́вать|לשחות|to swim|v|Ты уме́ешь пла́вать?|אתה יודע לשחות?|Can you swim?
+прие́хать|להגיע (ברכב)|to arrive (by vehicle)|v|Когда́ вы прие́дете?|מתי תגיעו?|When will you arrive?
+уе́хать|לנסוע, לעזוב|to leave (by vehicle)|v|Они́ уе́хали вчера́ ве́чером.|הם נסעו אתמול בערב.|They left last night.
+уйти́|ללכת, לעזוב|to leave (on foot)|v|Он уже́ ушёл домо́й.|הוא כבר הלך הביתה.|He has already gone home.
+вы́йти|לצאת|to go out|v|Я вы́йду че́рез пять мину́т.|אצא בעוד חמש דקות.|I will come out in five minutes.
+войти́|להיכנס|to enter|v|Он вошёл в ко́мнату.|הוא נכנס לחדר.|He entered the room.
+зайти́|לקפוץ לביקור|to drop in|v|Я зайду́ к вам за́втра.|אקפוץ אליכם מחר.|I will drop by tomorrow.
+верну́ться|לחזור|to return|v|Когда́ ты вернёшься?|מתי תחזור?|When will you be back?
+оста́ться|להישאר|to stay|v|Оста́нься ещё на час!|תישאר עוד שעה!|Stay for another hour!
+гуля́ть|לטייל|to walk, to stroll|v|Мы гуля́ем с соба́кой.|אנחנו מטיילים עם הכלב.|We are walking the dog.
+путеше́ствовать|לטייל בעולם|to travel|v|Я о́чень люблю́ путеше́ствовать.|אני מאוד אוהב לטייל.|I love traveling very much.
+встре́тить|לפגוש|to meet|v|Я встре́тил её в метро́.|פגשתי אותה במטרו.|I met her in the metro.
+встре́титься|להיפגש|to meet up|v|Дава́й встре́тимся за́втра ве́чером.|בוא ניפגש מחר בערב.|Let's meet tomorrow evening.
+познако́миться|להכיר (מישהו)|to get acquainted|v|Мы познако́мились в Изра́иле.|הכרנו בישראל.|We met in Israel.
+рассказа́ть|לספר|to tell|v|Расскажи́, как прошёл день.|ספר איך עבר היום.|Tell me how the day went.
+объясни́ть|להסביר|to explain|v|Объясни́ мне ещё раз.|תסביר לי עוד פעם.|Explain it to me once more.
+показа́ть|להראות|to show|v|Покажи́ мне фотогра́фии.|תראה לי את התמונות.|Show me the photos.
+повтори́ть|לחזור על דברים|to repeat|v|Повтори́те ещё раз, пожа́луйста.|חזרו על זה שוב, בבקשה.|Repeat that once more, please.
+перевести́|לתרגם|to translate|v|Переведи́, что сказа́ла ба́бушка.|תתרגמי מה סבתא אמרה.|Translate what grandma said.
+зна́чить|פירושו, להיות משמעותו|to mean|v|Что зна́чит э́то сло́во?|מה פירוש המילה הזאת?|What does this word mean?
+звать|לקרוא (בשם)|to call (by name)|v,t:zovut|Меня́ зову́т Дани́эль.|קוראים לי דניאל.|My name is Daniel.
+обеща́ть|להבטיח|to promise|v|Я обеща́ю, что приду́.|אני מבטיח שאבוא.|I promise that I will come.
+предложи́ть|להציע|to offer, to suggest|v|Он предложи́л мне по́мощь.|הוא הציע לי עזרה.|He offered me help.
+пригласи́ть|להזמין|to invite|v|Нас пригласи́ли на сва́дьбу.|הזמינו אותנו לחתונה.|We were invited to a wedding.
+согласи́ться|להסכים|to agree|v|Она́ сра́зу согласи́лась.|היא הסכימה מיד.|She agreed right away.
+спо́рить|להתווכח|to argue|v|Не на́до спо́рить с ма́мой.|לא צריך להתווכח עם אמא.|There is no need to argue with mom.
+реши́ть|להחליט; לפתור|to decide; to solve|v|Мы реши́ли оста́ться до́ма.|החלטנו להישאר בבית.|We decided to stay at home.
+вы́брать|לבחור|to choose|v|Ты уже́ вы́брал пода́рок?|כבר בחרת מתנה?|Have you chosen a present yet?
+иска́ть|לחפש|to look for|v|Я ищу́ свой телефо́н.|אני מחפש את הטלפון שלי.|I am looking for my phone.
+найти́|למצוא|to find|v|Я не могу́ найти́ ключи́.|אני לא מוצא את המפתחות.|I can't find the keys.
+потеря́ть|לאבד|to lose|v|Я потеря́л кошелёк.|איבדתי את הארנק.|I lost my wallet.
+получи́ть|לקבל|to receive|v|Ты получи́ла моё сообще́ние?|קיבלת את ההודעה שלי?|Did you get my message?
+отпра́вить|לשלוח|to send|v|Я отпра́вил тебе́ фо́то.|שלחתי לך תמונה.|I sent you a photo.
+принести́|להביא (ברגל)|to bring|v|Принеси́ мне воды́, пожа́луйста.|תביא לי מים, בבקשה.|Bring me some water, please.
+привезти́|להביא (ברכב)|to bring (by vehicle)|v|Что тебе́ привезти́ из Изра́иля?|מה להביא לך מישראל?|What shall I bring you from Israel?
+поста́вить|להעמיד, לשים|to put (upright)|v|Поста́вь ча́йник, пожа́луйста.|תשים קומקום, בבקשה.|Put the kettle on, please.
+держа́ть|להחזיק|to hold|v|Держи́ су́мку, пожа́луйста.|תחזיק את התיק, בבקשה.|Hold the bag, please.
+бро́сить|לזרוק; להפסיק|to throw; to quit|v|Он бро́сил кури́ть.|הוא הפסיק לעשן.|He quit smoking.
+упа́сть|ליפול|to fall|v|Осторо́жно, не упади́!|זהירות, אל תיפול!|Careful, don't fall!
+подня́ть|להרים|to lift, to raise|v|Дава́йте подни́мем бока́лы!|בואו נרים כוסות!|Let's raise our glasses!
+стро́ить|לבנות|to build|v|Они́ стро́ят но́вый дом.|הם בונים בית חדש.|They are building a new house.
+слома́ть|לשבור|to break|v|Я слома́л твою́ ча́шку, прости́.|שברתי את הספל שלך, סליחה.|I broke your cup, sorry.
+почини́ть|לתקן|to repair|v|Па́па почини́л маши́ну.|אבא תיקן את המכונית.|Dad repaired the car.
+нача́ть|להתחיל|to begin|v|Дава́й начнём с нача́ла.|בוא נתחיל מההתחלה.|Let's start from the beginning.
+зако́нчить|לסיים|to finish|v|Я зако́нчил рабо́ту в шесть.|סיימתי לעבוד בשש.|I finished work at six.
+продолжа́ть|להמשיך|to continue|v|Продолжа́й, я тебя́ слу́шаю.|תמשיך, אני מקשיב לך.|Go on, I am listening to you.
+успе́ть|להספיק|to make it in time|v|Мы не успе́ем на по́езд.|לא נספיק לרכבת.|We won't make the train.
+опозда́ть|לאחר|to be late|v|Прости́те, я немно́го опозда́л.|סליחה, קצת איחרתי.|Sorry, I am a little late.
+торопи́ться|למהר|to hurry|v|Не торопи́сь, у нас есть вре́мя.|אל תמהר, יש לנו זמן.|Don't hurry, we have time.
+стара́ться|להשתדל|to try hard|v|Я стара́юсь говори́ть пра́вильно.|אני משתדל לדבר נכון.|I try to speak correctly.
+пыта́ться|לנסות|to attempt|v|Я пыта́юсь тебя́ поня́ть.|אני מנסה להבין אותך.|I am trying to understand you.
+уме́ть|לדעת (לעשות משהו)|to know how to|v|Она́ уме́ет хорошо́ гото́вить.|היא יודעת לבשל טוב.|She knows how to cook well.
+учи́ться|ללמוד (להיות תלמיד)|to study (be a student)|v|Мой брат у́чится в университе́те.|אחי לומד באוניברסיטה.|My brother studies at university.
+изуча́ть|ללמוד (תחום)|to study (a subject)|v|Я изуча́ю ру́сский уже́ год.|אני לומד רוסית כבר שנה.|I have been studying Russian for a year.
+узна́ть|לגלות; לזהות|to find out; to recognize|v|Я тебя́ не узна́л!|לא זיהיתי אותך!|I did not recognize you!
+поня́ть|להבין (לתפוס)|to understand (grasp)|v|Я ничего́ не по́нял.|לא הבנתי כלום.|I did not understand anything.
+заме́тить|לשים לב|to notice|v|Ты заме́тил её но́вую причёску?|שמת לב לתסרוקת החדשה שלה?|Did you notice her new hairstyle?
+слы́шать|לשמוע|to hear|v|Ты меня́ хорошо́ слы́шишь?|אתה שומע אותי טוב?|Can you hear me well?
+уви́деть|לראות (לזכות לראות)|to see, to catch sight of|v|Я хочу́ уви́деть Москву́.|אני רוצה לראות את מוסקבה.|I want to see Moscow.
+посмотре́ть|להסתכל, לראות|to take a look, to watch|v|Дава́й посмо́трим фильм.|בוא נראה סרט.|Let's watch a film.
+позвони́ть|להתקשר (פעם אחת)|to call (once)|v|Позвони́ мне, когда́ прие́дешь.|תתקשר אליי כשתגיע.|Call me when you arrive.
+написа́ть|לכתוב (לסיים)|to write (finish)|v|Напиши́ мне, когда́ бу́дешь до́ма.|תכתוב לי כשתהיה בבית.|Text me when you are home.
+сде́лать|לעשות (לסיים)|to do (complete)|v,t:aspect|Я уже́ всё сде́лал.|כבר עשיתי הכול.|I have already done everything.
+съесть|לאכול (הכול)|to eat up|v|Кто съел мой торт?|מי אכל את העוגה שלי?|Who ate my cake?
+вы́пить|לשתות (עד הסוף)|to drink up|v|Дава́йте вы́пьем за хозя́йку!|בואו נשתה לחיי בעלת הבית!|Let's drink to the hostess!
+пригото́вить|להכין (אוכל)|to cook, to prepare|v|Что тебе́ пригото́вить на у́жин?|מה להכין לך לארוחת ערב?|What shall I cook you for dinner?
+покупа́ть|לקנות (באופן קבוע)|to buy (regularly)|v|Мы покупа́ем хлеб в э́том магази́не.|אנחנו קונים לחם בחנות הזאת.|We buy bread in this shop.
+продава́ть|למכור|to sell|v|Здесь продаю́т цветы́.|כאן מוכרים פרחים.|They sell flowers here.
+плати́ть|לשלם|to pay|v|Сего́дня плачу́ я.|היום אני משלם.|Today I am paying.
+сто́ить|לעלות (מחיר)|to cost|v|Ско́лько сто́ит оди́н биле́т?|כמה עולה כרטיס אחד?|How much does one ticket cost?
+меня́ть|להחליף, לשנות|to change|v|Я не хочу́ ничего́ меня́ть.|אני לא רוצה לשנות כלום.|I don't want to change anything.
+счита́ть|לספור; לחשוב ש-|to count; to consider|v|Я счита́ю, что ты прав.|אני חושב שאתה צודק.|I think that you are right.
+петь|לשיר|to sing|v|Ба́бушка о́чень краси́во поёт.|סבתא שרה יפה מאוד.|Grandma sings very beautifully.
+танцева́ть|לרקוד|to dance|v|Пойдём танцева́ть со мной!|בואי לרקוד איתי!|Come dance with me!
+рисова́ть|לצייר|to draw|v|До́чка лю́бит рисова́ть.|הבת אוהבת לצייר.|My daughter loves to draw.
+кури́ть|לעשן|to smoke|v|Вы ку́рите и́ли нет?|אתם מעשנים או לא?|Do you smoke or not?
+жени́ться|להתחתן (על גבר)|to get married (of a man)|v|Мой брат же́нится в ию́не.|אחי מתחתן ביוני.|My brother is getting married in June.
+роди́ться|להיוולד|to be born|v|Где ты роди́лся?|איפה נולדת?|Where were you born?
+умере́ть|למות|to die|v|Де́душка у́мер два го́да наза́д.|סבא נפטר לפני שנתיים.|Grandpa died two years ago.
+расти́|לגדול|to grow|v|Де́ти так бы́стро расту́т!|ילדים גדלים כל כך מהר!|Children grow so fast!
+жа́рить|לטגן|to fry|v|Я жа́рю карто́шку с лу́ком.|אני מטגן תפוחי אדמה עם בצל.|I am frying potatoes with onion.
+вари́ть|לבשל (במים)|to boil, to cook|v|Ма́ма ва́рит суп.|אמא מבשלת מרק.|Mom is cooking soup.
+печь|לאפות|to bake|v|Ба́бушка печёт пироги́.|סבתא אופה פשטידות.|Grandma is baking pies.
+стира́ть|לכבס|to do laundry|v|Мне на́до стира́ть оде́жду.|אני צריך לכבס בגדים.|I need to wash my clothes.
+убира́ть|לנקות, לסדר|to tidy up|v|По суббо́там мы убира́ем кварти́ру.|בשבתות אנחנו מנקים את הדירה.|On Saturdays we clean the apartment.
+одева́ться|להתלבש|to get dressed|v|Одева́йся тепле́е, на у́лице хо́лодно.|תתלבש חם יותר, קר בחוץ.|Dress warmer, it is cold outside.
+просну́ться|להתעורר|to wake up|v|Я просну́лся о́чень ра́но.|התעוררתי מוקדם מאוד.|I woke up very early.
+ложи́ться|לשכב, ללכת לישון|to lie down, to go to bed|v|Я ложу́сь спать в оди́ннадцать.|אני הולך לישון באחת עשרה.|I go to bed at eleven.
+лежа́ть|לשכב|to lie|v|Ко́шка лежи́т на дива́не.|החתולה שוכבת על הספה.|The cat is lying on the sofa.
+сесть|לשבת, להתיישב|to sit down (once)|v|Мо́жно здесь сесть?|אפשר לשבת כאן?|May I sit here?
+встать|לקום (פעם אחת)|to get up (once)|v|Я встал в шесть утра́.|קמתי בשש בבוקר.|I got up at six in the morning.
+отдохну́ть|לנוח (קצת)|to have a rest|v|Тебе́ на́до отдохну́ть.|אתה צריך לנוח.|You need to rest.
+нача́ться|להתחיל (מעצמו)|to start (by itself)|v|Конце́рт начнётся в семь.|הקונצרט יתחיל בשבע.|The concert will start at seven.
+ко́нчиться|להיגמר|to run out, to end|v|У нас ко́нчилось молоко́.|נגמר לנו החלב.|We have run out of milk.
+случи́ться|לקרות|to happen|v|Что у тебя́ случи́лось?|מה קרה לך?|What happened to you?
+каза́ться|להיראות, להידמות|to seem|v|Мне ка́жется, ты прав.|נראה לי שאתה צודק.|It seems to me that you are right.
+хоте́ться|להתחשק|to feel like|v,t:mne|Мне хо́чется спать.|מתחשק לי לישון.|I feel like sleeping.
+получи́ться|להצליח, לצאת טוב|to work out|v|У тебя́ всё полу́чится!|הכול יצליח לך!|Everything will work out for you!
+приходи́ть|לבוא (באופן קבוע)|to come (regularly)|v|Приходи́те к нам ча́ще!|בואו אלינו לעתים קרובות יותר!|Come and see us more often!
+дава́ть|לתת (באופן קבוע)|to give (regularly)|v|Ба́бушка всегда́ даёт нам конфе́ты.|סבתא תמיד נותנת לנו סוכריות.|Grandma always gives us candy.
+брать|לקחת (באופן קבוע)|to take (regularly)|v|Я всегда́ беру́ с собо́й во́ду.|אני תמיד לוקח איתי מים.|I always take water with me.
+спра́шивать|לשאול (באופן קבוע)|to ask (regularly)|v|Ма́ма ча́сто спра́шивает о тебе́.|אמא שואלת עליך הרבה.|Mom often asks about you.
+помога́ть|לעזור (באופן קבוע)|to help (regularly)|v|Я помога́ю жене́ на ку́хне.|אני עוזר לאשתי במטבח.|I help my wife in the kitchen.

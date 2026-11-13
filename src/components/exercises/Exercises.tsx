@@ -107,7 +107,7 @@ function Options({
       {options.map((o) => {
         const state = picked === null ? '' : o.correct ? 'right' : o.key === picked ? 'wrong' : 'dim';
         return (
-          <button key={o.key} type="button" className={cx('option', state)} disabled={locked || picked !== null} onClick={() => onPick(o)}>
+          <button key={o.key} type="button" className={cx('option', state)} aria-disabled={locked || picked !== null} onClick={() => { if (!locked && picked === null) onPick(o); }}>
             {russian ? <Ru text={o.text} /> : o.text}
           </button>
         );
@@ -221,13 +221,13 @@ export function Build({ ex, quiet, locked, onResult }: Props<'build'>) {
       </div>
       <div className="tile-bank" dir="ltr">
         {ex.tiles.map((t, i) => (
-          <button key={i} type="button" className={cx('tile', chosen.includes(i) && 'used')} disabled={chosen.includes(i)} onClick={() => add(i)}>
+          <button key={i} type="button" className={cx('tile', chosen.includes(i) && 'used')} aria-disabled={chosen.includes(i)} onClick={() => { if (!chosen.includes(i)) add(i); }}>
             <Ru text={t} />
           </button>
         ))}
       </div>
       <div className="ex-footer">
-        <button type="button" className="btn primary" disabled={chosen.length < 2 || !!verdict} onClick={check}>
+        <button type="button" className="btn primary" aria-disabled={chosen.length < 2 || !!verdict} onClick={() => { if (chosen.length >= 2 && !verdict) check(); }}>
           בדוק
         </button>
       </div>
@@ -374,10 +374,10 @@ export function Speak({ ex, locked, onResult }: Props<'speak'>) {
       <div className="speak-actions">
         {phase === 'manual' ? (
           <div className="grades two">
-            <button type="button" className="grade hard" disabled={locked} onClick={() => onResult({ grade: Rating.Hard, correct: true })}>
+            <button type="button" className="grade hard" aria-disabled={locked} onClick={() => onResult({ grade: Rating.Hard, correct: true })}>
               קשה לי
             </button>
-            <button type="button" className="grade good" disabled={locked} onClick={() => onResult({ grade: Rating.Good, correct: true })}>
+            <button type="button" className="grade good" aria-disabled={locked} onClick={() => onResult({ grade: Rating.Good, correct: true })}>
               אמרתי בקול
             </button>
           </div>
@@ -386,8 +386,8 @@ export function Speak({ ex, locked, onResult }: Props<'speak'>) {
             type="button"
             className={cx('big-round mic', listening && 'live')}
             aria-label={listening ? 'עצור' : 'התחל לדבר'}
-            disabled={locked}
-            onClick={() => (listening ? handle.current?.stop() : start())}
+            aria-disabled={locked}
+            onClick={() => { if (!locked) (listening ? handle.current?.stop() : start()); }}
           >
             <Icon name="mic" size={40} />
           </button>
@@ -395,7 +395,7 @@ export function Speak({ ex, locked, onResult }: Props<'speak'>) {
         <div className="hint">{listening ? 'מקשיב...' : phase === 'manual' ? '' : 'הקש ודבר'}</div>
       </div>
       <div className="ex-footer">
-        <button type="button" className="btn ghost" disabled={locked} onClick={() => onResult({ grade: null, correct: false, skipped: true })}>
+        <button type="button" className="btn ghost" aria-disabled={locked} onClick={() => onResult({ grade: null, correct: false, skipped: true })}>
           לא עכשיו
         </button>
       </div>

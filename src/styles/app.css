@@ -1595,3 +1595,14 @@ p {
   direction: ltr;
   unicode-bidi: isolate;
 }
+
+/* Locked buttons stay tappable so a tap anywhere can move on; they just look inactive. */
+.btn[aria-disabled='true'].primary {
+  background: var(--surface-2);
+  color: var(--muted);
+}
+
+.grade[aria-disabled='true'],
+.btn.ghost[aria-disabled='true'] {
+  opacity: 0.4;
+}

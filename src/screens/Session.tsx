@@ -1,7 +1,8 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { Build, Flash, Intro, Listen, Mcq, Speak, type ExResult } from '../components/exercises/Exercises';
 import { cx, Icon, Ru } from '../components/ui';
-import { allWords, nextNewWord, PROPER } from '../data';
+import { renderMixed } from '../components/exercises/Exercises';
+import { allWords, nextNewWord, PROPER, TIP_BY_ID } from '../data';
 import type { Word } from '../data/parse';
 import { flashFor, makeExercise, type Exercise } from '../lib/exercises';
 import { accuracy, applyAnswer, DAILY_GOAL, levelFor, levelTitle, rollDay, xpFor } from '../lib/gamification';
@@ -154,7 +155,6 @@ export function Session() {
     }
     setPraise(PRAISE[Math.floor(Math.random() * PRAISE.length)]);
     setFb({ correct: r.correct, xp });
-    if (r.correct) timer.current = setTimeout(advance, ex.type === 'build' || ex.type === 'speak' ? 1900 : 1100);
   };
 
   useEffect(() => {
@@ -177,7 +177,13 @@ export function Session() {
   const sentence = ex && (ex.type === 'build' || ex.type === 'speak' || (ex.type === 'listen' && ex.unit === 'sentence')) ? ex.word.sentence : null;
 
   return (
-    <div className="screen session">
+    <div
+      className="screen session"
+      onClick={(e) => {
+        // Tapping anywhere after an answer moves on; the top bar keeps its own buttons.
+        if (fb && !(e.target as HTMLElement).closest('.session-top')) advance();
+      }}
+    >
       <div className="session-top">
         <button type="button" className="icon-btn" aria-label="סיום" onClick={() => back()}>
           <Icon name="x" />
@@ -210,7 +216,7 @@ export function Session() {
       </div>
 
       {fb && ex && (
-        <div className={cx('sheet', fb.correct ? 'ok' : 'bad')} onClick={advance} role="status">
+        <div className={cx('sheet', fb.correct ? 'ok' : 'bad')} role="status">
           <div className="sheet-head">
             <Icon name={fb.correct ? 'check' : 'x'} size={22} />
             <span className="sheet-title">{fb.correct ? /[а-я]/i.test(praise) ? <Ru text={praise} /> : praise : 'לא בדיוק'}</span>
@@ -229,11 +235,13 @@ export function Session() {
               </>
             )}
           </div>
-          {!fb.correct && (
-            <button type="button" className="btn solid" onClick={advance}>
-              המשך
-            </button>
+          {ex.word.tip && TIP_BY_ID.get(ex.word.tip) && (
+            <div className="sheet-tip">
+              <div className="sheet-tip-title">{TIP_BY_ID.get(ex.word.tip)!.title}</div>
+              <div className="sheet-tip-body">{renderMixed(TIP_BY_ID.get(ex.word.tip)!.body)}</div>
+            </div>
           )}
+          <div className="sheet-hint">הקש על המסך כדי להמשיך</div>
         </div>
       )}
 

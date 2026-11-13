@@ -962,7 +962,31 @@ p {
 
 /* ---------- feedback sheet ---------- */
 
+.sheet-tip {
+  margin-top: 4px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: var(--accent-soft);
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.sheet-tip-title {
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 2px;
+}
+
+.sheet-hint {
+  margin-top: 6px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 13px;
+}
+
 .sheet {
+  max-height: 62dvh;
+  overflow-y: auto;
   position: fixed;
   inset-inline: 0;
   bottom: 0;
